@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Steam Launch Tracker</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <h1>Steam Launch Tracker</h1>
+          <p>热门即将推出排名、评测、在线人数和价格状态的 T-7 到 T+7 监控。</p>
+        </div>
+        <div class="controls">
+          <select id="appSelect" aria-label="选择游戏"></select>
+          <button id="refreshButton" type="button">刷新</button>
+        </div>
+      </header>
+
+      <section class="summary" id="summary"></section>
+
+      <section class="grid">
+        <article class="panel">
+          <h2>热门即将推出排名</h2>
+          <canvas id="rankChart" height="220"></canvas>
+        </article>
+        <article class="panel">
+          <h2>当前在线人数</h2>
+          <canvas id="playersChart" height="220"></canvas>
+        </article>
+        <article class="panel">
+          <h2>评测总量</h2>
+          <canvas id="reviewsChart" height="220"></canvas>
+        </article>
+        <article class="panel">
+          <h2>好评率</h2>
+          <canvas id="rateChart" height="220"></canvas>
+        </article>
+      </section>
+
+      <section class="panel">
+        <h2>最近快照</h2>
+        <div class="tableWrap">
+          <table>
+            <thead>
+              <tr>
+                <th>时间</th>
+                <th>距发售日</th>
+                <th>榜单排名</th>
+                <th>在线</th>
+                <th>评测</th>
+                <th>好评率</th>
+                <th>价格</th>
+              </tr>
+            </thead>
+            <tbody id="snapshotRows"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>

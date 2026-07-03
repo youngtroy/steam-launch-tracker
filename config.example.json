@@ -1,0 +1,26 @@
+{
+  "trackTopN": 50,
+  "country": "US",
+  "language": "english",
+  "primaryTrackSourceId": "steam_popular_upcoming",
+  "wishlistRankSourceId": "steam_top_wishlists",
+  "rankSources": [
+    {
+      "id": "steam_popular_upcoming",
+      "url": "https://store.steampowered.com/search/results/?query&start=0&count=100&dynamic_data=&sort_by=_ASC&filter=popularcomingsoon&infinite=1",
+      "label": "Steam Popular Upcoming",
+      "maxRank": 50,
+      "pageSize": 100
+    },
+    {
+      "id": "steam_top_wishlists",
+      "url": "https://store.steampowered.com/search/results/?query&start=0&count=100&dynamic_data=&sort_by=_ASC&filter=popularwishlist&infinite=1",
+      "label": "Steam Top Wishlists",
+      "maxRank": 500,
+      "pageSize": 100
+    }
+  ],
+  "windowDaysBefore": 7,
+  "windowDaysAfter": 7,
+  "requestDelayMs": 650
+}

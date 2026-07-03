@@ -1,0 +1,19 @@
+{
+  "name": "steam-launch-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Track public Steam pre/post launch signals for popular wishlisted upcoming games.",
+  "type": "module",
+  "scripts": {
+    "launch": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File launch.ps1",
+    "collect": "node src/collect.js",
+    "archive": "node src/archive.js",
+    "daily": "node src/collect.js && node src/archive.js",
+    "build:pages": "node src/build-pages.js",
+    "serve": "node src/server.js",
+    "sample": "node src/write-sample.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
