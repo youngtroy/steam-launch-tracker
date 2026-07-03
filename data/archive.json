@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": 1,
-    "archived_at": "2026-07-03T02:45:08.393Z",
+    "archived_at": "2026-07-03T04:16:54.434Z",
     "wishlist_rank_source": "steam_top_wishlists",
     "window_days_before": 7,
     "window_days_after": 7
@@ -183,7 +183,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -261,7 +261,7 @@
           "date": "2026-07-03",
           "day_offset": -6,
           "wishlist_rank": 13,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -537,7 +537,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -1245,7 +1245,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -2307,7 +2307,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -2503,7 +2503,7 @@
           "date": "2026-07-03",
           "day_offset": -6,
           "wishlist_rank": 42,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -2897,7 +2897,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -3023,7 +3023,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -3959,7 +3959,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -4321,7 +4321,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -4549,7 +4549,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -4675,7 +4675,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -4793,7 +4793,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -4837,6 +4837,124 @@
         },
         {
           "date": "2026-07-09",
+          "day_offset": 7,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        }
+      ]
+    },
+    {
+      "appid": 4738530,
+      "name": "Mandate of Galactic Empires",
+      "release_date": "2026-07-03",
+      "release_date_text": "Jul 3, 2026",
+      "detected_release_at": null,
+      "store_url": "https://store.steampowered.com/app/4738530/",
+      "pre_launch_wishlist_ranks": [
+        {
+          "date": "2026-06-26",
+          "day_offset": -7,
+          "wishlist_rank": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-06-27",
+          "day_offset": -6,
+          "wishlist_rank": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-06-28",
+          "day_offset": -5,
+          "wishlist_rank": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-06-29",
+          "day_offset": -4,
+          "wishlist_rank": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-06-30",
+          "day_offset": -3,
+          "wishlist_rank": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-01",
+          "day_offset": -2,
+          "wishlist_rank": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-02",
+          "day_offset": -1,
+          "wishlist_rank": null,
+          "captured_at": null
+        }
+      ],
+      "post_launch_review_counts": [
+        {
+          "date": "2026-07-03",
+          "day_offset": 0,
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-03T04:15:05.726Z"
+        },
+        {
+          "date": "2026-07-04",
+          "day_offset": 1,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-05",
+          "day_offset": 2,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-06",
+          "day_offset": 3,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-07",
+          "day_offset": 4,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-08",
+          "day_offset": 5,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-09",
+          "day_offset": 6,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-10",
           "day_offset": 7,
           "reviews_total": null,
           "reviews_positive": null,
@@ -5847,7 +5965,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -6734,6 +6852,124 @@
       ]
     },
     {
+      "appid": 4864560,
+      "name": "SCRIBBLE HUNT",
+      "release_date": "2026-07-11",
+      "release_date_text": "Jul 11, 2026",
+      "detected_release_at": null,
+      "store_url": "https://store.steampowered.com/app/4864560/",
+      "pre_launch_wishlist_ranks": [
+        {
+          "date": "2026-07-04",
+          "day_offset": -7,
+          "wishlist_rank": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-05",
+          "day_offset": -6,
+          "wishlist_rank": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-06",
+          "day_offset": -5,
+          "wishlist_rank": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-07",
+          "day_offset": -4,
+          "wishlist_rank": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-08",
+          "day_offset": -3,
+          "wishlist_rank": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-09",
+          "day_offset": -2,
+          "wishlist_rank": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-10",
+          "day_offset": -1,
+          "wishlist_rank": null,
+          "captured_at": null
+        }
+      ],
+      "post_launch_review_counts": [
+        {
+          "date": "2026-07-11",
+          "day_offset": 0,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-12",
+          "day_offset": 1,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-13",
+          "day_offset": 2,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-14",
+          "day_offset": 3,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-15",
+          "day_offset": 4,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-16",
+          "day_offset": 5,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-17",
+          "day_offset": 6,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-18",
+          "day_offset": 7,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        }
+      ]
+    },
+    {
       "appid": 4369490,
       "name": "Soulbound: Online",
       "release_date": "2026-07-21",
@@ -7027,7 +7263,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -7499,7 +7735,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
@@ -7617,7 +7853,7 @@
           "reviews_total": 0,
           "reviews_positive": 0,
           "reviews_negative": 0,
-          "captured_at": "2026-07-03T02:43:20.952Z"
+          "captured_at": "2026-07-03T04:15:05.726Z"
         },
         {
           "date": "2026-07-04",
