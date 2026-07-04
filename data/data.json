@@ -2,7 +2,7 @@
   "meta": {
     "schema": 1,
     "created_at": "2026-07-03T08:00:00.000Z",
-    "updated_at": "2026-07-03T04:27:24.412Z",
+    "updated_at": "2026-07-04T05:10:05.970Z",
     "sample": false,
     "track_top_n": 50,
     "primary_track_source_id": "steam_popular_upcoming",
@@ -79,7 +79,7 @@
       "appid": 1340720,
       "first_seen_at": "2026-07-03T01:56:29.571Z",
       "name": "State of Decay 3",
-      "last_seen_rank": 30,
+      "last_seen_rank": 29,
       "last_seen_source": "steam_top_wishlists",
       "type": "game",
       "developers": [
@@ -95,17 +95,17 @@
       "was_coming_soon": true,
       "last_snapshot_at": "2026-07-03T01:56:29.571Z",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 30
+        "steam_top_wishlists": 29
       }
     },
     "1368140": {
       "appid": 1368140,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Corsair Cove",
-      "last_seen_rank": 14,
+      "last_seen_rank": 15,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 14
+        "steam_popular_upcoming": 15
       },
       "type": "game",
       "developers": [
@@ -116,10 +116,10 @@
       ],
       "release_date_text": "Jul 31, 2026",
       "planned_release_date": "2026-07-31",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/cafda7c6ff9641cc9ede1823317b835a2b3f38ab/header.jpg?t=1782729919",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/cafda7c6ff9641cc9ede1823317b835a2b3f38ab/header.jpg?t=1783066075",
       "store_url": "https://store.steampowered.com/app/1368140/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "1373910": {
       "appid": 1373910,
@@ -168,7 +168,7 @@
       "appid": 1488490,
       "first_seen_at": "2026-07-03T01:56:29.571Z",
       "name": "Nivalis Nights",
-      "last_seen_rank": 38,
+      "last_seen_rank": 37,
       "last_seen_source": "steam_top_wishlists",
       "type": "game",
       "developers": [
@@ -184,7 +184,7 @@
       "was_coming_soon": true,
       "last_snapshot_at": "2026-07-03T01:56:29.571Z",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 38
+        "steam_top_wishlists": 37
       }
     },
     "1536500": {
@@ -201,20 +201,20 @@
       "appid": 1586260,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "BLACKFROST: The Long Dark 2",
-      "last_seen_rank": 76,
+      "last_seen_rank": 77,
       "last_seen_source": "steam_top_wishlists",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 76
+        "steam_top_wishlists": 77
       }
     },
     "1605850": {
       "appid": 1605850,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "ZeroSpace",
-      "last_seen_rank": 19,
+      "last_seen_rank": 23,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 19
+        "steam_popular_upcoming": 23
       },
       "type": "game",
       "developers": [
@@ -230,7 +230,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605850/e48190bb58bb1b9f218c0a220a5284661061d3cd/header.jpg?t=1782865471",
       "store_url": "https://store.steampowered.com/app/1605850/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "1687540": {
       "appid": 1687540,
@@ -326,7 +326,7 @@
       "appid": 1867240,
       "first_seen_at": "2026-07-03T01:56:29.571Z",
       "name": "WARDOGS",
-      "last_seen_rank": 44,
+      "last_seen_rank": 45,
       "last_seen_source": "steam_top_wishlists",
       "type": "game",
       "developers": [
@@ -342,7 +342,7 @@
       "was_coming_soon": true,
       "last_snapshot_at": "2026-07-03T01:56:29.571Z",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 44
+        "steam_top_wishlists": 45
       }
     },
     "1913120": {
@@ -469,10 +469,10 @@
       "appid": 2153760,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Stronghold 4",
-      "last_seen_rank": 27,
+      "last_seen_rank": 31,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 27
+        "steam_popular_upcoming": 31
       },
       "type": "game",
       "developers": [
@@ -486,16 +486,16 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153760/23c6498eb6b680d3545012dd19f75a6fcf73ebc8/header_alt_assets_1.jpg?t=1782743433",
       "store_url": "https://store.steampowered.com/app/2153760/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "2161710": {
       "appid": 2161710,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "NO LAW",
-      "last_seen_rank": 80,
+      "last_seen_rank": 82,
       "last_seen_source": "steam_top_wishlists",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 80
+        "steam_top_wishlists": 82
       }
     },
     "2165810": {
@@ -540,7 +540,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783010194",
       "store_url": "https://store.steampowered.com/app/2209900/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "2231020": {
       "appid": 2231020,
@@ -579,7 +579,7 @@
       "appid": 2244210,
       "first_seen_at": "2026-07-03T01:56:29.571Z",
       "name": "Echoes of Aincrad",
-      "last_seen_rank": 42,
+      "last_seen_rank": 41,
       "last_seen_source": "steam_top_wishlists",
       "type": "game",
       "developers": [
@@ -593,10 +593,10 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/25fb6350451b21ca824562c8d1eebe89091347cc/header.jpg?t=1781687351",
       "store_url": "https://store.steampowered.com/app/2244210/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z",
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z",
       "last_seen_rank_by_source": {
         "steam_popular_upcoming": 2,
-        "steam_top_wishlists": 42
+        "steam_top_wishlists": 41
       }
     },
     "2272360": {
@@ -626,7 +626,7 @@
       "appid": 2288340,
       "first_seen_at": "2026-07-03T01:56:29.571Z",
       "name": "ACE COMBAT 8: WINGS OF THEVE",
-      "last_seen_rank": 47,
+      "last_seen_rank": 48,
       "last_seen_source": "steam_top_wishlists",
       "type": "game",
       "developers": [
@@ -642,7 +642,7 @@
       "was_coming_soon": true,
       "last_snapshot_at": "2026-07-03T01:56:29.571Z",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 47
+        "steam_top_wishlists": 48
       }
     },
     "2318330": {
@@ -701,6 +701,31 @@
         "steam_top_wishlists": 10
       }
     },
+    "2424420": {
+      "appid": 2424420,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "Avatar Legends: The Fighting Game",
+      "last_seen_rank": 22,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 22
+      },
+      "type": "game",
+      "developers": [
+        "Gameplay Group International"
+      ],
+      "publishers": [
+        "PM Studios, Inc.",
+        "Skydance Games",
+        "Skydance Games (46084841)"
+      ],
+      "release_date_text": "Jul 23, 2026",
+      "planned_release_date": "2026-07-23",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/4c6170c42e43867a13b16b2d7431f30434d420bb/header.jpg?t=1783007456",
+      "store_url": "https://store.steampowered.com/app/2424420/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
     "2439280": {
       "appid": 2439280,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
@@ -725,10 +750,10 @@
       "appid": 2527160,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Desktop Explorer",
-      "last_seen_rank": 35,
+      "last_seen_rank": 34,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 35
+        "steam_popular_upcoming": 34
       },
       "type": "game",
       "developers": [
@@ -744,13 +769,13 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527160/b46833d5d59844beeed423eba57017414582f6d3/header.jpg?t=1783018119",
       "store_url": "https://store.steampowered.com/app/2527160/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "2569760": {
       "appid": 2569760,
       "first_seen_at": "2026-07-03T01:56:29.571Z",
       "name": "The Mound: Omen of Cthulhu",
-      "last_seen_rank": 48,
+      "last_seen_rank": 47,
       "last_seen_source": "steam_top_wishlists",
       "type": "game",
       "developers": [
@@ -761,13 +786,13 @@
       ],
       "release_date_text": "Jul 15, 2026",
       "planned_release_date": "2026-07-15",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1782217302",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1783085372",
       "store_url": "https://store.steampowered.com/app/2569760/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z",
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z",
       "last_seen_rank_by_source": {
         "steam_popular_upcoming": 4,
-        "steam_top_wishlists": 48
+        "steam_top_wishlists": 47
       }
     },
     "2582960": {
@@ -872,6 +897,52 @@
         "steam_top_wishlists": 18
       }
     },
+    "2649560": {
+      "appid": 2649560,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "Persona 6",
+      "last_seen_rank": 48,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 48
+      },
+      "type": "game",
+      "developers": [
+        "ATLUS"
+      ],
+      "publishers": [
+        "SEGA"
+      ],
+      "release_date_text": "To be announced",
+      "planned_release_date": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649560/96402e10ba89cccb7906eecd235d7d812f8f9eb0/header.jpg?t=1781799583",
+      "store_url": "https://store.steampowered.com/app/2649560/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
+    "2684890": {
+      "appid": 2684890,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "Idle Village",
+      "last_seen_rank": 44,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 44
+      },
+      "type": "game",
+      "developers": [
+        "Trading House Games"
+      ],
+      "publishers": [
+        "Trading House Games"
+      ],
+      "release_date_text": "Jul 5, 2026",
+      "planned_release_date": "2026-07-05",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684890/06e28a9e4cd360dd9dad18d472cf8d3719bfa9a8/header.jpg?t=1781504389",
+      "store_url": "https://store.steampowered.com/app/2684890/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
     "2692660": {
       "appid": 2692660,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
@@ -909,7 +980,7 @@
       "appid": 2724650,
       "first_seen_at": "2026-07-03T01:56:29.571Z",
       "name": "The Bustling World",
-      "last_seen_rank": 41,
+      "last_seen_rank": 42,
       "last_seen_source": "steam_top_wishlists",
       "type": "game",
       "developers": [
@@ -925,17 +996,17 @@
       "was_coming_soon": true,
       "last_snapshot_at": "2026-07-03T01:56:29.571Z",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 41
+        "steam_top_wishlists": 42
       }
     },
     "2749950": {
       "appid": 2749950,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Esports Manager 2026",
-      "last_seen_rank": 13,
+      "last_seen_rank": 12,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 13
+        "steam_popular_upcoming": 12
       },
       "type": "game",
       "developers": [
@@ -949,7 +1020,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749950/c996835deb9fd4b481b498f10c0c85ecc8725986/header.jpg?t=1782854659",
       "store_url": "https://store.steampowered.com/app/2749950/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "2769570": {
       "appid": 2769570,
@@ -981,8 +1052,22 @@
       "last_seen_rank": 53,
       "last_seen_source": "steam_top_wishlists",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 53
-      }
+        "steam_top_wishlists": 53,
+        "steam_popular_upcoming": 39
+      },
+      "type": "game",
+      "developers": [
+        "Halo Studios"
+      ],
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "release_date_text": "Jul 28, 2026",
+      "planned_release_date": "2026-07-28",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1782928973",
+      "store_url": "https://store.steampowered.com/app/2806050/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "2814860": {
       "appid": 2814860,
@@ -1098,7 +1183,7 @@
       "appid": 2950790,
       "first_seen_at": "2026-07-03T01:56:29.571Z",
       "name": "IRON NEST: Heavy Turret Simulator",
-      "last_seen_rank": 45,
+      "last_seen_rank": 44,
       "last_seen_source": "steam_top_wishlists",
       "type": "game",
       "developers": [
@@ -1111,13 +1196,13 @@
       ],
       "release_date_text": "Aug 6, 2026",
       "planned_release_date": "2026-08-06",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/e6c9e990560078611472e5dab98e79a405ed33f4/header.jpg?t=1782370060",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/e6c9e990560078611472e5dab98e79a405ed33f4/header.jpg?t=1783114939",
       "store_url": "https://store.steampowered.com/app/2950790/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z",
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 6,
-        "steam_top_wishlists": 45
+        "steam_popular_upcoming": 7,
+        "steam_top_wishlists": 44
       }
     },
     "2956040": {
@@ -1171,10 +1256,10 @@
       "appid": 2977260,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "The Guild - Europa 1410",
-      "last_seen_rank": 25,
+      "last_seen_rank": 27,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 25
+        "steam_popular_upcoming": 27
       },
       "type": "game",
       "developers": [
@@ -1188,7 +1273,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2977260/874c570d9decdce3d69787daf77f61338e7efaa2/header.jpg?t=1781528392",
       "store_url": "https://store.steampowered.com/app/2977260/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "3010850": {
       "appid": 3010850,
@@ -1223,14 +1308,37 @@
         "steam_top_wishlists": 34
       }
     },
+    "3059360": {
+      "appid": 3059360,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "Yips!",
+      "last_seen_rank": 49,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 49
+      },
+      "type": "game",
+      "developers": [
+        "C.S.G"
+      ],
+      "publishers": [
+        "C.S.G"
+      ],
+      "release_date_text": "Jul 5, 2026",
+      "planned_release_date": "2026-07-05",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059360/8f33ef940ea3cdef74662585ccdb800995dba426/header.jpg?t=1782098428",
+      "store_url": "https://store.steampowered.com/app/3059360/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
     "3073940": {
       "appid": 3073940,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "God Save Birmingham",
-      "last_seen_rank": 83,
+      "last_seen_rank": 80,
       "last_seen_source": "steam_top_wishlists",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 83
+        "steam_top_wishlists": 80
       }
     },
     "3079210": {
@@ -1296,6 +1404,29 @@
         "steam_top_wishlists": 64
       }
     },
+    "3257760": {
+      "appid": 3257760,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "Sunken Dragon",
+      "last_seen_rank": 40,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 40
+      },
+      "type": "game",
+      "developers": [
+        "Pocket Game"
+      ],
+      "publishers": [
+        "Pocket Game"
+      ],
+      "release_date_text": "Jul 6, 2026",
+      "planned_release_date": "2026-07-06",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3257760/2d4f1439834463361807985ef4a024e5b138df43/header.jpg?t=1781223960",
+      "store_url": "https://store.steampowered.com/app/3257760/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
     "3281420": {
       "appid": 3281420,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
@@ -1310,7 +1441,7 @@
       "appid": 3282300,
       "first_seen_at": "2026-07-03T01:56:29.571Z",
       "name": "Mistfall Hunter",
-      "last_seen_rank": 37,
+      "last_seen_rank": 38,
       "last_seen_source": "steam_top_wishlists",
       "type": "game",
       "developers": [
@@ -1324,17 +1455,17 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/aaab73fbf9e1f214245133c21dccc1891071362f/header.jpg?t=1782803984",
       "store_url": "https://store.steampowered.com/app/3282300/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z",
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z",
       "last_seen_rank_by_source": {
         "steam_popular_upcoming": 5,
-        "steam_top_wishlists": 37
+        "steam_top_wishlists": 38
       }
     },
     "3292470": {
       "appid": 3292470,
       "first_seen_at": "2026-07-03T01:56:29.571Z",
       "name": "Tides of Annihilation",
-      "last_seen_rank": 29,
+      "last_seen_rank": 30,
       "last_seen_source": "steam_top_wishlists",
       "type": "game",
       "developers": [
@@ -1350,7 +1481,7 @@
       "was_coming_soon": true,
       "last_snapshot_at": "2026-07-03T01:56:29.571Z",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 29
+        "steam_top_wishlists": 30
       }
     },
     "3337850": {
@@ -1370,7 +1501,7 @@
       "last_seen_rank": 90,
       "last_seen_source": "steam_top_wishlists",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 31,
+        "steam_popular_upcoming": 26,
         "steam_top_wishlists": 90
       },
       "type": "game",
@@ -1383,10 +1514,33 @@
       ],
       "release_date_text": "Jul 23, 2026",
       "planned_release_date": "2026-07-23",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/d3bb8fe273de5f89504044835ff413c938552ed4/header.jpg?t=1783039862",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/d3bb8fe273de5f89504044835ff413c938552ed4/header.jpg?t=1783062413",
       "store_url": "https://store.steampowered.com/app/3440070/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
+    "3453910": {
+      "appid": 3453910,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "Happy's Humble BURGATORY",
+      "last_seen_rank": 37,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 37
+      },
+      "type": "game",
+      "developers": [
+        "Scythe Dev Team"
+      ],
+      "publishers": [
+        "tinyBuild"
+      ],
+      "release_date_text": "Jul 16, 2026",
+      "planned_release_date": "2026-07-16",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/91f7015a434d01f15aaab97ff96cb6e4030a6f86/header.jpg?t=1782478683",
+      "store_url": "https://store.steampowered.com/app/3453910/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "3462790": {
       "appid": 3462790,
@@ -1411,14 +1565,37 @@
       "was_coming_soon": true,
       "last_snapshot_at": "2026-07-03T04:27:24.412Z"
     },
+    "3463400": {
+      "appid": 3463400,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "Game Store Chronicle",
+      "last_seen_rank": 42,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 42
+      },
+      "type": "game",
+      "developers": [
+        "Imponix Game Studio"
+      ],
+      "publishers": [
+        "Imponix Game Studio"
+      ],
+      "release_date_text": "Jul 6, 2026",
+      "planned_release_date": "2026-07-06",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3463400/53e761dcfcbe727d8b4ffcd263bc224e93575f97/header.jpg?t=1783116867",
+      "store_url": "https://store.steampowered.com/app/3463400/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
     "3469450": {
       "appid": 3469450,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "DOOM: The Dark Ages | Revelations",
-      "last_seen_rank": 18,
+      "last_seen_rank": 16,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 18
+        "steam_popular_upcoming": 16
       },
       "type": "dlc",
       "developers": [
@@ -1432,7 +1609,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/d6c6747deb3a3d20418c1f7a5b2de2304442badf/header.jpg?t=1780927906",
       "store_url": "https://store.steampowered.com/app/3469450/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "3558670": {
       "appid": 3558670,
@@ -1528,10 +1705,10 @@
       "appid": 3722660,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Cosmodrill",
-      "last_seen_rank": 49,
+      "last_seen_rank": 32,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 49
+        "steam_popular_upcoming": 32
       },
       "type": "game",
       "developers": [
@@ -1546,7 +1723,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722660/910b19ab03841c54e98c5eaeba83f4948b3c20ff/header.jpg?t=1781083188",
       "store_url": "https://store.steampowered.com/app/3722660/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "3727390": {
       "appid": 3727390,
@@ -1570,6 +1747,29 @@
       "last_seen_rank_by_source": {
         "steam_top_wishlists": 24
       }
+    },
+    "3744640": {
+      "appid": 3744640,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "NightBreak",
+      "last_seen_rank": 50,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 50
+      },
+      "type": "game",
+      "developers": [
+        "Davin Clément"
+      ],
+      "publishers": [
+        "Davin Clément"
+      ],
+      "release_date_text": "Jul 5, 2026",
+      "planned_release_date": "2026-07-05",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744640/d7e1988312a2c3425102c165a623e151c3f0e6aa/header.jpg?t=1773847137",
+      "store_url": "https://store.steampowered.com/app/3744640/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "3751260": {
       "appid": 3751260,
@@ -1598,7 +1798,7 @@
       "appid": 3751950,
       "first_seen_at": "2026-07-03T01:56:29.571Z",
       "name": "Assassin's Creed Black Flag Resynced",
-      "last_seen_rank": 13,
+      "last_seen_rank": 12,
       "last_seen_source": "steam_top_wishlists",
       "type": "game",
       "developers": [
@@ -1622,10 +1822,10 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1782753569",
       "store_url": "https://store.steampowered.com/app/3751950/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z",
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z",
       "last_seen_rank_by_source": {
         "steam_popular_upcoming": 1,
-        "steam_top_wishlists": 13
+        "steam_top_wishlists": 12
       }
     },
     "3765010": {
@@ -1647,10 +1847,10 @@
       ],
       "release_date_text": "Jul 13, 2026",
       "planned_release_date": "2026-07-13",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765010/898a2e973e596586efd395516404834099b96e9d/header.jpg?t=1782908234",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765010/898a2e973e596586efd395516404834099b96e9d/header.jpg?t=1783088135",
       "store_url": "https://store.steampowered.com/app/3765010/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "3788800": {
       "appid": 3788800,
@@ -1709,10 +1909,10 @@
       "appid": 3839790,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
-      "last_seen_rank": 16,
+      "last_seen_rank": 13,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 16
+        "steam_popular_upcoming": 13
       },
       "type": "dlc",
       "developers": [
@@ -1726,7 +1926,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839790/b503541d57a9cb8f2b4af8b11f2d458a4e601e7e/header.jpg?t=1781748025",
       "store_url": "https://store.steampowered.com/app/3839790/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "3864580": {
       "appid": 3864580,
@@ -1742,10 +1942,10 @@
       "appid": 3914860,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Moss: The Forgotten Relic ",
-      "last_seen_rank": 12,
+      "last_seen_rank": 14,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 12
+        "steam_popular_upcoming": 14
       },
       "type": "game",
       "developers": [
@@ -1760,16 +1960,16 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3914860/0559b495ccbdcca5ff81fdd0b3e06db05c3c3a8e/header.jpg?t=1781801833",
       "store_url": "https://store.steampowered.com/app/3914860/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "3935020": {
       "appid": 3935020,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Backyard Baseball",
-      "last_seen_rank": 28,
+      "last_seen_rank": 25,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 28
+        "steam_popular_upcoming": 25
       },
       "type": "game",
       "developers": [
@@ -1783,7 +1983,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935020/10ae84de59688050a1140103c1ecdbf987d8aeea/header.jpg?t=1780596336",
       "store_url": "https://store.steampowered.com/app/3935020/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "3949550": {
       "appid": 3949550,
@@ -1809,10 +2009,10 @@
       "appid": 4032350,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "EA SPORTS™ College Football 27",
-      "last_seen_rank": 23,
+      "last_seen_rank": 19,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 23
+        "steam_popular_upcoming": 19
       },
       "type": "game",
       "developers": [
@@ -1826,16 +2026,16 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1781643937",
       "store_url": "https://store.steampowered.com/app/4032350/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4047160": {
       "appid": 4047160,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "I'm Making a Monster",
-      "last_seen_rank": 29,
+      "last_seen_rank": 24,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 29
+        "steam_popular_upcoming": 24
       },
       "type": "game",
       "developers": [
@@ -1849,7 +2049,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047160/f99629d1ea1e18ddc1fd91b6d98b80305677775e/header.jpg?t=1782272604",
       "store_url": "https://store.steampowered.com/app/4047160/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4077740": {
       "appid": 4077740,
@@ -1911,10 +2111,10 @@
       "appid": 4090360,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Forest Escape: Last Train",
-      "last_seen_rank": 33,
+      "last_seen_rank": 29,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 33
+        "steam_popular_upcoming": 29
       },
       "type": "game",
       "developers": [
@@ -1929,16 +2129,16 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090360/96d6080ccff8c5617231deb2ea766a1c2bb531e7/header.jpg?t=1782734641",
       "store_url": "https://store.steampowered.com/app/4090360/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4093240": {
       "appid": 4093240,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Tokyo Valkyries",
-      "last_seen_rank": 39,
+      "last_seen_rank": 30,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 39
+        "steam_popular_upcoming": 30
       },
       "type": "game",
       "developers": [
@@ -1952,7 +2152,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093240/78820e864b501fdc97fbb661621b2d0332af3b1a/header.jpg?t=1782452377",
       "store_url": "https://store.steampowered.com/app/4093240/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4095380": {
       "appid": 4095380,
@@ -2031,13 +2231,13 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163030/20c4d944cbe1e07e0fb0ba64950b96b453fd8923/header.jpg?t=1782754804",
       "store_url": "https://store.steampowered.com/app/4163030/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4165890": {
       "appid": 4165890,
       "first_seen_at": "2026-07-03T01:56:29.571Z",
       "name": "Steam Frame",
-      "last_seen_rank": 12,
+      "last_seen_rank": 13,
       "last_seen_source": "steam_top_wishlists",
       "type": "hardware",
       "developers": [
@@ -2053,7 +2253,7 @@
       "was_coming_soon": true,
       "last_snapshot_at": "2026-07-03T01:56:29.571Z",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 12
+        "steam_top_wishlists": 13
       }
     },
     "4199910": {
@@ -2083,20 +2283,20 @@
       "appid": 4228810,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Fourteen Years of Flames",
-      "last_seen_rank": 82,
+      "last_seen_rank": 83,
       "last_seen_source": "steam_top_wishlists",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 82
+        "steam_top_wishlists": 83
       }
     },
     "4231820": {
       "appid": 4231820,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Castlevania: Belmont's Curse",
-      "last_seen_rank": 77,
+      "last_seen_rank": 76,
       "last_seen_source": "steam_top_wishlists",
       "last_seen_rank_by_source": {
-        "steam_top_wishlists": 77
+        "steam_top_wishlists": 76
       }
     },
     "4260840": {
@@ -2136,10 +2336,10 @@
       "appid": 4293910,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "XenoFeels",
-      "last_seen_rank": 17,
+      "last_seen_rank": 18,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 17
+        "steam_popular_upcoming": 18
       },
       "type": "game",
       "developers": [
@@ -2153,7 +2353,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293910/6ecfae1307f2a67637dff2be23cd69771a219efa/header.jpg?t=1781964788",
       "store_url": "https://store.steampowered.com/app/4293910/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4306890": {
       "appid": 4306890,
@@ -2176,7 +2376,30 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306890/a558cc704e2fedc385785e8a65c98a7845c29b1e/header.jpg?t=1781748039",
       "store_url": "https://store.steampowered.com/app/4306890/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
+    "4323520": {
+      "appid": 4323520,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "XeGrader plus",
+      "last_seen_rank": 41,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 41
+      },
+      "type": "game",
+      "developers": [
+        "Tokihiro NAITO"
+      ],
+      "publishers": [
+        "Tokihiro NAITO"
+      ],
+      "release_date_text": "Jul 6, 2026",
+      "planned_release_date": "2026-07-06",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323520/e72da119700a7d559ac79c738b13b6554fe60474/header.jpg?t=1782686590",
+      "store_url": "https://store.steampowered.com/app/4323520/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4358690": {
       "appid": 4358690,
@@ -2205,10 +2428,10 @@
       "appid": 4369490,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Soulbound: Online",
-      "last_seen_rank": 24,
+      "last_seen_rank": 33,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 24
+        "steam_popular_upcoming": 33
       },
       "type": "game",
       "developers": [
@@ -2222,16 +2445,16 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/d37861b36c02d295d093f50bb9104ec1251ca544/header.jpg?t=1782926363",
       "store_url": "https://store.steampowered.com/app/4369490/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4376930": {
       "appid": 4376930,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "Disney Dreamlight Valley: Honeyglow Woods",
-      "last_seen_rank": 36,
+      "last_seen_rank": 28,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 36
+        "steam_popular_upcoming": 28
       },
       "type": "dlc",
       "developers": [
@@ -2245,7 +2468,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376930/c24c762017ce3bfb20c82dad2abc4c2076688664/header.jpg?t=1781726919",
       "store_url": "https://store.steampowered.com/app/4376930/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4380490": {
       "appid": 4380490,
@@ -2266,10 +2489,10 @@
       ],
       "release_date_text": "Jul 9, 2026",
       "planned_release_date": "2026-07-09",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1782984043",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1783100465",
       "store_url": "https://store.steampowered.com/app/4380490/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4436080": {
       "appid": 4436080,
@@ -2344,10 +2567,10 @@
       "appid": 4508340,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
       "name": "NTE: Neverness to Everness",
-      "last_seen_rank": 7,
+      "last_seen_rank": 6,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 7
+        "steam_popular_upcoming": 6
       },
       "type": "game",
       "developers": [
@@ -2361,7 +2584,53 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/7a1301fa4f8d31bfa3e32205bc92de6c520a9475/header.jpg?t=1782981295",
       "store_url": "https://store.steampowered.com/app/4508340/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
+    "4508570": {
+      "appid": 4508570,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "Veritas Tales: Witch of the Dark Castle",
+      "last_seen_rank": 38,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 38
+      },
+      "type": "game",
+      "developers": [
+        "ジギタリス出版"
+      ],
+      "publishers": [
+        "15 Industry"
+      ],
+      "release_date_text": "Jul 8, 2026",
+      "planned_release_date": "2026-07-08",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508570/a928ae98d5030143507e944e7de25b072d3f2395/header.jpg?t=1783120894",
+      "store_url": "https://store.steampowered.com/app/4508570/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
+    "4540330": {
+      "appid": 4540330,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "Re:Born Isekai Company",
+      "last_seen_rank": 45,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 45
+      },
+      "type": "game",
+      "developers": [
+        "WantBss"
+      ],
+      "publishers": [
+        "WantBss"
+      ],
+      "release_date_text": "Jul 5, 2026",
+      "planned_release_date": "2026-07-05",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540330/c4fb7a8865ab0c8ffa403ed7c2ecf3c639937af1/header.jpg?t=1782397484",
+      "store_url": "https://store.steampowered.com/app/4540330/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4540610": {
       "appid": 4540610,
@@ -2427,10 +2696,10 @@
       ],
       "release_date_text": "Jul 22, 2026",
       "planned_release_date": "2026-07-22",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1782958635",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1783071570",
       "store_url": "https://store.steampowered.com/app/4570720/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4634080": {
       "appid": 4634080,
@@ -2478,6 +2747,29 @@
       "was_coming_soon": true,
       "last_snapshot_at": "2026-07-03T02:43:20.952Z"
     },
+    "4641620": {
+      "appid": 4641620,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "Space Fleet Logistics",
+      "last_seen_rank": 47,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 47
+      },
+      "type": "game",
+      "developers": [
+        "rcs_games"
+      ],
+      "publishers": [
+        "rcs_games"
+      ],
+      "release_date_text": "Jul 5, 2026",
+      "planned_release_date": "2026-07-05",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641620/7cc67915f9af80742c2875fe1969ef8b2b3cd841/header.jpg?t=1782152171",
+      "store_url": "https://store.steampowered.com/app/4641620/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
     "4656000": {
       "appid": 4656000,
       "first_seen_at": "2026-07-03T02:43:20.952Z",
@@ -2499,7 +2791,7 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1783021639",
       "store_url": "https://store.steampowered.com/app/4656000/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4671050": {
       "appid": 4671050,
@@ -2621,9 +2913,9 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824610/28045d733a3ada082858b5b1a5149e33ee40f378/header.jpg?t=1780990195",
       "store_url": "https://store.steampowered.com/app/4824610/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z",
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 37,
+        "steam_popular_upcoming": 35,
         "steam_top_wishlists": 11
       }
     },
@@ -2649,6 +2941,52 @@
       "store_url": "https://store.steampowered.com/app/4849960/",
       "was_coming_soon": true,
       "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+    },
+    "4853590": {
+      "appid": 4853590,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "CORRUPT.EXE",
+      "last_seen_rank": 36,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 36
+      },
+      "type": "game",
+      "developers": [
+        "FORGE GAMES"
+      ],
+      "publishers": [
+        "FORGE GAMES"
+      ],
+      "release_date_text": "Jul 4, 2026",
+      "planned_release_date": "2026-07-04",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853590/920f2fb02378f4e6235bb9519debab20879efc03/header.jpg?t=1782975616",
+      "store_url": "https://store.steampowered.com/app/4853590/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
+    "4854680": {
+      "appid": 4854680,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "Pictures at an Exhibition",
+      "last_seen_rank": 43,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 43
+      },
+      "type": "game",
+      "developers": [
+        "ixtli"
+      ],
+      "publishers": [
+        "ixtli"
+      ],
+      "release_date_text": "Jul 5, 2026",
+      "planned_release_date": "2026-07-05",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854680/140c2d986369ad7c54045210278dde14d155c1f5/header.jpg?t=1781961468",
+      "store_url": "https://store.steampowered.com/app/4854680/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     },
     "4855380": {
       "appid": 4855380,
@@ -2701,10 +3039,10 @@
       "appid": 4864560,
       "first_seen_at": "2026-07-03T04:15:05.726Z",
       "name": "SCRIBBLE HUNT",
-      "last_seen_rank": 22,
+      "last_seen_rank": 17,
       "last_seen_source": "steam_popular_upcoming",
       "last_seen_rank_by_source": {
-        "steam_popular_upcoming": 22
+        "steam_popular_upcoming": 17
       },
       "type": "game",
       "developers": [
@@ -2718,7 +3056,30 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864560/511f42b7104f524279bfb4bd580dcd4fbd030361/header.jpg?t=1783048858",
       "store_url": "https://store.steampowered.com/app/4864560/",
       "was_coming_soon": true,
-      "last_snapshot_at": "2026-07-03T04:27:24.412Z"
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
+    },
+    "4869370": {
+      "appid": 4869370,
+      "first_seen_at": "2026-07-04T05:10:05.970Z",
+      "name": "Doomsday Draft",
+      "last_seen_rank": 46,
+      "last_seen_source": "steam_popular_upcoming",
+      "last_seen_rank_by_source": {
+        "steam_popular_upcoming": 46
+      },
+      "type": "game",
+      "developers": [
+        "Palm and Stars"
+      ],
+      "publishers": [
+        "Palm and Stars"
+      ],
+      "release_date_text": "Jul 5, 2026",
+      "planned_release_date": "2026-07-05",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4869370/f2e287c125ae43086477a0680d42ee7d7eac7bcc/header.jpg?t=1783113795",
+      "store_url": "https://store.steampowered.com/app/4869370/",
+      "was_coming_soon": true,
+      "last_snapshot_at": "2026-07-04T05:10:05.970Z"
     }
   },
   "rank_snapshots": [
@@ -6406,6 +6767,1049 @@
     },
     {
       "captured_at": "2026-07-03T04:27:24.412Z",
+      "source": "steam_top_wishlists",
+      "rank": 99,
+      "appid": 1257610,
+      "name": "Prison Architect 2"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 1,
+      "appid": 3751950,
+      "name": "Assassin's Creed Black Flag Resynced"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 2,
+      "appid": 2244210,
+      "name": "Echoes of Aincrad"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 3,
+      "appid": 4380490,
+      "name": "Cat Mail Co."
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 4,
+      "appid": 2569760,
+      "name": "The Mound: Omen of Cthulhu"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 5,
+      "appid": 3282300,
+      "name": "Mistfall Hunter"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 6,
+      "appid": 4508340,
+      "name": "NTE: Neverness to Everness"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 7,
+      "appid": 2950790,
+      "name": "IRON NEST: Heavy Turret Simulator"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 8,
+      "appid": 3765010,
+      "name": "Forensics: Crime Scene Detective"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 9,
+      "appid": 4570720,
+      "name": "DragonSword : Awakening"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 10,
+      "appid": 4656000,
+      "name": "BOMBANANA!"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 11,
+      "appid": 2209900,
+      "name": "Moonlight Peaks"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 12,
+      "appid": 2749950,
+      "name": "Esports Manager 2026"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 13,
+      "appid": 3839790,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 14,
+      "appid": 3914860,
+      "name": "Moss: The Forgotten Relic"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 15,
+      "appid": 1368140,
+      "name": "Corsair Cove"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 16,
+      "appid": 3469450,
+      "name": "DOOM: The Dark Ages | Revelations"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 17,
+      "appid": 4864560,
+      "name": "SCRIBBLE HUNT"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 18,
+      "appid": 4293910,
+      "name": "XenoFeels"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 19,
+      "appid": 4032350,
+      "name": "EA SPORTS™ College Football 27"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 20,
+      "appid": 4163030,
+      "name": "Cat Chess"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 21,
+      "appid": 4306890,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition)"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 22,
+      "appid": 2424420,
+      "name": "Avatar Legends: The Fighting Game"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 23,
+      "appid": 1605850,
+      "name": "ZeroSpace"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 24,
+      "appid": 4047160,
+      "name": "I'm Making a Monster"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 25,
+      "appid": 3935020,
+      "name": "Backyard Baseball"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 26,
+      "appid": 3440070,
+      "name": "Dinoblade"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 27,
+      "appid": 2977260,
+      "name": "The Guild - Europa 1410"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 28,
+      "appid": 4376930,
+      "name": "Disney Dreamlight Valley: Honeyglow Woods"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 29,
+      "appid": 4090360,
+      "name": "Forest Escape: Last Train"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 30,
+      "appid": 4093240,
+      "name": "Tokyo Valkyries"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 31,
+      "appid": 2153760,
+      "name": "Stronghold 4"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 32,
+      "appid": 3722660,
+      "name": "Cosmodrill"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 33,
+      "appid": 4369490,
+      "name": "Soulbound: Online"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 34,
+      "appid": 2527160,
+      "name": "Desktop Explorer"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 35,
+      "appid": 4824610,
+      "name": "Resident Evil Veronica"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 36,
+      "appid": 4853590,
+      "name": "CORRUPT.EXE"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 37,
+      "appid": 3453910,
+      "name": "Happy's Humble BURGATORY"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 38,
+      "appid": 4508570,
+      "name": "Veritas Tales: Witch of the Dark Castle"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 39,
+      "appid": 2806050,
+      "name": "Halo: Campaign Evolved"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 40,
+      "appid": 3257760,
+      "name": "Sunken Dragon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 41,
+      "appid": 4323520,
+      "name": "XeGrader plus"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 42,
+      "appid": 3463400,
+      "name": "Game Store Chronicle"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 43,
+      "appid": 4854680,
+      "name": "Pictures at an Exhibition"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 44,
+      "appid": 2684890,
+      "name": "Idle Village"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 45,
+      "appid": 4540330,
+      "name": "Re:Born Isekai Company"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 46,
+      "appid": 4869370,
+      "name": "Doomsday Draft"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 47,
+      "appid": 4641620,
+      "name": "Space Fleet Logistics"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 48,
+      "appid": 2649560,
+      "name": "Persona 6"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 49,
+      "appid": 3059360,
+      "name": "Yips!"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_popular_upcoming",
+      "rank": 50,
+      "appid": 3744640,
+      "name": "NightBreak"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 1,
+      "appid": 1422450,
+      "name": "Deadlock"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 2,
+      "appid": 2719590,
+      "name": "Light No Fire"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 3,
+      "appid": 2769570,
+      "name": "Fable"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 4,
+      "appid": 1774880,
+      "name": "Blight: Survival"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 5,
+      "appid": 2109770,
+      "name": "Kingmakers"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 6,
+      "appid": 4199910,
+      "name": "Total War: WARHAMMER 40,000"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 7,
+      "appid": 2050420,
+      "name": "ARK 2"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 8,
+      "appid": 1846700,
+      "name": "Witchbrook"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 9,
+      "appid": 1757350,
+      "name": "ILL"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 10,
+      "appid": 2381520,
+      "name": "Unrecord"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 11,
+      "appid": 4824610,
+      "name": "Resident Evil Veronica"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 12,
+      "appid": 3751950,
+      "name": "Assassin's Creed Black Flag Resynced"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 13,
+      "appid": 4165890,
+      "name": "Steam Frame"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 14,
+      "appid": 3751260,
+      "name": "The Blood of Dawnwalker"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 15,
+      "appid": 4115450,
+      "name": "Phantom Blade Zero"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 16,
+      "appid": 2272360,
+      "name": "Warhammer 40,000: Dawn of War IV"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 17,
+      "appid": 2963950,
+      "name": "Persona 4 Revival"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 18,
+      "appid": 2638890,
+      "name": "Onimusha: Way of the Sword"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 19,
+      "appid": 2929250,
+      "name": "over the hill"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 20,
+      "appid": 3558670,
+      "name": "Tomb Raider: Legacy of Atlantis"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 21,
+      "appid": 2873440,
+      "name": "Chrono Odyssey"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 22,
+      "appid": 4095380,
+      "name": "Soulframe"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 23,
+      "appid": 2590240,
+      "name": "METRO 2039"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 24,
+      "appid": 3727390,
+      "name": "The Expanse: Osiris Reborn"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 25,
+      "appid": 2814860,
+      "name": "Vindictus: Defying Fate"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 26,
+      "appid": 2582960,
+      "name": "NAKWON: LAST PARADISE"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 27,
+      "appid": 4077740,
+      "name": "PUBG: Black Budget"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 28,
+      "appid": 3079210,
+      "name": "Hell Let Loose: Vietnam"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 29,
+      "appid": 1340720,
+      "name": "State of Decay 3"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 30,
+      "appid": 3292470,
+      "name": "Tides of Annihilation"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 31,
+      "appid": 1940080,
+      "name": "Rooted"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 32,
+      "appid": 3710600,
+      "name": "Warhammer 40,000: Dark Heresy"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 33,
+      "appid": 3669870,
+      "name": "CONTROL Resonant"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 34,
+      "appid": 3016620,
+      "name": "Alkahest"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 35,
+      "appid": 2231020,
+      "name": "Chronicles: Medieval"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 36,
+      "appid": 1280190,
+      "name": "Falling Frontier"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 37,
+      "appid": 1488490,
+      "name": "Nivalis Nights"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 38,
+      "appid": 3282300,
+      "name": "Mistfall Hunter"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 39,
+      "appid": 2584270,
+      "name": "Mortal Shell II"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 40,
+      "appid": 3978820,
+      "name": "Rules of Engagement: The Grey State"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 41,
+      "appid": 2244210,
+      "name": "Echoes of Aincrad"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 42,
+      "appid": 2724650,
+      "name": "The Bustling World"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 43,
+      "appid": 1313230,
+      "name": "Beautiful Light"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 44,
+      "appid": 2950790,
+      "name": "IRON NEST: Heavy Turret Simulator"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 45,
+      "appid": 1867240,
+      "name": "WARDOGS"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 46,
+      "appid": 2956040,
+      "name": "PVKK: Planetenverteidigungskanonenkommandant"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 47,
+      "appid": 2569760,
+      "name": "The Mound: Omen of Cthulhu"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 48,
+      "appid": 2288340,
+      "name": "ACE COMBAT 8: WINGS OF THEVE"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 49,
+      "appid": 2340970,
+      "name": "Railborn"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 50,
+      "appid": 4358690,
+      "name": "Graveyard Keeper 2"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 51,
+      "appid": 1478500,
+      "name": "Big Walk"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 52,
+      "appid": 3864580,
+      "name": "P.O.N."
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 53,
+      "appid": 2806050,
+      "name": "Halo: Campaign Evolved"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 54,
+      "appid": 2439280,
+      "name": "Clockwork Revolution"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 55,
+      "appid": 2828710,
+      "name": "Valor Mortis"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 56,
+      "appid": 2075800,
+      "name": "STAR WARS Zero Company™"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 57,
+      "appid": 3167920,
+      "name": "Low-Budget Repairs"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 58,
+      "appid": 2861080,
+      "name": "Haunted Paws"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 59,
+      "appid": 1228610,
+      "name": "KARLSON"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 60,
+      "appid": 1687540,
+      "name": "Showa American Story"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 61,
+      "appid": 4743930,
+      "name": "Guild Wars 3™"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 62,
+      "appid": 3949550,
+      "name": "1666: Amsterdam"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 63,
+      "appid": 2001760,
+      "name": "Beast of Reincarnation"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 64,
+      "appid": 3255110,
+      "name": "Grave Seasons"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 65,
+      "appid": 3010850,
+      "name": "Gears of War: E-Day"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 66,
+      "appid": 2610770,
+      "name": "Dust Front RTS"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 67,
+      "appid": 2318330,
+      "name": "Neverway"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 68,
+      "appid": 3722330,
+      "name": "Shift At Midnight"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 69,
+      "appid": 3337850,
+      "name": "KYORA"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 70,
+      "appid": 3161310,
+      "name": "Hela: of Mice & Magic"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 71,
+      "appid": 2179480,
+      "name": "Ardem"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 72,
+      "appid": 1373910,
+      "name": "Anvil Empires"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 73,
+      "appid": 3281420,
+      "name": "Paradise"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 74,
+      "appid": 1952620,
+      "name": "The Lost Wild"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 75,
+      "appid": 3812600,
+      "name": "ReStory: Chill Electronics Repairs"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 76,
+      "appid": 4231820,
+      "name": "Castlevania: Belmont's Curse"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 77,
+      "appid": 1586260,
+      "name": "BLACKFROST: The Long Dark 2"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 78,
+      "appid": 1536500,
+      "name": "Euro Truck Simulator 2 - Heart of Russia"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 79,
+      "appid": 4078430,
+      "name": "STAR WARS: Galactic Racer™"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 80,
+      "appid": 3073940,
+      "name": "God Save Birmingham"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 81,
+      "appid": 2454980,
+      "name": "Drakantos"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 82,
+      "appid": 2161710,
+      "name": "NO LAW"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 83,
+      "appid": 4228810,
+      "name": "Fourteen Years of Flames"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 84,
+      "appid": 2090210,
+      "name": "Threads of Time"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 85,
+      "appid": 2692660,
+      "name": "Car Mechanic Simulator 2026"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 86,
+      "appid": 1818140,
+      "name": "Den of Wolves"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 87,
+      "appid": 3624140,
+      "name": "Wanderburg"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 88,
+      "appid": 2239770,
+      "name": "Don't Starve Elsewhere"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 89,
+      "appid": 2849490,
+      "name": "Outward 2"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 90,
+      "appid": 3440070,
+      "name": "Dinoblade"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 91,
+      "appid": 4126040,
+      "name": "Aniimo"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 92,
+      "appid": 3809270,
+      "name": "Euro Truck Simulator 2 - Coaches"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 93,
+      "appid": 2165810,
+      "name": "Streets of Rogue 2"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 94,
+      "appid": 2887580,
+      "name": "Active Matter"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 95,
+      "appid": 3788800,
+      "name": "Atomic Heart 2"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 96,
+      "appid": 4260840,
+      "name": "STRANGER THAN HEAVEN"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 97,
+      "appid": 3230960,
+      "name": "EXODUS"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "source": "steam_top_wishlists",
+      "rank": 98,
+      "appid": 1913120,
+      "name": "Tears of Metal"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
       "source": "steam_top_wishlists",
       "rank": 99,
       "appid": 1257610,
@@ -13461,6 +14865,1581 @@
       "recommendations_total": null,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738530/64f815b1de51a8f805b30349dcea6b9b9b9e8781/header.jpg?t=1782476626",
       "store_url": "https://store.steampowered.com/app/4738530/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3751950,
+      "ok": true,
+      "name": "Assassin's Creed Black Flag Resynced",
+      "type": "game",
+      "developers": [
+        "Ubisoft Singapore",
+        "Ubisoft Barcelona",
+        "Ubisoft Bordeaux",
+        "Ubisoft Belgrade",
+        "Ubisoft Chengdu",
+        "Ubisoft India",
+        "Ubisoft Kyiv",
+        "Ubisoft Montpellier",
+        "Ubisoft Philippines",
+        "Ubisoft Quebec",
+        "Ubisoft Shanghai"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 9, 2026",
+      "required_age": "17",
+      "is_free": false,
+      "price_text": "$59.99",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1782753569",
+      "store_url": "https://store.steampowered.com/app/3751950/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 2244210,
+      "ok": true,
+      "name": "Echoes of Aincrad",
+      "type": "game",
+      "developers": [
+        "Game Studio Inc."
+      ],
+      "publishers": [
+        "Bandai Namco Entertainment Inc."
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 9, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "$69.99",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/25fb6350451b21ca824562c8d1eebe89091347cc/header.jpg?t=1781687351",
+      "store_url": "https://store.steampowered.com/app/2244210/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4380490,
+      "ok": true,
+      "name": "Cat Mail Co.",
+      "type": "game",
+      "developers": [
+        "Maracas Studio"
+      ],
+      "publishers": [
+        "Maracas Studio",
+        "Gamersky Games"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 9, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1783100465",
+      "store_url": "https://store.steampowered.com/app/4380490/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 2569760,
+      "ok": true,
+      "name": "The Mound: Omen of Cthulhu",
+      "type": "game",
+      "developers": [
+        "ACE Team"
+      ],
+      "publishers": [
+        "Nacon"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 15, 2026",
+      "required_age": "17",
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1783085372",
+      "store_url": "https://store.steampowered.com/app/2569760/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3282300,
+      "ok": true,
+      "name": "Mistfall Hunter",
+      "type": "game",
+      "developers": [
+        "Bellring Games"
+      ],
+      "publishers": [
+        "Skystone Games"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 29, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/aaab73fbf9e1f214245133c21dccc1891071362f/header.jpg?t=1782803984",
+      "store_url": "https://store.steampowered.com/app/3282300/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4508340,
+      "ok": true,
+      "name": "NTE: Neverness to Everness",
+      "type": "game",
+      "developers": [
+        "Hotta Studio"
+      ],
+      "publishers": [
+        "Perfect World Games"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 7, 2026",
+      "required_age": 0,
+      "is_free": true,
+      "price_text": "Free",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/7a1301fa4f8d31bfa3e32205bc92de6c520a9475/header.jpg?t=1782981295",
+      "store_url": "https://store.steampowered.com/app/4508340/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 2950790,
+      "ok": true,
+      "name": "IRON NEST: Heavy Turret Simulator",
+      "type": "game",
+      "developers": [
+        "Nick Nieuwoudt",
+        "Dominik Latos"
+      ],
+      "publishers": [
+        "Nick Nieuwoudt",
+        "Dominik Latos"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Aug 6, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/e6c9e990560078611472e5dab98e79a405ed33f4/header.jpg?t=1783114939",
+      "store_url": "https://store.steampowered.com/app/2950790/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3765010,
+      "ok": true,
+      "name": "Forensics: Crime Scene Detective",
+      "type": "game",
+      "developers": [
+        "Binary Impact",
+        "Alchemical Works"
+      ],
+      "publishers": [
+        "Aerosoft GmbH"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 13, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765010/898a2e973e596586efd395516404834099b96e9d/header.jpg?t=1783088135",
+      "store_url": "https://store.steampowered.com/app/3765010/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4570720,
+      "ok": true,
+      "name": "DragonSword : Awakening",
+      "type": "game",
+      "developers": [
+        "Hound13 Inc."
+      ],
+      "publishers": [
+        "Hound13 Inc."
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 22, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1783071570",
+      "store_url": "https://store.steampowered.com/app/4570720/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4656000,
+      "ok": true,
+      "name": "BOMBANANA!",
+      "type": "game",
+      "developers": [
+        "Lefto Studio"
+      ],
+      "publishers": [
+        "Lefto Studio"
+      ],
+      "coming_soon": true,
+      "release_date_text": "August 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1783021639",
+      "store_url": "https://store.steampowered.com/app/4656000/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 2209900,
+      "ok": true,
+      "name": "Moonlight Peaks",
+      "type": "game",
+      "developers": [
+        "Little Chicken"
+      ],
+      "publishers": [
+        "XSEED Games",
+        "Marvelous Europe"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 6, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783010194",
+      "store_url": "https://store.steampowered.com/app/2209900/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 2749950,
+      "ok": true,
+      "name": "Esports Manager 2026",
+      "type": "game",
+      "developers": [
+        "Neurona Games"
+      ],
+      "publishers": [
+        "indie.io"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 6, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749950/c996835deb9fd4b481b498f10c0c85ecc8725986/header.jpg?t=1782854659",
+      "store_url": "https://store.steampowered.com/app/2749950/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3839790,
+      "ok": true,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)",
+      "type": "dlc",
+      "developers": [
+        "Cygames, Inc."
+      ],
+      "publishers": [
+        "Cygames, Inc."
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 8, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839790/b503541d57a9cb8f2b4af8b11f2d458a4e601e7e/header.jpg?t=1781748025",
+      "store_url": "https://store.steampowered.com/app/3839790/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3914860,
+      "ok": true,
+      "name": "Moss: The Forgotten Relic ",
+      "type": "game",
+      "developers": [
+        "Polyarc",
+        "Blackbird Interactive"
+      ],
+      "publishers": [
+        "Polyarc"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 16, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3914860/0559b495ccbdcca5ff81fdd0b3e06db05c3c3a8e/header.jpg?t=1781801833",
+      "store_url": "https://store.steampowered.com/app/3914860/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 1368140,
+      "ok": true,
+      "name": "Corsair Cove",
+      "type": "game",
+      "developers": [
+        "Limbic Entertainment"
+      ],
+      "publishers": [
+        "Hooded Horse"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 31, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/cafda7c6ff9641cc9ede1823317b835a2b3f38ab/header.jpg?t=1783066075",
+      "store_url": "https://store.steampowered.com/app/1368140/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3469450,
+      "ok": true,
+      "name": "DOOM: The Dark Ages | Revelations",
+      "type": "dlc",
+      "developers": [
+        "id Software"
+      ],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 7, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/d6c6747deb3a3d20418c1f7a5b2de2304442badf/header.jpg?t=1780927906",
+      "store_url": "https://store.steampowered.com/app/3469450/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4864560,
+      "ok": true,
+      "name": "SCRIBBLE HUNT",
+      "type": "game",
+      "developers": [
+        "SCRIBBLE BUNNY"
+      ],
+      "publishers": [
+        "SCRIBBLE BUNNY"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 11, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864560/511f42b7104f524279bfb4bd580dcd4fbd030361/header.jpg?t=1783048858",
+      "store_url": "https://store.steampowered.com/app/4864560/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4293910,
+      "ok": true,
+      "name": "XenoFeels",
+      "type": "game",
+      "developers": [
+        " KotaMota Games"
+      ],
+      "publishers": [
+        " KotaMota Games"
+      ],
+      "coming_soon": true,
+      "release_date_text": "2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293910/6ecfae1307f2a67637dff2be23cd69771a219efa/header.jpg?t=1781964788",
+      "store_url": "https://store.steampowered.com/app/4293910/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4032350,
+      "ok": true,
+      "name": "EA SPORTS™ College Football 27",
+      "type": "game",
+      "developers": [
+        "Tiburon"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 9, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "$69.99",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1781643937",
+      "store_url": "https://store.steampowered.com/app/4032350/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4163030,
+      "ok": true,
+      "name": "Cat Chess",
+      "type": "game",
+      "developers": [
+        "Capricia Labs"
+      ],
+      "publishers": [
+        "Capricia Productions"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 14, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4163030/20c4d944cbe1e07e0fb0ba64950b96b453fd8923/header.jpg?t=1782754804",
+      "store_url": "https://store.steampowered.com/app/4163030/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4306890,
+      "ok": true,
+      "name": "Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition)",
+      "type": "dlc",
+      "developers": [
+        "Cygames, Inc."
+      ],
+      "publishers": [
+        "Cygames, Inc."
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 8, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306890/a558cc704e2fedc385785e8a65c98a7845c29b1e/header.jpg?t=1781748039",
+      "store_url": "https://store.steampowered.com/app/4306890/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 2424420,
+      "ok": true,
+      "name": "Avatar Legends: The Fighting Game",
+      "type": "game",
+      "developers": [
+        "Gameplay Group International"
+      ],
+      "publishers": [
+        "PM Studios, Inc.",
+        "Skydance Games",
+        "Skydance Games (46084841)"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 23, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "$29.99",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/4c6170c42e43867a13b16b2d7431f30434d420bb/header.jpg?t=1783007456",
+      "store_url": "https://store.steampowered.com/app/2424420/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 1605850,
+      "ok": true,
+      "name": "ZeroSpace",
+      "type": "game",
+      "developers": [
+        "Starlance Studios",
+        "Ironward"
+      ],
+      "publishers": [
+        "Starlance Studios",
+        "Gamersky Games"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 20, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605850/e48190bb58bb1b9f218c0a220a5284661061d3cd/header.jpg?t=1782865471",
+      "store_url": "https://store.steampowered.com/app/1605850/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4047160,
+      "ok": true,
+      "name": "I'm Making a Monster",
+      "type": "game",
+      "developers": [
+        "zorkie studios"
+      ],
+      "publishers": [
+        "zorkie studios"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 5, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047160/f99629d1ea1e18ddc1fd91b6d98b80305677775e/header.jpg?t=1782272604",
+      "store_url": "https://store.steampowered.com/app/4047160/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3935020,
+      "ok": true,
+      "name": "Backyard Baseball",
+      "type": "game",
+      "developers": [
+        "Mega Cat Studios"
+      ],
+      "publishers": [
+        "Playground Productions"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 9, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935020/10ae84de59688050a1140103c1ecdbf987d8aeea/header.jpg?t=1780596336",
+      "store_url": "https://store.steampowered.com/app/3935020/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3440070,
+      "ok": true,
+      "name": "Dinoblade",
+      "type": "game",
+      "developers": [
+        "Team Spino LLC"
+      ],
+      "publishers": [
+        "Team Spino LLC",
+        "Boltray Games"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 23, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440070/d3bb8fe273de5f89504044835ff413c938552ed4/header.jpg?t=1783062413",
+      "store_url": "https://store.steampowered.com/app/3440070/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 2977260,
+      "ok": true,
+      "name": "The Guild - Europa 1410",
+      "type": "game",
+      "developers": [
+        "Ashborne Games"
+      ],
+      "publishers": [
+        "THQ Nordic"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 16, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2977260/874c570d9decdce3d69787daf77f61338e7efaa2/header.jpg?t=1781528392",
+      "store_url": "https://store.steampowered.com/app/2977260/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4376930,
+      "ok": true,
+      "name": "Disney Dreamlight Valley: Honeyglow Woods",
+      "type": "dlc",
+      "developers": [
+        "Gameloft"
+      ],
+      "publishers": [
+        "Gameloft"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 8, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376930/c24c762017ce3bfb20c82dad2abc4c2076688664/header.jpg?t=1781726919",
+      "store_url": "https://store.steampowered.com/app/4376930/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4090360,
+      "ok": true,
+      "name": "Forest Escape: Last Train",
+      "type": "game",
+      "developers": [
+        "Frag Lab, LLC"
+      ],
+      "publishers": [
+        "Two Cakes Studio",
+        "Frag Lab, LLC"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 10, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090360/96d6080ccff8c5617231deb2ea766a1c2bb531e7/header.jpg?t=1782734641",
+      "store_url": "https://store.steampowered.com/app/4090360/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4093240,
+      "ok": true,
+      "name": "Tokyo Valkyries",
+      "type": "game",
+      "developers": [
+        "qureate"
+      ],
+      "publishers": [
+        "qureate"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 8, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093240/78820e864b501fdc97fbb661621b2d0332af3b1a/header.jpg?t=1782452377",
+      "store_url": "https://store.steampowered.com/app/4093240/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 2153760,
+      "ok": true,
+      "name": "Stronghold 4",
+      "type": "game",
+      "developers": [
+        "Firefly Studios"
+      ],
+      "publishers": [
+        "Firefly Studios"
+      ],
+      "coming_soon": true,
+      "release_date_text": "2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153760/23c6498eb6b680d3545012dd19f75a6fcf73ebc8/header_alt_assets_1.jpg?t=1782743433",
+      "store_url": "https://store.steampowered.com/app/2153760/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3722660,
+      "ok": true,
+      "name": "Cosmodrill",
+      "type": "game",
+      "developers": [
+        "Morse Morse Games"
+      ],
+      "publishers": [
+        "Morse Morse Games",
+        "NexraGames"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 6, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722660/910b19ab03841c54e98c5eaeba83f4948b3c20ff/header.jpg?t=1781083188",
+      "store_url": "https://store.steampowered.com/app/3722660/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4369490,
+      "ok": true,
+      "name": "Soulbound: Online",
+      "type": "game",
+      "developers": [
+        "SpiderWare"
+      ],
+      "publishers": [
+        "SpiderWare"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 21, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369490/d37861b36c02d295d093f50bb9104ec1251ca544/header.jpg?t=1782926363",
+      "store_url": "https://store.steampowered.com/app/4369490/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 2527160,
+      "ok": true,
+      "name": "Desktop Explorer",
+      "type": "game",
+      "developers": [
+        "Recurring Dream"
+      ],
+      "publishers": [
+        "Recurring Dream",
+        "Outersloth",
+        "indienova"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 17, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527160/b46833d5d59844beeed423eba57017414582f6d3/header.jpg?t=1783018119",
+      "store_url": "https://store.steampowered.com/app/2527160/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4824610,
+      "ok": true,
+      "name": "Resident Evil Veronica",
+      "type": "game",
+      "developers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "publishers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "coming_soon": true,
+      "release_date_text": "2027",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824610/28045d733a3ada082858b5b1a5149e33ee40f378/header.jpg?t=1780990195",
+      "store_url": "https://store.steampowered.com/app/4824610/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4853590,
+      "ok": true,
+      "name": "CORRUPT.EXE",
+      "type": "game",
+      "developers": [
+        "FORGE GAMES"
+      ],
+      "publishers": [
+        "FORGE GAMES"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 4, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853590/920f2fb02378f4e6235bb9519debab20879efc03/header.jpg?t=1782975616",
+      "store_url": "https://store.steampowered.com/app/4853590/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3453910,
+      "ok": true,
+      "name": "Happy's Humble BURGATORY",
+      "type": "game",
+      "developers": [
+        "Scythe Dev Team"
+      ],
+      "publishers": [
+        "tinyBuild"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 16, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/91f7015a434d01f15aaab97ff96cb6e4030a6f86/header.jpg?t=1782478683",
+      "store_url": "https://store.steampowered.com/app/3453910/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4508570,
+      "ok": true,
+      "name": "Veritas Tales: Witch of the Dark Castle",
+      "type": "game",
+      "developers": [
+        "ジギタリス出版"
+      ],
+      "publishers": [
+        "15 Industry"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 8, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508570/a928ae98d5030143507e944e7de25b072d3f2395/header.jpg?t=1783120894",
+      "store_url": "https://store.steampowered.com/app/4508570/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 2806050,
+      "ok": true,
+      "name": "Halo: Campaign Evolved",
+      "type": "game",
+      "developers": [
+        "Halo Studios"
+      ],
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 28, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "$49.99",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1782928973",
+      "store_url": "https://store.steampowered.com/app/2806050/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3257760,
+      "ok": true,
+      "name": "Sunken Dragon",
+      "type": "game",
+      "developers": [
+        "Pocket Game"
+      ],
+      "publishers": [
+        "Pocket Game"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 6, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3257760/2d4f1439834463361807985ef4a024e5b138df43/header.jpg?t=1781223960",
+      "store_url": "https://store.steampowered.com/app/3257760/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4323520,
+      "ok": true,
+      "name": "XeGrader plus",
+      "type": "game",
+      "developers": [
+        "Tokihiro NAITO"
+      ],
+      "publishers": [
+        "Tokihiro NAITO"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 6, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323520/e72da119700a7d559ac79c738b13b6554fe60474/header.jpg?t=1782686590",
+      "store_url": "https://store.steampowered.com/app/4323520/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3463400,
+      "ok": true,
+      "name": "Game Store Chronicle",
+      "type": "game",
+      "developers": [
+        "Imponix Game Studio"
+      ],
+      "publishers": [
+        "Imponix Game Studio"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 6, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3463400/53e761dcfcbe727d8b4ffcd263bc224e93575f97/header.jpg?t=1783116867",
+      "store_url": "https://store.steampowered.com/app/3463400/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4854680,
+      "ok": true,
+      "name": "Pictures at an Exhibition",
+      "type": "game",
+      "developers": [
+        "ixtli"
+      ],
+      "publishers": [
+        "ixtli"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 5, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854680/140c2d986369ad7c54045210278dde14d155c1f5/header.jpg?t=1781961468",
+      "store_url": "https://store.steampowered.com/app/4854680/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 2684890,
+      "ok": true,
+      "name": "Idle Village",
+      "type": "game",
+      "developers": [
+        "Trading House Games"
+      ],
+      "publishers": [
+        "Trading House Games"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 5, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684890/06e28a9e4cd360dd9dad18d472cf8d3719bfa9a8/header.jpg?t=1781504389",
+      "store_url": "https://store.steampowered.com/app/2684890/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4540330,
+      "ok": true,
+      "name": "Re:Born Isekai Company",
+      "type": "game",
+      "developers": [
+        "WantBss"
+      ],
+      "publishers": [
+        "WantBss"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 5, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540330/c4fb7a8865ab0c8ffa403ed7c2ecf3c639937af1/header.jpg?t=1782397484",
+      "store_url": "https://store.steampowered.com/app/4540330/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4869370,
+      "ok": true,
+      "name": "Doomsday Draft",
+      "type": "game",
+      "developers": [
+        "Palm and Stars"
+      ],
+      "publishers": [
+        "Palm and Stars"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 5, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4869370/f2e287c125ae43086477a0680d42ee7d7eac7bcc/header.jpg?t=1783113795",
+      "store_url": "https://store.steampowered.com/app/4869370/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 4641620,
+      "ok": true,
+      "name": "Space Fleet Logistics",
+      "type": "game",
+      "developers": [
+        "rcs_games"
+      ],
+      "publishers": [
+        "rcs_games"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 5, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641620/7cc67915f9af80742c2875fe1969ef8b2b3cd841/header.jpg?t=1782152171",
+      "store_url": "https://store.steampowered.com/app/4641620/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 2649560,
+      "ok": true,
+      "name": "Persona 6",
+      "type": "game",
+      "developers": [
+        "ATLUS"
+      ],
+      "publishers": [
+        "SEGA"
+      ],
+      "coming_soon": true,
+      "release_date_text": "To be announced",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649560/96402e10ba89cccb7906eecd235d7d812f8f9eb0/header.jpg?t=1781799583",
+      "store_url": "https://store.steampowered.com/app/2649560/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3059360,
+      "ok": true,
+      "name": "Yips!",
+      "type": "game",
+      "developers": [
+        "C.S.G"
+      ],
+      "publishers": [
+        "C.S.G"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 5, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059360/8f33ef940ea3cdef74662585ccdb800995dba426/header.jpg?t=1782098428",
+      "store_url": "https://store.steampowered.com/app/3059360/",
+      "reviews_total": 0,
+      "reviews_positive": 0,
+      "reviews_negative": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "review_positive_rate": null,
+      "current_players": null,
+      "player_count_status": "skipped_coming_soon"
+    },
+    {
+      "captured_at": "2026-07-04T05:10:05.970Z",
+      "appid": 3744640,
+      "ok": true,
+      "name": "NightBreak",
+      "type": "game",
+      "developers": [
+        "Davin Clément"
+      ],
+      "publishers": [
+        "Davin Clément"
+      ],
+      "coming_soon": true,
+      "release_date_text": "Jul 5, 2026",
+      "required_age": 0,
+      "is_free": false,
+      "price_text": "",
+      "initial_price_text": "",
+      "discount_percent": 0,
+      "recommendations_total": null,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744640/d7e1988312a2c3425102c165a623e151c3f0e6aa/header.jpg?t=1773847137",
+      "store_url": "https://store.steampowered.com/app/3744640/",
       "reviews_total": 0,
       "reviews_positive": 0,
       "reviews_negative": 0,
