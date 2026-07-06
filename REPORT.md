@@ -1,6 +1,6 @@
 # Steam Launch Tracker Report
 
-Generated at: 2026-07-06T04:04:13.943Z
+Generated at: 2026-07-06T04:33:56.601Z
 
 This report tracks games from Steam Popular Upcoming. Wishlist rank values are matched from Steam Top Wishlists by appid; Steam does not expose public wishlist counts.
 
@@ -36,11 +36,11 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Desktop Explorer](https://store.steampowered.com/app/2527160/) | 2026-07-17 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Dinoblade](https://store.steampowered.com/app/3440070/) | 2026-07-23 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Disney Dreamlight Valley: Honeyglow Woods](https://store.steampowered.com/app/4376930/) | 2026-07-08 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| [DOOM: The Dark Ages \| Revelations](https://store.steampowered.com/app/3469450/) | 2026-07-07 | - | - | - | - | - | - | 698 | - | - | - | - | - | - | - | - |
+| [DOOM: The Dark Ages \| Revelations](https://store.steampowered.com/app/3469450/) | 2026-07-07 | - | - | - | - | - | - | 697 | - | - | - | - | - | - | - | - |
 | [Doomsday Draft](https://store.steampowered.com/app/4869370/) | 2026-07-05 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [DragonSword : Awakening](https://store.steampowered.com/app/4570720/) | 2026-07-22 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [DRUMP SIMULATOR](https://store.steampowered.com/app/4557030/) | 2026-07-03 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [EA SPORTS™ College Football 27](https://store.steampowered.com/app/4032350/) | 2026-07-09 | - | - | - | - | 1232 | - | - | - | - | - | - | - | - | - | - |
+| [EA SPORTS™ College Football 27](https://store.steampowered.com/app/4032350/) | 2026-07-09 | - | - | - | - | 1231 | - | - | - | - | - | - | - | - | - | - |
 | [Echoes of Aincrad](https://store.steampowered.com/app/2244210/) | 2026-07-09 | - | 42 | 41 | 39 | 39 | - | - | - | - | - | - | - | - | - | - |
 | [Esports Manager 2026](https://store.steampowered.com/app/2749950/) | 2026-07-06 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Fascist](https://store.steampowered.com/app/4291890/) | 2026-07-03 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
@@ -143,7 +143,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -6 | Wishlist rank | 13 | ok | 2026-07-03T04:27:24.412Z |
 | 2026-07-04 | -5 | Wishlist rank | 12 | ok | 2026-07-04T05:10:05.970Z |
 | 2026-07-05 | -4 | Wishlist rank | 12 | ok | 2026-07-05T05:38:17.292Z |
-| 2026-07-06 | -3 | Wishlist rank | 12 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | -3 | Wishlist rank | 12 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | -2 | Wishlist rank | - | not_collected |  |
 | 2026-07-08 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-07-09 | 0 | Reviews total | - | not_collected |  |
@@ -193,7 +193,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -6 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -5 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -4 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | -3 | Wishlist rank | 647 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | -3 | Wishlist rank | 647 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | -2 | Wishlist rank | - | not_collected |  |
 | 2026-07-08 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-07-09 | 0 | Reviews total | - | not_collected |  |
@@ -293,7 +293,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -6 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -5 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -4 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | -3 | Wishlist rank | 366 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | -3 | Wishlist rank | 366 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | -2 | Wishlist rank | - | not_collected |  |
 | 2026-07-08 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-07-09 | 0 | Reviews total | - | not_collected |  |
@@ -396,7 +396,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -495,7 +495,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -4 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | -1 | Wishlist rank | 698 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | -1 | Wishlist rank | 697 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 0 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 2 | Reviews total | - | not_collected |  |
@@ -593,7 +593,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -6 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -5 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -4 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | -3 | Wishlist rank | 1232 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | -3 | Wishlist rank | 1231 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | -2 | Wishlist rank | - | not_collected |  |
 | 2026-07-08 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-07-09 | 0 | Reviews total | - | not_collected |  |
@@ -618,7 +618,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -6 | Wishlist rank | 42 | ok | 2026-07-03T04:27:24.412Z |
 | 2026-07-04 | -5 | Wishlist rank | 41 | ok | 2026-07-04T05:10:05.970Z |
 | 2026-07-05 | -4 | Wishlist rank | 39 | ok | 2026-07-05T05:38:17.292Z |
-| 2026-07-06 | -3 | Wishlist rank | 39 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | -3 | Wishlist rank | 39 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | -2 | Wishlist rank | - | not_collected |  |
 | 2026-07-08 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-07-09 | 0 | Reviews total | - | not_collected |  |
@@ -646,7 +646,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -714,7 +714,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 
 | Date | Offset | Metric | Value | Status | Captured at |
 | --- | ---: | --- | ---: | --- | --- |
-| 2026-07-06 | -7 | Wishlist rank | 553 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | -7 | Wishlist rank | 553 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | -6 | Wishlist rank | - | not_collected |  |
 | 2026-07-08 | -5 | Wishlist rank | - | not_collected |  |
 | 2026-07-09 | -4 | Wishlist rank | - | not_collected |  |
@@ -742,7 +742,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -7 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -6 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -5 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | -4 | Wishlist rank | 993 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | -4 | Wishlist rank | 993 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | -3 | Wishlist rank | - | not_collected |  |
 | 2026-07-08 | -2 | Wishlist rank | - | not_collected |  |
 | 2026-07-09 | -1 | Wishlist rank | - | not_collected |  |
@@ -771,7 +771,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -819,7 +819,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -5 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -4 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | -2 | Wishlist rank | 383 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | -2 | Wishlist rank | 383 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-07-08 | 0 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 1 | Reviews total | - | not_collected |  |
@@ -844,7 +844,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -5 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -4 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | -2 | Wishlist rank | 373 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | -2 | Wishlist rank | 373 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-07-08 | 0 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 1 | Reviews total | - | not_collected |  |
@@ -921,7 +921,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -1096,7 +1096,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -1121,7 +1121,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -1146,7 +1146,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -1246,7 +1246,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -1346,7 +1346,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -1422,7 +1422,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | 0 | Reviews total | 0 | ok | 2026-07-05T05:38:17.292Z |
-| 2026-07-06 | 1 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 1 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 3 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 4 | Reviews total | - | not_collected |  |
@@ -1446,7 +1446,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -1470,7 +1470,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -4 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | -1 | Wishlist rank | 341 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | -1 | Wishlist rank | 341 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 0 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 2 | Reviews total | - | not_collected |  |
@@ -1496,7 +1496,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -1672,7 +1672,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | 0 | Reviews total | 0 | ok | 2026-07-05T05:38:17.292Z |
-| 2026-07-06 | 1 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 1 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 3 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 4 | Reviews total | - | not_collected |  |
@@ -1771,7 +1771,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -1969,7 +1969,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -5 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -4 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | -2 | Wishlist rank | 1315 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | -2 | Wishlist rank | 1315 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-07-08 | 0 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 1 | Reviews total | - | not_collected |  |
@@ -1996,7 +1996,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -2021,7 +2021,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
@@ -2046,7 +2046,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-07-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:02:06.146Z |
+| 2026-07-06 | 0 | Reviews total | 0 | ok | 2026-07-06T04:31:47.397Z |
 | 2026-07-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 2 | Reviews total | - | not_collected |  |
 | 2026-07-09 | 3 | Reviews total | - | not_collected |  |
