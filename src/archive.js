@@ -19,6 +19,7 @@ const db = readJson(dataPath, {
 });
 
 const wishlistSourceId = config.wishlistRankSourceId || "steam_top_wishlists";
+const primarySourceId = config.primaryTrackSourceId || "steam_popular_upcoming";
 const beforeDays = Number(config.windowDaysBefore || 7);
 const afterDays = Number(config.windowDaysAfter || 7);
 const archivedAt = new Date().toISOString();
@@ -26,13 +27,25 @@ const archivedAt = new Date().toISOString();
 ensureDataDir();
 
 const rankByAppDay = new Map();
+const rankSourceDays = new Set();
+const primaryAppRanks = new Map();
 for (const snapshot of db.rank_snapshots || []) {
-  if (snapshot.source !== wishlistSourceId) continue;
   const day = dayKey(snapshot.captured_at);
-  const key = `${snapshot.appid}|${day}`;
-  const existing = rankByAppDay.get(key);
-  if (!existing || snapshot.captured_at > existing.captured_at) {
-    rankByAppDay.set(key, snapshot);
+
+  if (snapshot.source === primarySourceId) {
+    const existing = primaryAppRanks.get(snapshot.appid);
+    if (!existing || snapshot.captured_at > existing.captured_at) {
+      primaryAppRanks.set(snapshot.appid, snapshot);
+    }
+  }
+
+  if (snapshot.source === wishlistSourceId) {
+    rankSourceDays.add(day);
+    const key = `${snapshot.appid}|${day}`;
+    const existing = rankByAppDay.get(key);
+    if (!existing || snapshot.captured_at > existing.captured_at) {
+      rankByAppDay.set(key, snapshot);
+    }
   }
 }
 
@@ -46,7 +59,12 @@ for (const snapshot of db.app_snapshots || []) {
   }
 }
 
-const apps = Object.values(db.apps || {}).sort((a, b) => {
+const apps = [...primaryAppRanks.values()].map((rankSnapshot) => {
+  return db.apps[rankSnapshot.appid] || {
+    appid: rankSnapshot.appid,
+    name: rankSnapshot.name || ""
+  };
+}).sort((a, b) => {
   return String(a.name || a.appid).localeCompare(String(b.name || b.appid));
 });
 
@@ -54,6 +72,7 @@ const archive = {
   meta: {
     schema: 1,
     archived_at: archivedAt,
+    tracking_pool_source: primarySourceId,
     wishlist_rank_source: wishlistSourceId,
     window_days_before: beforeDays,
     window_days_after: afterDays
@@ -73,6 +92,7 @@ for (const app of apps) {
       date,
       day_offset: offset,
       wishlist_rank: rank?.rank ?? null,
+      status: wishlistRankStatus(date, rank),
       captured_at: rank?.captured_at ?? null
     });
   }
@@ -139,6 +159,12 @@ function addDays(dateText, offset) {
   return date.toISOString().slice(0, 10);
 }
 
+function wishlistRankStatus(date, rank) {
+  if (rank) return "ok";
+  if (!rankSourceDays.has(date)) return "not_collected";
+  return "not_in_captured_wishlist_ranking";
+}
+
 function writeCsv(filePath, archiveData) {
   const rows = [
     [
@@ -149,6 +175,7 @@ function writeCsv(filePath, archiveData) {
       "date",
       "day_offset",
       "value",
+      "status",
       "captured_at"
     ]
   ];
@@ -163,6 +190,7 @@ function writeCsv(filePath, archiveData) {
         item.date,
         item.day_offset,
         item.wishlist_rank ?? "",
+        item.status,
         item.captured_at ?? ""
       ]);
     }
@@ -176,6 +204,7 @@ function writeCsv(filePath, archiveData) {
         item.date,
         item.day_offset,
         item.reviews_total ?? "",
+        item.reviews_total == null ? "not_collected" : "ok",
         item.captured_at ?? ""
       ]);
     }

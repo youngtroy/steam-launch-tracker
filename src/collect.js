@@ -66,7 +66,7 @@ for (const source of config.rankSources || []) {
         });
       }
 
-      if (pageRankings.length < pageSize) break;
+      if (pageRankings.length === 0) break;
       await sleep(config.requestDelayMs || 650);
     }
 
@@ -82,16 +82,21 @@ for (const source of config.rankSources || []) {
         name: item.name
       });
 
-      db.apps[item.appid] ||= {
-        appid: item.appid,
-        first_seen_at: capturedAt,
-        name: item.name
-      };
-      db.apps[item.appid].name = item.name || db.apps[item.appid].name;
-      db.apps[item.appid].last_seen_rank = item.rank;
-      db.apps[item.appid].last_seen_source = item.source;
-      db.apps[item.appid].last_seen_rank_by_source ||= {};
-      db.apps[item.appid].last_seen_rank_by_source[item.source] = item.rank;
+      if (source.id === primaryTrackSourceId) {
+        db.apps[item.appid] ||= {
+          appid: item.appid,
+          first_seen_at: capturedAt,
+          name: item.name
+        };
+        db.apps[item.appid].name = item.name || db.apps[item.appid].name;
+        db.apps[item.appid].last_seen_rank = item.rank;
+        db.apps[item.appid].last_seen_source = item.source;
+      }
+
+      if (db.apps[item.appid]) {
+        db.apps[item.appid].last_seen_rank_by_source ||= {};
+        db.apps[item.appid].last_seen_rank_by_source[item.source] = item.rank;
+      }
     }
   } catch (error) {
     errors.push({ at: capturedAt, scope: "rank_source", source: source.id, error: error.message });

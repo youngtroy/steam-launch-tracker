@@ -16,7 +16,7 @@
       "id": "steam_top_wishlists",
       "url": "https://store.steampowered.com/search/results/?query&start=0&count=100&dynamic_data=&sort_by=_ASC&filter=popularwishlist&infinite=1",
       "label": "Steam Top Wishlists",
-      "maxRank": 500,
+      "maxRank": 2000,
       "pageSize": 100
     }
   ],
