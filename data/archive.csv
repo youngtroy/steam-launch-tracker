@@ -18,7 +18,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3751950,Assassin's Creed Black Flag Resynced,2026-07-09,pre_launch_wishlist_rank,2026-07-03,-6,13,ok,2026-07-03T04:27:24.412Z
 3751950,Assassin's Creed Black Flag Resynced,2026-07-09,pre_launch_wishlist_rank,2026-07-04,-5,12,ok,2026-07-04T05:10:05.970Z
 3751950,Assassin's Creed Black Flag Resynced,2026-07-09,pre_launch_wishlist_rank,2026-07-05,-4,12,ok,2026-07-05T05:38:17.292Z
-3751950,Assassin's Creed Black Flag Resynced,2026-07-09,pre_launch_wishlist_rank,2026-07-06,-3,12,ok,2026-07-06T03:11:47.848Z
+3751950,Assassin's Creed Black Flag Resynced,2026-07-09,pre_launch_wishlist_rank,2026-07-06,-3,12,ok,2026-07-06T04:02:06.146Z
 3751950,Assassin's Creed Black Flag Resynced,2026-07-09,pre_launch_wishlist_rank,2026-07-07,-2,,not_collected,
 3751950,Assassin's Creed Black Flag Resynced,2026-07-09,pre_launch_wishlist_rank,2026-07-08,-1,,not_collected,
 3751950,Assassin's Creed Black Flag Resynced,2026-07-09,post_launch_reviews_total,2026-07-09,0,,not_collected,
@@ -48,7 +48,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3935020,Backyard Baseball,2026-07-09,pre_launch_wishlist_rank,2026-07-03,-6,,not_in_captured_wishlist_ranking,
 3935020,Backyard Baseball,2026-07-09,pre_launch_wishlist_rank,2026-07-04,-5,,not_in_captured_wishlist_ranking,
 3935020,Backyard Baseball,2026-07-09,pre_launch_wishlist_rank,2026-07-05,-4,,not_in_captured_wishlist_ranking,
-3935020,Backyard Baseball,2026-07-09,pre_launch_wishlist_rank,2026-07-06,-3,647,ok,2026-07-06T03:11:47.848Z
+3935020,Backyard Baseball,2026-07-09,pre_launch_wishlist_rank,2026-07-06,-3,647,ok,2026-07-06T04:02:06.146Z
 3935020,Backyard Baseball,2026-07-09,pre_launch_wishlist_rank,2026-07-07,-2,,not_collected,
 3935020,Backyard Baseball,2026-07-09,pre_launch_wishlist_rank,2026-07-08,-1,,not_collected,
 3935020,Backyard Baseball,2026-07-09,post_launch_reviews_total,2026-07-09,0,,not_collected,
@@ -108,7 +108,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4380490,Cat Mail Co.,2026-07-09,pre_launch_wishlist_rank,2026-07-03,-6,,not_in_captured_wishlist_ranking,
 4380490,Cat Mail Co.,2026-07-09,pre_launch_wishlist_rank,2026-07-04,-5,,not_in_captured_wishlist_ranking,
 4380490,Cat Mail Co.,2026-07-09,pre_launch_wishlist_rank,2026-07-05,-4,,not_in_captured_wishlist_ranking,
-4380490,Cat Mail Co.,2026-07-09,pre_launch_wishlist_rank,2026-07-06,-3,366,ok,2026-07-06T03:11:47.848Z
+4380490,Cat Mail Co.,2026-07-09,pre_launch_wishlist_rank,2026-07-06,-3,366,ok,2026-07-06T04:02:06.146Z
 4380490,Cat Mail Co.,2026-07-09,pre_launch_wishlist_rank,2026-07-07,-2,,not_collected,
 4380490,Cat Mail Co.,2026-07-09,pre_launch_wishlist_rank,2026-07-08,-1,,not_collected,
 4380490,Cat Mail Co.,2026-07-09,post_launch_reviews_total,2026-07-09,0,,not_collected,
@@ -171,7 +171,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3722660,Cosmodrill,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 3722660,Cosmodrill,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 3722660,Cosmodrill,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-3722660,Cosmodrill,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+3722660,Cosmodrill,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 3722660,Cosmodrill,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 3722660,Cosmodrill,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 3722660,Cosmodrill,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -230,7 +230,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3469450,DOOM: The Dark Ages | Revelations,2026-07-07,pre_launch_wishlist_rank,2026-07-03,-4,,not_in_captured_wishlist_ranking,
 3469450,DOOM: The Dark Ages | Revelations,2026-07-07,pre_launch_wishlist_rank,2026-07-04,-3,,not_in_captured_wishlist_ranking,
 3469450,DOOM: The Dark Ages | Revelations,2026-07-07,pre_launch_wishlist_rank,2026-07-05,-2,,not_in_captured_wishlist_ranking,
-3469450,DOOM: The Dark Ages | Revelations,2026-07-07,pre_launch_wishlist_rank,2026-07-06,-1,698,ok,2026-07-06T03:11:47.848Z
+3469450,DOOM: The Dark Ages | Revelations,2026-07-07,pre_launch_wishlist_rank,2026-07-06,-1,698,ok,2026-07-06T04:02:06.146Z
 3469450,DOOM: The Dark Ages | Revelations,2026-07-07,post_launch_reviews_total,2026-07-07,0,,not_collected,
 3469450,DOOM: The Dark Ages | Revelations,2026-07-07,post_launch_reviews_total,2026-07-08,1,,not_collected,
 3469450,DOOM: The Dark Ages | Revelations,2026-07-07,post_launch_reviews_total,2026-07-09,2,,not_collected,
@@ -288,7 +288,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4032350,EA SPORTS™ College Football 27,2026-07-09,pre_launch_wishlist_rank,2026-07-03,-6,,not_in_captured_wishlist_ranking,
 4032350,EA SPORTS™ College Football 27,2026-07-09,pre_launch_wishlist_rank,2026-07-04,-5,,not_in_captured_wishlist_ranking,
 4032350,EA SPORTS™ College Football 27,2026-07-09,pre_launch_wishlist_rank,2026-07-05,-4,,not_in_captured_wishlist_ranking,
-4032350,EA SPORTS™ College Football 27,2026-07-09,pre_launch_wishlist_rank,2026-07-06,-3,1232,ok,2026-07-06T03:11:47.848Z
+4032350,EA SPORTS™ College Football 27,2026-07-09,pre_launch_wishlist_rank,2026-07-06,-3,1232,ok,2026-07-06T04:02:06.146Z
 4032350,EA SPORTS™ College Football 27,2026-07-09,pre_launch_wishlist_rank,2026-07-07,-2,,not_collected,
 4032350,EA SPORTS™ College Football 27,2026-07-09,pre_launch_wishlist_rank,2026-07-08,-1,,not_collected,
 4032350,EA SPORTS™ College Football 27,2026-07-09,post_launch_reviews_total,2026-07-09,0,,not_collected,
@@ -303,7 +303,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 2244210,Echoes of Aincrad,2026-07-09,pre_launch_wishlist_rank,2026-07-03,-6,42,ok,2026-07-03T04:27:24.412Z
 2244210,Echoes of Aincrad,2026-07-09,pre_launch_wishlist_rank,2026-07-04,-5,41,ok,2026-07-04T05:10:05.970Z
 2244210,Echoes of Aincrad,2026-07-09,pre_launch_wishlist_rank,2026-07-05,-4,39,ok,2026-07-05T05:38:17.292Z
-2244210,Echoes of Aincrad,2026-07-09,pre_launch_wishlist_rank,2026-07-06,-3,39,ok,2026-07-06T03:11:47.848Z
+2244210,Echoes of Aincrad,2026-07-09,pre_launch_wishlist_rank,2026-07-06,-3,39,ok,2026-07-06T04:02:06.146Z
 2244210,Echoes of Aincrad,2026-07-09,pre_launch_wishlist_rank,2026-07-07,-2,,not_collected,
 2244210,Echoes of Aincrad,2026-07-09,pre_launch_wishlist_rank,2026-07-08,-1,,not_collected,
 2244210,Echoes of Aincrad,2026-07-09,post_launch_reviews_total,2026-07-09,0,,not_collected,
@@ -321,7 +321,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 2749950,Esports Manager 2026,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 2749950,Esports Manager 2026,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 2749950,Esports Manager 2026,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-2749950,Esports Manager 2026,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+2749950,Esports Manager 2026,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 2749950,Esports Manager 2026,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 2749950,Esports Manager 2026,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 2749950,Esports Manager 2026,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -359,7 +359,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4709940,Final Legal Move,2026-07-02,post_launch_reviews_total,2026-07-07,5,,not_collected,
 4709940,Final Legal Move,2026-07-02,post_launch_reviews_total,2026-07-08,6,,not_collected,
 4709940,Final Legal Move,2026-07-02,post_launch_reviews_total,2026-07-09,7,,not_collected,
-3765010,Forensics: Crime Scene Detective,2026-07-13,pre_launch_wishlist_rank,2026-07-06,-7,553,ok,2026-07-06T03:11:47.848Z
+3765010,Forensics: Crime Scene Detective,2026-07-13,pre_launch_wishlist_rank,2026-07-06,-7,553,ok,2026-07-06T04:02:06.146Z
 3765010,Forensics: Crime Scene Detective,2026-07-13,pre_launch_wishlist_rank,2026-07-07,-6,,not_collected,
 3765010,Forensics: Crime Scene Detective,2026-07-13,pre_launch_wishlist_rank,2026-07-08,-5,,not_collected,
 3765010,Forensics: Crime Scene Detective,2026-07-13,pre_launch_wishlist_rank,2026-07-09,-4,,not_collected,
@@ -377,7 +377,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4090360,Forest Escape: Last Train,2026-07-10,pre_launch_wishlist_rank,2026-07-03,-7,,not_in_captured_wishlist_ranking,
 4090360,Forest Escape: Last Train,2026-07-10,pre_launch_wishlist_rank,2026-07-04,-6,,not_in_captured_wishlist_ranking,
 4090360,Forest Escape: Last Train,2026-07-10,pre_launch_wishlist_rank,2026-07-05,-5,,not_in_captured_wishlist_ranking,
-4090360,Forest Escape: Last Train,2026-07-10,pre_launch_wishlist_rank,2026-07-06,-4,993,ok,2026-07-06T03:11:47.848Z
+4090360,Forest Escape: Last Train,2026-07-10,pre_launch_wishlist_rank,2026-07-06,-4,993,ok,2026-07-06T04:02:06.146Z
 4090360,Forest Escape: Last Train,2026-07-10,pre_launch_wishlist_rank,2026-07-07,-3,,not_collected,
 4090360,Forest Escape: Last Train,2026-07-10,pre_launch_wishlist_rank,2026-07-08,-2,,not_collected,
 4090360,Forest Escape: Last Train,2026-07-10,pre_launch_wishlist_rank,2026-07-09,-1,,not_collected,
@@ -396,7 +396,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4435870,Forest Fighters,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 4435870,Forest Fighters,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 4435870,Forest Fighters,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-4435870,Forest Fighters,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+4435870,Forest Fighters,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 4435870,Forest Fighters,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 4435870,Forest Fighters,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 4435870,Forest Fighters,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -424,7 +424,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4306890,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition),2026-07-08,pre_launch_wishlist_rank,2026-07-03,-5,,not_in_captured_wishlist_ranking,
 4306890,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition),2026-07-08,pre_launch_wishlist_rank,2026-07-04,-4,,not_in_captured_wishlist_ranking,
 4306890,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition),2026-07-08,pre_launch_wishlist_rank,2026-07-05,-3,,not_in_captured_wishlist_ranking,
-4306890,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition),2026-07-08,pre_launch_wishlist_rank,2026-07-06,-2,383,ok,2026-07-06T03:11:47.848Z
+4306890,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition),2026-07-08,pre_launch_wishlist_rank,2026-07-06,-2,383,ok,2026-07-06T04:02:06.146Z
 4306890,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition),2026-07-08,pre_launch_wishlist_rank,2026-07-07,-1,,not_collected,
 4306890,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition),2026-07-08,post_launch_reviews_total,2026-07-08,0,,not_collected,
 4306890,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition),2026-07-08,post_launch_reviews_total,2026-07-09,1,,not_collected,
@@ -439,7 +439,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3839790,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition),2026-07-08,pre_launch_wishlist_rank,2026-07-03,-5,,not_in_captured_wishlist_ranking,
 3839790,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition),2026-07-08,pre_launch_wishlist_rank,2026-07-04,-4,,not_in_captured_wishlist_ranking,
 3839790,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition),2026-07-08,pre_launch_wishlist_rank,2026-07-05,-3,,not_in_captured_wishlist_ranking,
-3839790,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition),2026-07-08,pre_launch_wishlist_rank,2026-07-06,-2,373,ok,2026-07-06T03:11:47.848Z
+3839790,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition),2026-07-08,pre_launch_wishlist_rank,2026-07-06,-2,373,ok,2026-07-06T04:02:06.146Z
 3839790,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition),2026-07-08,pre_launch_wishlist_rank,2026-07-07,-1,,not_collected,
 3839790,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition),2026-07-08,post_launch_reviews_total,2026-07-08,0,,not_collected,
 3839790,Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition),2026-07-08,post_launch_reviews_total,2026-07-09,1,,not_collected,
@@ -486,7 +486,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3566760,Herb's Homegrown Havoc,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 3566760,Herb's Homegrown Havoc,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 3566760,Herb's Homegrown Havoc,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-3566760,Herb's Homegrown Havoc,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T02:23:33.220Z
+3566760,Herb's Homegrown Havoc,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 3566760,Herb's Homegrown Havoc,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 3566760,Herb's Homegrown Havoc,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 3566760,Herb's Homegrown Havoc,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -591,7 +591,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4822390,Iverian Wars: Craxion vs Defugel Archer Package,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 4822390,Iverian Wars: Craxion vs Defugel Archer Package,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 4822390,Iverian Wars: Craxion vs Defugel Archer Package,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-4822390,Iverian Wars: Craxion vs Defugel Archer Package,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+4822390,Iverian Wars: Craxion vs Defugel Archer Package,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 4822390,Iverian Wars: Craxion vs Defugel Archer Package,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 4822390,Iverian Wars: Craxion vs Defugel Archer Package,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 4822390,Iverian Wars: Craxion vs Defugel Archer Package,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -606,7 +606,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4822380,Iverian Wars: Craxion vs Defugel Assassin Package,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 4822380,Iverian Wars: Craxion vs Defugel Assassin Package,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 4822380,Iverian Wars: Craxion vs Defugel Assassin Package,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-4822380,Iverian Wars: Craxion vs Defugel Assassin Package,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+4822380,Iverian Wars: Craxion vs Defugel Assassin Package,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 4822380,Iverian Wars: Craxion vs Defugel Assassin Package,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 4822380,Iverian Wars: Craxion vs Defugel Assassin Package,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 4822380,Iverian Wars: Craxion vs Defugel Assassin Package,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -621,7 +621,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4822370,Iverian Wars: Craxion vs Defugel Warrior Package,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 4822370,Iverian Wars: Craxion vs Defugel Warrior Package,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 4822370,Iverian Wars: Craxion vs Defugel Warrior Package,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-4822370,Iverian Wars: Craxion vs Defugel Warrior Package,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+4822370,Iverian Wars: Craxion vs Defugel Warrior Package,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 4822370,Iverian Wars: Craxion vs Defugel Warrior Package,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 4822370,Iverian Wars: Craxion vs Defugel Warrior Package,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 4822370,Iverian Wars: Craxion vs Defugel Warrior Package,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -681,7 +681,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4652730,Lost Vessel,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 4652730,Lost Vessel,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 4652730,Lost Vessel,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-4652730,Lost Vessel,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+4652730,Lost Vessel,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 4652730,Lost Vessel,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 4652730,Lost Vessel,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 4652730,Lost Vessel,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -741,7 +741,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 2209900,Moonlight Peaks,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 2209900,Moonlight Peaks,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 2209900,Moonlight Peaks,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-2209900,Moonlight Peaks,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+2209900,Moonlight Peaks,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 2209900,Moonlight Peaks,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 2209900,Moonlight Peaks,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 2209900,Moonlight Peaks,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -787,7 +787,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3744640,NightBreak,2026-07-05,pre_launch_wishlist_rank,2026-07-03,-2,,not_in_captured_wishlist_ranking,
 3744640,NightBreak,2026-07-05,pre_launch_wishlist_rank,2026-07-04,-1,,not_in_captured_wishlist_ranking,
 3744640,NightBreak,2026-07-05,post_launch_reviews_total,2026-07-05,0,0,ok,2026-07-05T05:38:17.292Z
-3744640,NightBreak,2026-07-05,post_launch_reviews_total,2026-07-06,1,0,ok,2026-07-06T03:11:47.848Z
+3744640,NightBreak,2026-07-05,post_launch_reviews_total,2026-07-06,1,0,ok,2026-07-06T04:02:06.146Z
 3744640,NightBreak,2026-07-05,post_launch_reviews_total,2026-07-07,2,,not_collected,
 3744640,NightBreak,2026-07-05,post_launch_reviews_total,2026-07-08,3,,not_collected,
 3744640,NightBreak,2026-07-05,post_launch_reviews_total,2026-07-09,4,,not_collected,
@@ -801,7 +801,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4813570,Nightclub Empire,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 4813570,Nightclub Empire,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 4813570,Nightclub Empire,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-4813570,Nightclub Empire,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+4813570,Nightclub Empire,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 4813570,Nightclub Empire,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 4813570,Nightclub Empire,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 4813570,Nightclub Empire,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -815,7 +815,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4508340,NTE: Neverness to Everness,2026-07-07,pre_launch_wishlist_rank,2026-07-03,-4,,not_in_captured_wishlist_ranking,
 4508340,NTE: Neverness to Everness,2026-07-07,pre_launch_wishlist_rank,2026-07-04,-3,,not_in_captured_wishlist_ranking,
 4508340,NTE: Neverness to Everness,2026-07-07,pre_launch_wishlist_rank,2026-07-05,-2,,not_in_captured_wishlist_ranking,
-4508340,NTE: Neverness to Everness,2026-07-07,pre_launch_wishlist_rank,2026-07-06,-1,341,ok,2026-07-06T03:11:47.848Z
+4508340,NTE: Neverness to Everness,2026-07-07,pre_launch_wishlist_rank,2026-07-06,-1,341,ok,2026-07-06T04:02:06.146Z
 4508340,NTE: Neverness to Everness,2026-07-07,post_launch_reviews_total,2026-07-07,0,,not_collected,
 4508340,NTE: Neverness to Everness,2026-07-07,post_launch_reviews_total,2026-07-08,1,,not_collected,
 4508340,NTE: Neverness to Everness,2026-07-07,post_launch_reviews_total,2026-07-09,2,,not_collected,
@@ -831,7 +831,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4571030,Obey the Rules: Forest,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 4571030,Obey the Rules: Forest,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 4571030,Obey the Rules: Forest,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-4571030,Obey the Rules: Forest,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+4571030,Obey the Rules: Forest,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 4571030,Obey the Rules: Forest,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 4571030,Obey the Rules: Forest,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 4571030,Obey the Rules: Forest,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -937,7 +937,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4851520,ShapesFoundry,2026-07-05,pre_launch_wishlist_rank,2026-07-03,-2,,not_in_captured_wishlist_ranking,
 4851520,ShapesFoundry,2026-07-05,pre_launch_wishlist_rank,2026-07-04,-1,,not_in_captured_wishlist_ranking,
 4851520,ShapesFoundry,2026-07-05,post_launch_reviews_total,2026-07-05,0,0,ok,2026-07-05T05:38:17.292Z
-4851520,ShapesFoundry,2026-07-05,post_launch_reviews_total,2026-07-06,1,0,ok,2026-07-06T03:11:47.848Z
+4851520,ShapesFoundry,2026-07-05,post_launch_reviews_total,2026-07-06,1,0,ok,2026-07-06T04:02:06.146Z
 4851520,ShapesFoundry,2026-07-05,post_launch_reviews_total,2026-07-07,2,,not_collected,
 4851520,ShapesFoundry,2026-07-05,post_launch_reviews_total,2026-07-08,3,,not_collected,
 4851520,ShapesFoundry,2026-07-05,post_launch_reviews_total,2026-07-09,4,,not_collected,
@@ -996,7 +996,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3257760,Sunken Dragon,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 3257760,Sunken Dragon,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 3257760,Sunken Dragon,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-3257760,Sunken Dragon,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+3257760,Sunken Dragon,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 3257760,Sunken Dragon,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 3257760,Sunken Dragon,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 3257760,Sunken Dragon,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -1114,7 +1114,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4508570,Veritas Tales: Witch of the Dark Castle,2026-07-08,pre_launch_wishlist_rank,2026-07-03,-5,,not_in_captured_wishlist_ranking,
 4508570,Veritas Tales: Witch of the Dark Castle,2026-07-08,pre_launch_wishlist_rank,2026-07-04,-4,,not_in_captured_wishlist_ranking,
 4508570,Veritas Tales: Witch of the Dark Castle,2026-07-08,pre_launch_wishlist_rank,2026-07-05,-3,,not_in_captured_wishlist_ranking,
-4508570,Veritas Tales: Witch of the Dark Castle,2026-07-08,pre_launch_wishlist_rank,2026-07-06,-2,1315,ok,2026-07-06T03:11:47.848Z
+4508570,Veritas Tales: Witch of the Dark Castle,2026-07-08,pre_launch_wishlist_rank,2026-07-06,-2,1315,ok,2026-07-06T04:02:06.146Z
 4508570,Veritas Tales: Witch of the Dark Castle,2026-07-08,pre_launch_wishlist_rank,2026-07-07,-1,,not_collected,
 4508570,Veritas Tales: Witch of the Dark Castle,2026-07-08,post_launch_reviews_total,2026-07-08,0,,not_collected,
 4508570,Veritas Tales: Witch of the Dark Castle,2026-07-08,post_launch_reviews_total,2026-07-09,1,,not_collected,
@@ -1131,7 +1131,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4327470,XeGrader for MSX2 mode,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 4327470,XeGrader for MSX2 mode,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 4327470,XeGrader for MSX2 mode,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-4327470,XeGrader for MSX2 mode,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+4327470,XeGrader for MSX2 mode,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 4327470,XeGrader for MSX2 mode,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 4327470,XeGrader for MSX2 mode,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 4327470,XeGrader for MSX2 mode,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -1146,7 +1146,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4327460,XeGrader for Origin mode,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 4327460,XeGrader for Origin mode,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 4327460,XeGrader for Origin mode,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-4327460,XeGrader for Origin mode,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+4327460,XeGrader for Origin mode,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 4327460,XeGrader for Origin mode,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 4327460,XeGrader for Origin mode,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 4327460,XeGrader for Origin mode,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
@@ -1161,7 +1161,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4323520,XeGrader plus,2026-07-06,pre_launch_wishlist_rank,2026-07-03,-3,,not_in_captured_wishlist_ranking,
 4323520,XeGrader plus,2026-07-06,pre_launch_wishlist_rank,2026-07-04,-2,,not_in_captured_wishlist_ranking,
 4323520,XeGrader plus,2026-07-06,pre_launch_wishlist_rank,2026-07-05,-1,,not_in_captured_wishlist_ranking,
-4323520,XeGrader plus,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T03:11:47.848Z
+4323520,XeGrader plus,2026-07-06,post_launch_reviews_total,2026-07-06,0,0,ok,2026-07-06T04:02:06.146Z
 4323520,XeGrader plus,2026-07-06,post_launch_reviews_total,2026-07-07,1,,not_collected,
 4323520,XeGrader plus,2026-07-06,post_launch_reviews_total,2026-07-08,2,,not_collected,
 4323520,XeGrader plus,2026-07-06,post_launch_reviews_total,2026-07-09,3,,not_collected,
