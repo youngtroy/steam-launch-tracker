@@ -1,0 +1,49 @@
+name: Daily Steam archive report
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 09:35 Asia/Shanghai, written in UTC. Avoid the top of the hour.
+    - cron: "35 1 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: steam-launch-tracker-report
+  cancel-in-progress: false
+
+jobs:
+  collect-and-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Sync latest main
+        run: git pull --ff-only origin main
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: "24"
+
+      - name: Collect, archive, and build report
+        run: npm run daily
+
+      - name: Commit updated data and report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/data.json data/archive.json data/archive.csv REPORT.md
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Update Steam launch report"
+            git pull --rebase origin main
+            git push
+          fi

@@ -8,8 +8,8 @@
     "launch": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File launch.ps1",
     "collect": "node src/collect.js",
     "archive": "node src/archive.js",
-    "daily": "node src/collect.js && node src/archive.js",
-    "build:pages": "node src/build-pages.js",
+    "report": "node src/build-report.js",
+    "daily": "node src/collect.js && node src/archive.js && node src/build-report.js",
     "serve": "node src/server.js",
     "sample": "node src/write-sample.js"
   },

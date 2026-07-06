@@ -1,120 +1,89 @@
 # Steam Launch Tracker
 
-## GitHub Pages 部署
+追踪 Steam `Popular Upcoming` 游戏在发售前后窗口里的公开数据表现。
 
-可以直接部署成 GitHub Pages 静态网页，并用 GitHub Actions 每天自动采集和归档。
+当前方案是文档归档，不依赖 GitHub Pages：
 
-部署步骤见：
+- 每天由 GitHub Actions 自动执行采集。
+- 数据写入 `data/data.json`、`data/archive.json`、`data/archive.csv`。
+- 面向阅读的结果写入 [`REPORT.md`](REPORT.md)。
+- Actions 只 commit 文件，不部署网页。
 
-```text
-GITHUB_PAGES_DEPLOY.md
-```
+## 追踪口径
 
-核心文件：
+入池游戏来自 Steam `Popular Upcoming`。
 
-```text
-.github/workflows/daily-pages.yml
-```
+发售前数据：
 
-工作流每天 `09:35 Asia/Shanghai` 执行一次：
+- T-7 到 T-1 每天记录一次公开愿望单排名。
+- 愿望单排名来自 Steam `Top Wishlists`，通过 appid 匹配到入池游戏。
+- Steam 不公开单个游戏的 wishlist count，所以这里记录的是 rank，不是数量。
 
-```powershell
-npm run daily
-npm run build:pages
-```
+发售后数据：
 
-## 一键启动
+- D0 到 D7 每天记录一次 Steam 公开评论总数。
 
-双击：
+## 文档入口
 
-```text
-start.bat
-```
-
-它会自动：
-
-- 生成缺失的 `config.json`
-- 采集 Top 5 热门即将推出榜单数据
-- 启动本地看板服务
-- 打开 `http://localhost:5177`
-
-如果只想命令行启动：
-
-```powershell
-npm run launch
-```
-
-## 每日自动采集和归档
-
-注册 Windows 每日任务：
-
-```powershell
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File install-daily-task.ps1
-```
-
-默认每天 `09:30` 执行：
-
-```powershell
-npm run daily
-```
-
-归档文件：
+直接在 GitHub 仓库打开：
 
 ```text
-data/archive.json
+REPORT.md
+```
+
+适合表格处理的文件：
+
+```text
 data/archive.csv
 ```
 
-归档口径：
+完整结构化数据：
 
-- 发售前 7 天：每天的 Steam `Top Wishlists` 公开愿望单排名。
-- 发售后 0 到 7 天：每天的 Steam 评论总数。
-- 入池对象：Steam `Popular Upcoming` 热门即将推出榜单。
+```text
+data/archive.json
+data/data.json
+```
 
-本工具用于追踪 Steam 公开可见的热门即将推出作品在上线前后一段时间的表现，重点是 `T-7 ~ T+7` 窗口。
+## 自动任务
 
-它不会伪造“愿望单数量”：Steam 不公开每个游戏的 wishlist count。这里默认采集的是 Steam 热门即将推出榜单排名、评测摘要、当前在线人数、价格/发售状态等。
+工作流文件：
 
-## 使用
+```text
+.github/workflows/daily-report.yml
+```
+
+现在已经不部署 Pages，只生成文档报告。默认每天 `09:35 Asia/Shanghai` 执行一次。
+
+本地手动执行：
 
 ```powershell
-cd D:\test\steam-launch-tracker
-Copy-Item config.example.json config.json
-npm run collect
+npm run daily
+```
+
+只重新生成报告：
+
+```powershell
+npm run report
+```
+
+## 本地查看旧网页
+
+旧的本地网页代码仍保留，方便需要时本地预览：
+
+```powershell
 npm run serve
 ```
 
-打开：
+然后打开：
 
 ```text
 http://localhost:5177
 ```
 
-如果只是想先看界面：
-
-```powershell
-npm run sample
-npm run serve
-```
-
-## 采集数据
-
-- `rank`: Steam `Popular Upcoming` 搜索结果中的公开排名。
-- `current_players`: Steam Web API 当前在线人数。
-- `reviews_total / reviews_positive / reviews_negative`: Steam appreviews 摘要。
-- `coming_soon / detected_release_at`: 通过 Store appdetails 状态检测。
-- `price_text / discount_percent`: Store appdetails 价格信息。
-
-数据保存在：
-
-```text
-data/data.json
-```
-
-建议用 Windows 任务计划程序或 cron 每 1 小时执行一次 `npm run collect`。
+这个本地网页不再是线上发布方案的一部分。
 
 ## 注意
 
-- Steam 页面和接口可能限流或调整结构，采集器会把错误写入 `data/errors.log`。
-- SteamDB 不提供公开 API，也明确不允许自动抓取它的页面；本工具只从 Steam 公开页面/API 取数。
-- 愿望单数量只有开发者可在 Steamworks 后台看到，公开工具只能记录公开排名或做谨慎估算。
+- Steam 页面和接口可能限流或调整结构。
+- SteamDB 没有公开 API，也不适合自动抓取页面。
+- 本工具只使用 Steam 公开页面/API 能拿到的数据。
