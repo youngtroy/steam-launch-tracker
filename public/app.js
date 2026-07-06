@@ -26,7 +26,7 @@ async function load() {
 }
 
 async function fetchData() {
-  const candidates = ["/api/data", "data/data.json", "./data/data.json"];
+  const candidates = ["data/data.json", "./data/data.json", "/api/data"];
   let lastError = null;
 
   for (const url of candidates) {
