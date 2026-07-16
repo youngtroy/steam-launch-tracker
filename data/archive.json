@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema": 1,
-    "archived_at": "2026-07-15T04:34:52.929Z",
+    "archived_at": "2026-07-16T04:44:37.871Z",
     "tracking_pool_source": "steam_popular_upcoming",
     "wishlist_rank_source": "steam_top_wishlists",
     "window_days_before": 7,
@@ -894,9 +894,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -7,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 198,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -1561,9 +1561,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -1,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 663,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         }
       ],
       "post_launch_review_counts": [
@@ -2144,9 +2144,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -7,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 157,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -3311,9 +3311,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -1,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 1384,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         }
       ],
       "post_launch_review_counts": [
@@ -4686,9 +4686,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -1,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 984,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         }
       ],
       "post_launch_review_counts": [
@@ -4820,10 +4820,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -5561,9 +5561,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -1,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 327,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         }
       ],
       "post_launch_review_counts": [
@@ -5769,9 +5769,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -7,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 72,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -5901,9 +5901,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -6,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 525,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -6125,6 +6125,131 @@
         },
         {
           "date": "2026-07-15",
+          "day_offset": 7,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        }
+      ]
+    },
+    {
+      "appid": 3590290,
+      "name": "DIVE or DIE - Children of Rain",
+      "release_date": "2026-07-21",
+      "release_date_text": "Jul 21, 2026",
+      "detected_release_at": null,
+      "store_url": "https://store.steampowered.com/app/3590290/",
+      "pre_launch_wishlist_ranks": [
+        {
+          "date": "2026-07-14",
+          "day_offset": -7,
+          "wishlist_rank": 686,
+          "status": "ok",
+          "captured_at": "2026-07-14T04:32:48.120Z"
+        },
+        {
+          "date": "2026-07-15",
+          "day_offset": -6,
+          "wishlist_rank": 674,
+          "status": "ok",
+          "captured_at": "2026-07-15T04:32:45.763Z"
+        },
+        {
+          "date": "2026-07-16",
+          "day_offset": -5,
+          "wishlist_rank": 658,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
+        },
+        {
+          "date": "2026-07-17",
+          "day_offset": -4,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-18",
+          "day_offset": -3,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-19",
+          "day_offset": -2,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-20",
+          "day_offset": -1,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        }
+      ],
+      "post_launch_review_counts": [
+        {
+          "date": "2026-07-21",
+          "day_offset": 0,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-22",
+          "day_offset": 1,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-23",
+          "day_offset": 2,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-24",
+          "day_offset": 3,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-25",
+          "day_offset": 4,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-26",
+          "day_offset": 5,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-27",
+          "day_offset": 6,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-28",
           "day_offset": 7,
           "reviews_total": null,
           "reviews_positive": null,
@@ -6651,9 +6776,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -6,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 148,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -6750,6 +6875,131 @@
         },
         {
           "date": "2026-07-29",
+          "day_offset": 7,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        }
+      ]
+    },
+    {
+      "appid": 3279440,
+      "name": "Drone Sector",
+      "release_date": "2026-07-21",
+      "release_date_text": "Jul 21, 2026",
+      "detected_release_at": null,
+      "store_url": "https://store.steampowered.com/app/3279440/",
+      "pre_launch_wishlist_ranks": [
+        {
+          "date": "2026-07-14",
+          "day_offset": -7,
+          "wishlist_rank": 728,
+          "status": "ok",
+          "captured_at": "2026-07-14T04:32:48.120Z"
+        },
+        {
+          "date": "2026-07-15",
+          "day_offset": -6,
+          "wishlist_rank": 713,
+          "status": "ok",
+          "captured_at": "2026-07-15T04:32:45.763Z"
+        },
+        {
+          "date": "2026-07-16",
+          "day_offset": -5,
+          "wishlist_rank": 707,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
+        },
+        {
+          "date": "2026-07-17",
+          "day_offset": -4,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-18",
+          "day_offset": -3,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-19",
+          "day_offset": -2,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-20",
+          "day_offset": -1,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        }
+      ],
+      "post_launch_review_counts": [
+        {
+          "date": "2026-07-21",
+          "day_offset": 0,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-22",
+          "day_offset": 1,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-23",
+          "day_offset": 2,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-24",
+          "day_offset": 3,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-25",
+          "day_offset": 4,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-26",
+          "day_offset": 5,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-27",
+          "day_offset": 6,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-28",
           "day_offset": 7,
           "reviews_total": null,
           "reviews_positive": null,
@@ -8061,9 +8311,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -1,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 578,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         }
       ],
       "post_launch_review_counts": [
@@ -8509,6 +8759,131 @@
       ]
     },
     {
+      "appid": 951770,
+      "name": "Forsaken Realms: Vahrin's Call",
+      "release_date": "2026-07-27",
+      "release_date_text": "Jul 27, 2026",
+      "detected_release_at": null,
+      "store_url": "https://store.steampowered.com/app/951770/",
+      "pre_launch_wishlist_ranks": [
+        {
+          "date": "2026-07-20",
+          "day_offset": -7,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-21",
+          "day_offset": -6,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-22",
+          "day_offset": -5,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-23",
+          "day_offset": -4,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-24",
+          "day_offset": -3,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-25",
+          "day_offset": -2,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-26",
+          "day_offset": -1,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        }
+      ],
+      "post_launch_review_counts": [
+        {
+          "date": "2026-07-27",
+          "day_offset": 0,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-28",
+          "day_offset": 1,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-29",
+          "day_offset": 2,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-30",
+          "day_offset": 3,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-31",
+          "day_offset": 4,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-08-01",
+          "day_offset": 5,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-08-02",
+          "day_offset": 6,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-08-03",
+          "day_offset": 7,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        }
+      ]
+    },
+    {
       "appid": 3423990,
       "name": "Frozen Ship",
       "release_date": "2026-07-17",
@@ -8561,9 +8936,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -1,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 1124,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         }
       ],
       "post_launch_review_counts": [
@@ -8820,10 +9195,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -9644,9 +10019,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -7,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 493,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -10070,10 +10445,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -10320,10 +10695,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -12186,9 +12561,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -1,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 1216,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         }
       ],
       "post_launch_review_counts": [
@@ -12570,10 +12945,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -13915,9 +14290,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -4,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 602,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -14820,10 +15195,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -16070,10 +16445,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -16320,10 +16695,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -16695,10 +17070,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -16875,6 +17250,131 @@
         },
         {
           "date": "2026-07-15",
+          "day_offset": 7,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        }
+      ]
+    },
+    {
+      "appid": 4229450,
+      "name": "PowerWash Simulator 2 - STAR WARS Pack",
+      "release_date": "2026-07-16",
+      "release_date_text": "Jul 16, 2026",
+      "detected_release_at": null,
+      "store_url": "https://store.steampowered.com/app/4229450/",
+      "pre_launch_wishlist_ranks": [
+        {
+          "date": "2026-07-09",
+          "day_offset": -7,
+          "wishlist_rank": 1008,
+          "status": "ok",
+          "captured_at": "2026-07-09T05:46:21.155Z"
+        },
+        {
+          "date": "2026-07-10",
+          "day_offset": -6,
+          "wishlist_rank": 1000,
+          "status": "ok",
+          "captured_at": "2026-07-10T05:43:57.377Z"
+        },
+        {
+          "date": "2026-07-11",
+          "day_offset": -5,
+          "wishlist_rank": 992,
+          "status": "ok",
+          "captured_at": "2026-07-11T04:45:57.358Z"
+        },
+        {
+          "date": "2026-07-12",
+          "day_offset": -4,
+          "wishlist_rank": 985,
+          "status": "ok",
+          "captured_at": "2026-07-12T04:57:39.930Z"
+        },
+        {
+          "date": "2026-07-13",
+          "day_offset": -3,
+          "wishlist_rank": 978,
+          "status": "ok",
+          "captured_at": "2026-07-13T05:04:37.802Z"
+        },
+        {
+          "date": "2026-07-14",
+          "day_offset": -2,
+          "wishlist_rank": 974,
+          "status": "ok",
+          "captured_at": "2026-07-14T04:32:48.120Z"
+        },
+        {
+          "date": "2026-07-15",
+          "day_offset": -1,
+          "wishlist_rank": 968,
+          "status": "ok",
+          "captured_at": "2026-07-15T04:32:45.763Z"
+        }
+      ],
+      "post_launch_review_counts": [
+        {
+          "date": "2026-07-16",
+          "day_offset": 0,
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
+        },
+        {
+          "date": "2026-07-17",
+          "day_offset": 1,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-18",
+          "day_offset": 2,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-19",
+          "day_offset": 3,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-20",
+          "day_offset": 4,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-21",
+          "day_offset": 5,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-22",
+          "day_offset": 6,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-23",
           "day_offset": 7,
           "reviews_total": null,
           "reviews_positive": null,
@@ -17136,72 +17636,72 @@
     {
       "appid": 4212480,
       "name": "Ragnarok: The New World",
-      "release_date": "2026-07-15",
-      "release_date_text": "Jul 15, 2026",
+      "release_date": "2026-07-01",
+      "release_date_text": "July 2026",
       "detected_release_at": null,
       "store_url": "https://store.steampowered.com/app/4212480/",
       "pre_launch_wishlist_ranks": [
         {
-          "date": "2026-07-08",
+          "date": "2026-06-24",
           "day_offset": -7,
-          "wishlist_rank": 1294,
-          "status": "ok",
-          "captured_at": "2026-07-08T04:50:41.299Z"
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
         },
         {
-          "date": "2026-07-09",
+          "date": "2026-06-25",
           "day_offset": -6,
-          "wishlist_rank": 1274,
-          "status": "ok",
-          "captured_at": "2026-07-09T05:46:21.155Z"
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
         },
         {
-          "date": "2026-07-10",
+          "date": "2026-06-26",
           "day_offset": -5,
-          "wishlist_rank": 1232,
-          "status": "ok",
-          "captured_at": "2026-07-10T05:43:57.377Z"
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
         },
         {
-          "date": "2026-07-11",
+          "date": "2026-06-27",
           "day_offset": -4,
-          "wishlist_rank": 1181,
-          "status": "ok",
-          "captured_at": "2026-07-11T04:45:57.358Z"
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
         },
         {
-          "date": "2026-07-12",
+          "date": "2026-06-28",
           "day_offset": -3,
-          "wishlist_rank": 1120,
-          "status": "ok",
-          "captured_at": "2026-07-12T04:57:39.930Z"
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
         },
         {
-          "date": "2026-07-13",
+          "date": "2026-06-29",
           "day_offset": -2,
-          "wishlist_rank": 1025,
-          "status": "ok",
-          "captured_at": "2026-07-13T05:04:37.802Z"
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
         },
         {
-          "date": "2026-07-14",
+          "date": "2026-06-30",
           "day_offset": -1,
-          "wishlist_rank": 958,
-          "status": "ok",
-          "captured_at": "2026-07-14T04:32:48.120Z"
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
         }
       ],
       "post_launch_review_counts": [
         {
-          "date": "2026-07-15",
+          "date": "2026-07-01",
           "day_offset": 0,
-          "reviews_total": 0,
-          "reviews_positive": 0,
-          "reviews_negative": 0,
-          "captured_at": "2026-07-15T04:32:45.763Z"
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
         },
         {
-          "date": "2026-07-16",
+          "date": "2026-07-02",
           "day_offset": 1,
           "reviews_total": null,
           "reviews_positive": null,
@@ -17209,7 +17709,7 @@
           "captured_at": null
         },
         {
-          "date": "2026-07-17",
+          "date": "2026-07-03",
           "day_offset": 2,
           "reviews_total": null,
           "reviews_positive": null,
@@ -17217,7 +17717,7 @@
           "captured_at": null
         },
         {
-          "date": "2026-07-18",
+          "date": "2026-07-04",
           "day_offset": 3,
           "reviews_total": null,
           "reviews_positive": null,
@@ -17225,7 +17725,7 @@
           "captured_at": null
         },
         {
-          "date": "2026-07-19",
+          "date": "2026-07-05",
           "day_offset": 4,
           "reviews_total": null,
           "reviews_positive": null,
@@ -17233,7 +17733,7 @@
           "captured_at": null
         },
         {
-          "date": "2026-07-20",
+          "date": "2026-07-06",
           "day_offset": 5,
           "reviews_total": null,
           "reviews_positive": null,
@@ -17241,7 +17741,7 @@
           "captured_at": null
         },
         {
-          "date": "2026-07-21",
+          "date": "2026-07-07",
           "day_offset": 6,
           "reviews_total": null,
           "reviews_positive": null,
@@ -17249,7 +17749,7 @@
           "captured_at": null
         },
         {
-          "date": "2026-07-22",
+          "date": "2026-07-08",
           "day_offset": 7,
           "reviews_total": null,
           "reviews_positive": null,
@@ -17776,9 +18276,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -6,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 263,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -18000,6 +18500,131 @@
         },
         {
           "date": "2026-07-14",
+          "day_offset": 7,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        }
+      ]
+    },
+    {
+      "appid": 1553260,
+      "name": "Scarlet Deer Inn",
+      "release_date": "2026-07-21",
+      "release_date_text": "Jul 21, 2026",
+      "detected_release_at": null,
+      "store_url": "https://store.steampowered.com/app/1553260/",
+      "pre_launch_wishlist_ranks": [
+        {
+          "date": "2026-07-14",
+          "day_offset": -7,
+          "wishlist_rank": 578,
+          "status": "ok",
+          "captured_at": "2026-07-14T04:32:48.120Z"
+        },
+        {
+          "date": "2026-07-15",
+          "day_offset": -6,
+          "wishlist_rank": 571,
+          "status": "ok",
+          "captured_at": "2026-07-15T04:32:45.763Z"
+        },
+        {
+          "date": "2026-07-16",
+          "day_offset": -5,
+          "wishlist_rank": 560,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
+        },
+        {
+          "date": "2026-07-17",
+          "day_offset": -4,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-18",
+          "day_offset": -3,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-19",
+          "day_offset": -2,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-20",
+          "day_offset": -1,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        }
+      ],
+      "post_launch_review_counts": [
+        {
+          "date": "2026-07-21",
+          "day_offset": 0,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-22",
+          "day_offset": 1,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-23",
+          "day_offset": 2,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-24",
+          "day_offset": 3,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-25",
+          "day_offset": 4,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-26",
+          "day_offset": 5,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-27",
+          "day_offset": 6,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-28",
           "day_offset": 7,
           "reviews_total": null,
           "reviews_positive": null,
@@ -18509,6 +19134,131 @@
       ]
     },
     {
+      "appid": 3722330,
+      "name": "Shift At Midnight",
+      "release_date": "2026-07-22",
+      "release_date_text": "Jul 22, 2026",
+      "detected_release_at": null,
+      "store_url": "https://store.steampowered.com/app/3722330/",
+      "pre_launch_wishlist_ranks": [
+        {
+          "date": "2026-07-15",
+          "day_offset": -7,
+          "wishlist_rank": 66,
+          "status": "ok",
+          "captured_at": "2026-07-15T04:32:45.763Z"
+        },
+        {
+          "date": "2026-07-16",
+          "day_offset": -6,
+          "wishlist_rank": 66,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
+        },
+        {
+          "date": "2026-07-17",
+          "day_offset": -5,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-18",
+          "day_offset": -4,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-19",
+          "day_offset": -3,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-20",
+          "day_offset": -2,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-21",
+          "day_offset": -1,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        }
+      ],
+      "post_launch_review_counts": [
+        {
+          "date": "2026-07-22",
+          "day_offset": 0,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-23",
+          "day_offset": 1,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-24",
+          "day_offset": 2,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-25",
+          "day_offset": 3,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-26",
+          "day_offset": 4,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-27",
+          "day_offset": 5,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-28",
+          "day_offset": 6,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-29",
+          "day_offset": 7,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        }
+      ]
+    },
+    {
       "appid": 4624100,
       "name": "Smoke Town",
       "release_date": "2026-07-10",
@@ -18908,9 +19658,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -5,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 423,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -19686,9 +20436,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -1,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 1465,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         }
       ],
       "post_launch_review_counts": [
@@ -19936,9 +20686,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -1,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 1650,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         }
       ],
       "post_launch_review_counts": [
@@ -20901,9 +21651,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -6,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 90,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -22009,6 +22759,131 @@
       ]
     },
     {
+      "appid": 2936290,
+      "name": "The Life and Suffering of Prince Jerian",
+      "release_date": "2026-07-20",
+      "release_date_text": "Jul 20, 2026",
+      "detected_release_at": null,
+      "store_url": "https://store.steampowered.com/app/2936290/",
+      "pre_launch_wishlist_ranks": [
+        {
+          "date": "2026-07-13",
+          "day_offset": -7,
+          "wishlist_rank": 573,
+          "status": "ok",
+          "captured_at": "2026-07-13T05:04:37.802Z"
+        },
+        {
+          "date": "2026-07-14",
+          "day_offset": -6,
+          "wishlist_rank": 564,
+          "status": "ok",
+          "captured_at": "2026-07-14T04:32:48.120Z"
+        },
+        {
+          "date": "2026-07-15",
+          "day_offset": -5,
+          "wishlist_rank": 557,
+          "status": "ok",
+          "captured_at": "2026-07-15T04:32:45.763Z"
+        },
+        {
+          "date": "2026-07-16",
+          "day_offset": -4,
+          "wishlist_rank": 549,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
+        },
+        {
+          "date": "2026-07-17",
+          "day_offset": -3,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-18",
+          "day_offset": -2,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-19",
+          "day_offset": -1,
+          "wishlist_rank": null,
+          "status": "not_collected",
+          "captured_at": null
+        }
+      ],
+      "post_launch_review_counts": [
+        {
+          "date": "2026-07-20",
+          "day_offset": 0,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-21",
+          "day_offset": 1,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-22",
+          "day_offset": 2,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-23",
+          "day_offset": 3,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-24",
+          "day_offset": 4,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-25",
+          "day_offset": 5,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-26",
+          "day_offset": 6,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        },
+        {
+          "date": "2026-07-27",
+          "day_offset": 7,
+          "reviews_total": null,
+          "reviews_positive": null,
+          "reviews_negative": null,
+          "captured_at": null
+        }
+      ]
+    },
+    {
       "appid": 1696770,
       "name": "The Mermaid Mask",
       "release_date": "2026-07-16",
@@ -22070,10 +22945,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -22445,10 +23320,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -22945,10 +23820,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -23695,10 +24570,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -23820,10 +24695,10 @@
         {
           "date": "2026-07-16",
           "day_offset": 0,
-          "reviews_total": null,
-          "reviews_positive": null,
-          "reviews_negative": null,
-          "captured_at": null
+          "reviews_total": 0,
+          "reviews_positive": 0,
+          "reviews_negative": 0,
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
@@ -24540,9 +25415,9 @@
         {
           "date": "2026-07-16",
           "day_offset": -4,
-          "wishlist_rank": null,
-          "status": "not_collected",
-          "captured_at": null
+          "wishlist_rank": 199,
+          "status": "ok",
+          "captured_at": "2026-07-16T04:42:31.378Z"
         },
         {
           "date": "2026-07-17",
