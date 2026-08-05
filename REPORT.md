@@ -1,6 +1,6 @@
 # Steam Launch Tracker Report
 
-Generated at: 2026-08-04T04:49:09.286Z
+Generated at: 2026-08-05T04:48:37.748Z
 
 This report tracks games from Steam Popular Upcoming. Wishlist rank values are matched from Steam Top Wishlists by appid; Steam does not expose public wishlist counts.
 
@@ -14,7 +14,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 
 - Tracking pool: `steam_popular_upcoming`
 - Wishlist rank source: `steam_top_wishlists`
-- Apps archived: 361
+- Apps archived: 367
 - Window: T-7 to T+7
 
 ## Compact Table
@@ -25,13 +25,14 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [A Game About Chopping Trees](https://store.steampowered.com/app/4512570/) | 2026-07-15 | 1639 | 1627 | 1580 | 1491 | 1394 | 1221 | 1093 | 0 | - | - | - | - | - | - | - |
 | [Abyss Kitchen](https://store.steampowered.com/app/3508910/) | 2026-07-24 | 1562 | 1536 | 1481 | 1428 | 1384 | 1354 | 1306 | - | - | - | - | - | - | - | - |
 | [Age of Clicks](https://store.steampowered.com/app/4804480/) | 2026-07-21 | - | - | - | - | - | 1914 | 1642 | 0 | - | - | - | - | - | - | - |
-| [Agefield High: Rock the School](https://store.steampowered.com/app/3562580/) | 2026-08-12 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| [Agent 64: Spies Never Die](https://store.steampowered.com/app/1574480/) | 2026-08-11 | 363 | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| [Akatori](https://store.steampowered.com/app/1442520/) | 2026-08-05 | 330 | 327 | 317 | 312 | 307 | 296 | 287 | - | - | - | - | - | - | - | - |
+| [Agefield High: Rock the School](https://store.steampowered.com/app/3562580/) | 2026-08-12 | 222 | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Agent 64: Spies Never Die](https://store.steampowered.com/app/1574480/) | 2026-08-11 | 363 | 354 | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Akatori](https://store.steampowered.com/app/1442520/) | 2026-08-05 | 330 | 327 | 317 | 312 | 307 | 296 | 287 | 0 | - | - | - | - | - | - | - |
+| [Alice and the Devil's Prison](https://store.steampowered.com/app/4145350/) | 2026-08-07 | - | - | - | - | 1924 | 1811 | - | - | - | - | - | - | - | - | - |
 | [American Revolutionary War](https://store.steampowered.com/app/4671050/) | 2026-07-03 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [An Eggstremely Hard Game](https://store.steampowered.com/app/4112070/) | 2026-07-24 | 545 | 539 | 530 | 523 | 516 | 507 | 491 | 0 | - | - | - | - | - | - | - |
 | [Anomaly President](https://store.steampowered.com/app/3156330/) | 2026-08-03 | 807 | 803 | 787 | 769 | 753 | 744 | 730 | 0 | - | - | - | - | - | - | - |
-| [Approximately Up](https://store.steampowered.com/app/3904850/) | 2026-08-06 | 454 | 449 | 448 | 448 | 447 | 440 | - | - | - | - | - | - | - | - | - |
+| [Approximately Up](https://store.steampowered.com/app/3904850/) | 2026-08-06 | 454 | 449 | 448 | 448 | 447 | 440 | 434 | - | - | - | - | - | - | - | - |
 | [Aquapark Tycoon](https://store.steampowered.com/app/2819470/) | 2026-07-22 | 912 | 901 | 882 | 866 | 853 | 818 | 791 | 0 | - | - | - | - | - | - | - |
 | [Archon Soul](https://store.steampowered.com/app/4252700/) | 2026-07-29 | - | - | 1991 | 1960 | 1931 | 1861 | 1792 | 0 | - | - | - | - | - | - | - |
 | [Arctic Shift: Fuel Station](https://store.steampowered.com/app/4371450/) | 2026-07-24 | - | - | - | - | 1947 | 1857 | 1750 | 0 | - | - | - | - | - | - | - |
@@ -50,17 +51,17 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Big Walk](https://store.steampowered.com/app/1478500/) | 2026-08-04 | 46 | 45 | 43 | 43 | 42 | 40 | 39 | 0 | - | - | - | - | - | - | - |
 | [Bills Must Be Paid](https://store.steampowered.com/app/4421010/) | 2026-07-29 | 1335 | 1295 | 1261 | 1231 | 1197 | 1097 | 1029 | 0 | - | - | - | - | - | - | - |
 | [Birds of War](https://store.steampowered.com/app/4223300/) | 2026-07-21 | 651 | 649 | 643 | 629 | 617 | 609 | 600 | 0 | - | - | - | - | - | - | - |
-| [Block Block Block](https://store.steampowered.com/app/3375490/) | 2026-08-05 | 1903 | 1870 | 1841 | 1809 | 1769 | 1706 | 1660 | - | - | - | - | - | - | - | - |
+| [Block Block Block](https://store.steampowered.com/app/3375490/) | 2026-08-05 | 1903 | 1870 | 1841 | 1809 | 1769 | 1706 | 1660 | 0 | - | - | - | - | - | - | - |
 | [BLUE REFLECTION Quartet](https://store.steampowered.com/app/3825390/) | 2026-07-29 | 1133 | 1112 | 1066 | 1045 | 1023 | 993 | 959 | 0 | - | - | - | - | - | - | - |
 | [Boba Cafe Simulator](https://store.steampowered.com/app/3683770/) | 2026-07-24 | 954 | 941 | 931 | 914 | 897 | 874 | 851 | 0 | - | - | - | - | - | - | - |
-| [BOMBANANA!](https://store.steampowered.com/app/4656000/) | 2026-08-01 | 62 | 60 | 59 | 58 | 57 | 55 | 55 | 0 | 0 | 0 | 0 | - | - | - | - |
+| [BOMBANANA!](https://store.steampowered.com/app/4656000/) | 2026-08-01 | 62 | 60 | 59 | 58 | 57 | 55 | 55 | 0 | 0 | 0 | 0 | 0 | - | - | - |
 | [Bonehold](https://store.steampowered.com/app/3497800/) | 2026-07-28 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Bookbinding – Dark Cozy Sim](https://store.steampowered.com/app/3555780/) | 2026-07-24 | 1055 | 1032 | 1017 | 969 | 932 | 899 | 863 | 0 | - | - | - | - | - | - | - |
 | [Borrow or Rob](https://store.steampowered.com/app/4853710/) | 2026-07-09 | - | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - |
 | [Bravest Coconut](https://store.steampowered.com/app/2913190/) | 2026-07-10 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Broken Reality 2000](https://store.steampowered.com/app/2133850/) | 2026-07-27 | 1795 | 1757 | 1715 | 1669 | 1618 | 1577 | 1545 | 0 | - | - | - | - | - | - | - |
 | [Bunker Buster](https://store.steampowered.com/app/4876950/) | 2026-07-07 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [Capy Castaway](https://store.steampowered.com/app/2890240/) | 2026-08-06 | 649 | 642 | 640 | 637 | 633 | 629 | - | - | - | - | - | - | - | - | - |
+| [Capy Castaway](https://store.steampowered.com/app/2890240/) | 2026-08-06 | 649 | 642 | 640 | 637 | 633 | 629 | 621 | - | - | - | - | - | - | - | - |
 | [Carnival Hunt](https://store.steampowered.com/app/1181550/) | 2026-07-23 | 157 | 155 | 151 | 149 | 148 | 146 | 144 | 0 | - | - | - | - | - | - | - |
 | [Carpet Cleaning Master](https://store.steampowered.com/app/3902040/) | 2026-07-01 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Carpet Cleaning Simulator](https://store.steampowered.com/app/4634560/) | 2026-07-12 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
@@ -71,14 +72,14 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Cat Mail Co.](https://store.steampowered.com/app/4380490/) | 2026-07-09 | - | - | - | - | 366 | 349 | 335 | 0 | - | - | - | - | - | - | - |
 | [Catto Pew Pew!](https://store.steampowered.com/app/3665520/) | 2026-07-20 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Celestial Return](https://store.steampowered.com/app/2704090/) | 2026-07-14 | 1892 | 1889 | 1882 | 1854 | 1780 | 1713 | 1606 | 0 | - | - | - | - | - | - | - |
-| [Cellar Keeper](https://store.steampowered.com/app/4935510/) | 2026-08-06 | 1685 | 1568 | 1467 | 1364 | 1241 | 1133 | - | - | - | - | - | - | - | - | - |
+| [Cellar Keeper](https://store.steampowered.com/app/4935510/) | 2026-08-06 | 1685 | 1568 | 1467 | 1364 | 1241 | 1133 | 1025 | - | - | - | - | - | - | - | - |
 | [CHEMISTS: Dead Zone](https://store.steampowered.com/app/4502180/) | 2026-07-10 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Chicken Battlefield](https://store.steampowered.com/app/4841480/) | 2026-07-07 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [Chop Chop Inc.](https://store.steampowered.com/app/4369130/) | 2026-08-07 | 452 | 443 | 422 | 396 | 380 | - | - | - | - | - | - | - | - | - | - |
+| [Chop Chop Inc.](https://store.steampowered.com/app/4369130/) | 2026-08-07 | 452 | 443 | 422 | 396 | 380 | 368 | - | - | - | - | - | - | - | - | - |
 | [City Bus Simulator 2026](https://store.steampowered.com/app/2860240/) | 2026-07-13 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Class of '09: Puzzle Showdown](https://store.steampowered.com/app/3861730/) | 2026-07-17 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Clawed](https://store.steampowered.com/app/3394840/) | 2026-08-13 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| [Cleaning Up The Puzzle Gallery](https://store.steampowered.com/app/4927490/) | 2026-08-05 | 1869 | 1752 | 1653 | 1570 | 1488 | 1376 | 1267 | - | - | - | - | - | - | - | - |
+| [Cleaning Up The Puzzle Gallery](https://store.steampowered.com/app/4927490/) | 2026-08-05 | 1869 | 1752 | 1653 | 1570 | 1488 | 1376 | 1267 | 0 | - | - | - | - | - | - | - |
 | [Code: Terraform](https://store.steampowered.com/app/868160/) | 2026-07-28 | - | - | - | - | - | 1979 | 1969 | - | - | - | - | - | - | - | - |
 | [Codename CURE II](https://store.steampowered.com/app/2810210/) | 2026-07-24 | 1578 | 1514 | 1450 | 1363 | 1299 | 1244 | 1164 | 0 | - | - | - | - | - | - | - |
 | [Colonies of The Remnant](https://store.steampowered.com/app/2872600/) | 2026-07-17 | - | 1907 | 1816 | 1641 | 1542 | 1448 | 1384 | 0 | - | - | - | - | - | - | - |
@@ -106,7 +107,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Desktop Explorer](https://store.steampowered.com/app/2527160/) | 2026-07-17 | 447 | 424 | 404 | 372 | 360 | 342 | 327 | 0 | - | - | - | - | - | - | - |
 | [Desktop Mate KAITO DLC](https://store.steampowered.com/app/4791000/) | 2026-07-08 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Dewdrop Dynasty](https://store.steampowered.com/app/1444080/) | 2026-07-21 | 1575 | 1554 | 1534 | 1492 | 1469 | 1448 | 1392 | 0 | - | - | - | - | - | - | - |
-| [Dig, Dig, Die](https://store.steampowered.com/app/4074010/) | 2026-08-06 | 683 | 670 | 655 | 629 | 598 | 559 | - | - | - | - | - | - | - | - | - |
+| [Dig, Dig, Die](https://store.steampowered.com/app/4074010/) | 2026-08-06 | 683 | 670 | 655 | 629 | 598 | 559 | 523 | - | - | - | - | - | - | - | - |
 | [Dinoblade](https://store.steampowered.com/app/3440070/) | 2026-07-23 | 72 | 69 | 67 | 66 | 63 | 59 | 55 | 0 | - | - | - | - | - | - | - |
 | [Dirty Business](https://store.steampowered.com/app/4324480/) | 2026-07-22 | 533 | 525 | 514 | 506 | 495 | 464 | 446 | 0 | - | - | - | - | - | - | - |
 | [DISCIPLINE SIMULATOR](https://store.steampowered.com/app/4739040/) | 2026-07-30 | 1512 | 1458 | 1413 | 1360 | 1232 | 1005 | 832 | 0 | - | - | - | - | - | - | - |
@@ -129,15 +130,15 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [EA SPORTS™ College Football 27](https://store.steampowered.com/app/4032350/) | 2026-07-09 | - | - | - | - | 1231 | 1199 | 1168 | 414 | - | - | - | - | - | - | - |
 | [ECHOES](https://store.steampowered.com/app/4875860/) | 2026-07-31 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Echoes of Aincrad](https://store.steampowered.com/app/2244210/) | 2026-07-09 | - | 42 | 41 | 39 | 39 | 39 | 39 | 0 | - | - | - | - | - | - | - |
-| [Echoes of Mystralia](https://store.steampowered.com/app/974480/) | 2026-08-11 | 233 | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Echoes of Mystralia](https://store.steampowered.com/app/974480/) | 2026-08-11 | 233 | 230 | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Elders K.O.](https://store.steampowered.com/app/3602630/) | 2026-07-31 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [Emergency Call - The Firefighting Simulation 3](https://store.steampowered.com/app/3447070/) | 2026-08-05 | 1979 | 1920 | 1859 | 1805 | 1755 | 1663 | 1587 | - | - | - | - | - | - | - | - |
+| [Emergency Call - The Firefighting Simulation 3](https://store.steampowered.com/app/3447070/) | 2026-08-05 | 1979 | 1920 | 1859 | 1805 | 1755 | 1663 | 1587 | 0 | - | - | - | - | - | - | - |
 | [Endacopia](https://store.steampowered.com/app/2684630/) | 2026-07-27 | 585 | 569 | 555 | 536 | 520 | 506 | 486 | 0 | - | - | - | - | - | - | - |
 | [Enigmo](https://store.steampowered.com/app/562770/) | 2026-07-07 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Escape the Urban Underground.](https://store.steampowered.com/app/4872670/) | 2026-07-07 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Esports Manager 2026](https://store.steampowered.com/app/2749950/) | 2026-07-06 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [EverRail](https://store.steampowered.com/app/4134600/) | 2026-07-20 | 1037 | 1025 | 1022 | 1008 | 957 | 923 | 893 | 0 | - | - | - | - | - | - | - |
-| [Expeditions: Samurai](https://store.steampowered.com/app/2212910/) | 2026-08-07 | 627 | 615 | 597 | 568 | 545 | - | - | - | - | - | - | - | - | - | - |
+| [Expeditions: Samurai](https://store.steampowered.com/app/2212910/) | 2026-08-07 | 627 | 615 | 597 | 568 | 545 | 527 | - | - | - | - | - | - | - | - | - |
 | [Fading Echo](https://store.steampowered.com/app/2467880/) | 2026-07-21 | 1001 | 991 | 981 | 958 | 947 | 933 | 907 | 0 | - | - | - | - | - | - | - |
 | [Fascist](https://store.steampowered.com/app/4291890/) | 2026-07-03 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Final Legal Move](https://store.steampowered.com/app/4709940/) | 2026-07-02 | - | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - |
@@ -153,7 +154,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Forest Fighters](https://store.steampowered.com/app/4435870/) | 2026-07-06 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Forgotten Playland: Party Edition](https://store.steampowered.com/app/3840260/) | 2026-07-30 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Forsaken Realms: Vahrin's Call](https://store.steampowered.com/app/951770/) | 2026-07-27 | 309 | 300 | 294 | 283 | 274 | 267 | 256 | 0 | - | - | - | - | - | - | - |
-| [Frozen Ship](https://store.steampowered.com/app/3423990/) | 2026-08-07 | 822 | 801 | 773 | 722 | 697 | - | - | - | - | - | - | - | - | - | - |
+| [Frozen Ship](https://store.steampowered.com/app/3423990/) | 2026-08-07 | 822 | 801 | 773 | 722 | 697 | 663 | - | - | - | - | - | - | - | - | - |
 | [Fugaz](https://store.steampowered.com/app/4389170/) | 2026-07-07 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Funnel Runners](https://store.steampowered.com/app/3712080/) | 2026-07-16 | 295 | 287 | 283 | 277 | 264 | 255 | 241 | 0 | - | - | - | - | - | - | - |
 | [G-Rebels](https://store.steampowered.com/app/2445980/) | 2026-07-20 | 901 | 877 | 855 | 833 | 806 | 786 | 765 | 0 | - | - | - | - | - | - | - |
@@ -161,11 +162,11 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Garisani Detective Agency](https://store.steampowered.com/app/4481850/) | 2026-07-14 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [GERONIMO](https://store.steampowered.com/app/2019620/) | 2026-07-10 | - | - | - | 797 | 794 | 789 | 786 | 0 | - | - | - | - | - | - | - |
 | [Girls vs Goblins](https://store.steampowered.com/app/4752780/) | 2026-07-10 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [GRAIN ROT](https://store.steampowered.com/app/4450620/) | 2026-08-07 | 223 | 219 | 211 | 197 | 188 | - | - | - | - | - | - | - | - | - | - |
+| [GRAIN ROT](https://store.steampowered.com/app/4450620/) | 2026-08-07 | 223 | 219 | 211 | 197 | 188 | 179 | - | - | - | - | - | - | - | - | - |
 | [Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Special Edition)](https://store.steampowered.com/app/4306890/) | 2026-07-08 | - | - | - | - | - | 383 | 379 | 0 | - | - | - | - | - | - | - |
 | [Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)](https://store.steampowered.com/app/3839790/) | 2026-07-08 | - | - | - | - | - | 373 | 364 | 0 | - | - | - | - | - | - | - |
 | [Grim Dawn - Fangs of Asterkarn](https://store.steampowered.com/app/2699230/) | 2026-07-23 | 493 | 480 | 466 | 459 | 450 | 418 | 406 | 0 | - | - | - | - | - | - | - |
-| [Gunstoppable](https://store.steampowered.com/app/3724710/) | 2026-08-05 | - | - | - | - | - | 1908 | 1834 | - | - | - | - | - | - | - | - |
+| [Gunstoppable](https://store.steampowered.com/app/3724710/) | 2026-08-05 | - | - | - | - | - | 1908 | 1834 | 0 | - | - | - | - | - | - | - |
 | [Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection](https://store.steampowered.com/app/4282450/) | 2026-07-09 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Gurei](https://store.steampowered.com/app/2191280/) | 2026-07-23 | 920 | 908 | 901 | 897 | 877 | 858 | 834 | - | - | - | - | - | - | - | - |
 | [Halo: Campaign Evolved](https://store.steampowered.com/app/2806050/) | 2026-07-28 | 43 | 43 | 43 | 42 | 41 | 41 | 40 | 4842 | - | - | - | - | - | - | - |
@@ -191,7 +192,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Infinitevania](https://store.steampowered.com/app/1983620/) | 2026-07-24 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Infinity Grass Cutting](https://store.steampowered.com/app/4744610/) | 2026-07-02 | - | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - |
 | [INSANIO](https://store.steampowered.com/app/4177650/) | 2026-07-10 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [IRON NEST: Heavy Turret Simulator](https://store.steampowered.com/app/2950790/) | 2026-08-06 | 35 | 34 | 34 | 32 | 33 | 31 | - | - | - | - | - | - | - | - | - |
+| [IRON NEST: Heavy Turret Simulator](https://store.steampowered.com/app/2950790/) | 2026-08-06 | 35 | 34 | 34 | 32 | 33 | 31 | 29 | - | - | - | - | - | - | - | - |
 | [Island Beekeeper](https://store.steampowered.com/app/3968160/) | 2026-07-28 | 1379 | 1328 | 1265 | 1219 | 1178 | 1138 | 1025 | 0 | - | - | - | - | - | - | - |
 | [Iverian Wars: Craxion vs Defugel Archer Package](https://store.steampowered.com/app/4822390/) | 2026-07-06 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Iverian Wars: Craxion vs Defugel Assassin Package](https://store.steampowered.com/app/4822380/) | 2026-07-06 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
@@ -213,11 +214,11 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Limitless Survivor](https://store.steampowered.com/app/4438540/) | 2026-07-24 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Liquidation](https://store.steampowered.com/app/896250/) | 2026-08-04 | 1490 | 1441 | 1393 | 1356 | 1317 | 1271 | 1188 | 0 | - | - | - | - | - | - | - |
 | [Lootbound](https://store.steampowered.com/app/3091140/) | 2026-08-14 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| [Lost & Found: A This Bed We Made Story](https://store.steampowered.com/app/4333200/) | 2026-08-05 | 1593 | 1557 | 1521 | 1477 | 1434 | 1354 | 1296 | - | - | - | - | - | - | - | - |
+| [Lost & Found: A This Bed We Made Story](https://store.steampowered.com/app/4333200/) | 2026-08-05 | 1593 | 1557 | 1521 | 1477 | 1434 | 1354 | 1296 | 0 | - | - | - | - | - | - | - |
 | [Lost Vessel](https://store.steampowered.com/app/4652730/) | 2026-07-06 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Low-Budget Repairs](https://store.steampowered.com/app/3167920/) | 2026-08-13 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Ludus Magnatus: Gladiator Manager Simulator](https://store.steampowered.com/app/4088670/) | 2026-07-21 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [Luminary](https://store.steampowered.com/app/1648360/) | 2026-08-11 | 728 | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Luminary](https://store.steampowered.com/app/1648360/) | 2026-08-11 | 728 | 716 | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Lunarium](https://store.steampowered.com/app/2939790/) | 2026-07-28 | 1038 | 1001 | 956 | 919 | 892 | 848 | 768 | 0 | - | - | - | - | - | - | - |
 | [Lured In](https://store.steampowered.com/app/4178020/) | 2026-07-17 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Machine Party](https://store.steampowered.com/app/4108000/) | 2026-07-30 | 281 | 276 | 270 | 261 | 251 | 235 | 228 | 0 | - | - | - | - | - | - | - |
@@ -225,9 +226,9 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Make it! Shaved Ice](https://store.steampowered.com/app/4834080/) | 2026-07-08 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Mall Together](https://store.steampowered.com/app/4668890/) | 2026-07-24 | 1906 | 1860 | 1801 | 1738 | 1688 | 1643 | 1590 | 0 | - | - | - | - | - | - | - |
 | [Mandate of Galactic Empires](https://store.steampowered.com/app/4738530/) | 2026-07-03 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [Mandate Order](https://store.steampowered.com/app/1733690/) | 2026-08-11 | 523 | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Mandate Order](https://store.steampowered.com/app/1733690/) | 2026-08-11 | 523 | 518 | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Manga Club Advisor wants to support Saeki Sasara](https://store.steampowered.com/app/4295960/) | 2026-07-31 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [MARVEL Tōkon: Fighting Souls](https://store.steampowered.com/app/3787240/) | 2026-08-06 | 124 | 122 | 119 | 118 | 117 | 113 | - | - | - | - | - | - | - | - | - |
+| [MARVEL Tōkon: Fighting Souls](https://store.steampowered.com/app/3787240/) | 2026-08-06 | 124 | 122 | 119 | 118 | 117 | 113 | 111 | - | - | - | - | - | - | - | - |
 | [Master Healer Kale with useless party](https://store.steampowered.com/app/4634490/) | 2026-07-02 | - | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - |
 | [Memo R.I.P.](https://store.steampowered.com/app/4697170/) | 2026-07-07 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Meowgic](https://store.steampowered.com/app/4252290/) | 2026-07-20 | 633 | 620 | 610 | 602 | 588 | 576 | 564 | 0 | - | - | - | - | - | - | - |
@@ -240,13 +241,14 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Mortal Shell II](https://store.steampowered.com/app/2584270/) | 2026-08-20 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Moss: The Forgotten Relic ](https://store.steampowered.com/app/3914860/) | 2026-07-16 | 459 | 445 | 428 | 411 | 387 | 371 | 358 | 0 | - | - | - | - | - | - | - |
 | [Mothkeep](https://store.steampowered.com/app/3920300/) | 2026-07-10 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
+| [My Fav Chill Streamer Dies a Million Times｜ゆるゆる生配信する推しは100万回死ぬ](https://store.steampowered.com/app/3507880/) | 2026-08-05 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Neko Station](https://store.steampowered.com/app/4141710/) | 2026-07-12 | - | - | - | - | 1996 | 1913 | 1805 | 0 | - | - | - | - | - | - | - |
 | [Nerds Revenge](https://store.steampowered.com/app/4373150/) | 2026-07-07 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [NightBreak](https://store.steampowered.com/app/3744640/) | 2026-07-05 | - | - | - | - | - | - | - | 0 | 0 | - | - | - | - | - | - |
 | [Nightclub Empire](https://store.steampowered.com/app/4813570/) | 2026-07-06 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Nivalis Nights](https://store.steampowered.com/app/1488490/) | 2026-09-29 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [no fox season](https://store.steampowered.com/app/3759670/) | 2026-07-24 | - | - | - | 1944 | 1749 | 1580 | 1415 | 0 | - | - | - | - | - | - | - |
-| [Nomad Drive](https://store.steampowered.com/app/2223980/) | 2026-08-01 | 416 | 412 | 406 | 401 | 395 | 388 | 379 | 0 | 0 | 0 | 0 | - | - | - | - |
+| [Nomad Drive](https://store.steampowered.com/app/2223980/) | 2026-08-01 | 416 | 412 | 406 | 401 | 395 | 388 | 379 | 0 | 0 | 0 | 0 | 0 | - | - | - |
 | [Nothing To Declare](https://store.steampowered.com/app/3894850/) | 2026-07-25 | 1121 | 1097 | 1071 | 1035 | 1014 | 987 | 959 | 0 | - | - | - | - | - | - | - |
 | [NTE: Neverness to Everness](https://store.steampowered.com/app/4508340/) | 2026-07-07 | - | - | - | - | - | - | 341 | 0 | - | - | - | - | - | - | - |
 | [Obey the Rules: Forest](https://store.steampowered.com/app/4571030/) | 2026-07-06 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
@@ -259,7 +261,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Outfield](https://store.steampowered.com/app/2210220/) | 2026-07-29 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [PARKSIDE: DECAYED SOUL MANIPULATION](https://store.steampowered.com/app/2530250/) | 2026-07-30 | 1661 | 1643 | 1621 | 1604 | 1571 | 1532 | 1492 | 0 | - | - | - | - | - | - | - |
 | [Pathogenic](https://store.steampowered.com/app/3808690/) | 2026-07-16 | 572 | 567 | 563 | 555 | 546 | 528 | 521 | 0 | - | - | - | - | - | - | - |
-| [Pax Autocratica](https://store.steampowered.com/app/1067360/) | 2026-08-10 | 170 | 163 | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Pax Autocratica](https://store.steampowered.com/app/1067360/) | 2026-08-10 | 170 | 163 | 158 | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Pet the Cat](https://store.steampowered.com/app/4605210/) | 2026-07-17 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Petrix](https://store.steampowered.com/app/4876730/) | 2026-07-07 | - | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - |
 | [Photomaly](https://store.steampowered.com/app/4286120/) | 2026-07-21 | 1890 | 1788 | 1709 | 1641 | 1583 | 1499 | 1303 | 0 | - | - | - | - | - | - | - |
@@ -274,15 +276,16 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Prelude Dark Pain](https://store.steampowered.com/app/2479090/) | 2026-07-27 | 558 | 544 | 535 | 526 | 517 | 511 | 501 | 0 | - | - | - | - | - | - | - |
 | [PROJECT: OJISAN](https://store.steampowered.com/app/4588010/) | 2026-07-06 | - | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - |
 | [Quarantine Market Simulator](https://store.steampowered.com/app/4386340/) | 2026-07-10 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [Quarantine Zombies - Prologue](https://store.steampowered.com/app/4411570/) | 2026-08-05 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Quarantine Zombies - Prologue](https://store.steampowered.com/app/4411570/) | 2026-08-05 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Ragnarok: The New World](https://store.steampowered.com/app/4212480/) | 2026-07-27 | 545 | 536 | 530 | 517 | 505 | 495 | 479 | 0 | - | - | - | - | - | - | - |
-| [Ranchbound](https://store.steampowered.com/app/3962040/) | 2026-08-05 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Ranchbound](https://store.steampowered.com/app/3962040/) | 2026-08-05 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
+| [Rancher: A new life](https://store.steampowered.com/app/2665250/) | 2026-08-06 | 1164 | 1159 | 1151 | 1128 | 1080 | 1033 | 1008 | - | - | - | - | - | - | - | - |
 | [Re:Born Isekai Company](https://store.steampowered.com/app/4540330/) | 2026-07-05 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Resident Evil Veronica](https://store.steampowered.com/app/4824610/) | 2027-01-01 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-| [ReStory: Chill Electronics Repairs](https://store.steampowered.com/app/3812600/) | 2026-08-06 | 66 | 66 | 64 | 61 | 58 | 55 | - | - | - | - | - | - | - | - | - |
+| [ReStory: Chill Electronics Repairs](https://store.steampowered.com/app/3812600/) | 2026-08-06 | 66 | 66 | 64 | 61 | 58 | 55 | 51 | - | - | - | - | - | - | - | - |
 | [Road Diner Simulator: Prologue](https://store.steampowered.com/app/3199870/) | 2026-07-27 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Rock Bottom](https://store.steampowered.com/app/4297840/) | 2026-07-14 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [Rogue Eclipse](https://store.steampowered.com/app/782260/) | 2026-08-07 | 1118 | 1085 | 1056 | 995 | 949 | - | - | - | - | - | - | - | - | - | - |
+| [Rogue Eclipse](https://store.steampowered.com/app/782260/) | 2026-08-07 | 1118 | 1085 | 1056 | 995 | 949 | 909 | - | - | - | - | - | - | - | - | - |
 | [Room Craft](https://store.steampowered.com/app/4509090/) | 2026-07-13 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Rubinite](https://store.steampowered.com/app/1845250/) | 2026-07-22 | 267 | 263 | 259 | 256 | 252 | 240 | 231 | 0 | - | - | - | - | - | - | - |
 | [RustPlow](https://store.steampowered.com/app/4784200/) | 2026-07-07 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
@@ -292,7 +295,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [ScramBrawl Demo](https://store.steampowered.com/app/4791950/) | 2026-07-08 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [SCREAM NOTE](https://store.steampowered.com/app/4791980/) | 2026-07-28 | 1572 | 1502 | 1424 | 1371 | 1328 | 1265 | 1143 | 0 | - | - | - | - | - | - | - |
 | [SCRIBBLE HUNT](https://store.steampowered.com/app/4864560/) | 2026-07-01 | - | - | - | - | - | - | - | - | - | 0 | 0 | 0 | 0 | 0 | 0 |
-| [Security 51](https://store.steampowered.com/app/4246860/) | 2026-08-12 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Security 51](https://store.steampowered.com/app/4246860/) | 2026-08-12 | 459 | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [SENARA: The Sacrament](https://store.steampowered.com/app/3915120/) | 2026-07-30 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Separated](https://store.steampowered.com/app/2976110/) | 2026-07-29 | 1409 | 1372 | 1343 | 1311 | 1276 | 1201 | 1133 | 0 | - | - | - | - | - | - | - |
 | [ShapesFoundry](https://store.steampowered.com/app/4851520/) | 2026-07-05 | - | - | - | - | - | - | - | 0 | 0 | - | - | - | - | - | - |
@@ -307,14 +310,16 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Soul Stone Defense Demo](https://store.steampowered.com/app/4930230/) | 2026-07-09 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Soulbound: Online](https://store.steampowered.com/app/4369490/) | 2026-07-21 | 452 | 437 | 423 | 405 | 389 | 362 | 329 | 0 | - | - | - | - | - | - | - |
 | [Soulforge Lost Path](https://store.steampowered.com/app/3839250/) | 2026-07-13 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [Sovereign Tower](https://store.steampowered.com/app/4113940/) | 2026-08-06 | 460 | 454 | 452 | 446 | 433 | 420 | - | - | - | - | - | - | - | - | - |
+| [Sovereign Tower](https://store.steampowered.com/app/4113940/) | 2026-08-06 | 460 | 454 | 452 | 446 | 433 | 420 | 406 | - | - | - | - | - | - | - | - |
 | [Space Fleet Logistics](https://store.steampowered.com/app/4641620/) | 2026-07-05 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Special Bloodline Lawyer: Fallen Angel's Container](https://store.steampowered.com/app/4831230/) | 2026-07-08 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [SpeedRunners 2: King of Speed](https://store.steampowered.com/app/3183760/) | 2026-07-01 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Spiritstead](https://store.steampowered.com/app/3501540/) | 2026-08-06 | 1097 | 1078 | 1072 | 1058 | 1031 | 1015 | 997 | - | - | - | - | - | - | - | - |
 | [SpiritVale](https://store.steampowered.com/app/3767850/) | 2026-07-15 | 702 | 695 | 682 | 673 | 657 | 638 | 605 | 0 | - | - | - | - | - | - | - |
 | [Sponge Break](https://store.steampowered.com/app/2657560/) | 2026-07-30 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [STAR WARS Zero Company™](https://store.steampowered.com/app/2075800/) | 2026-08-27 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Stick Scholars](https://store.steampowered.com/app/4458310/) | 2026-07-10 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
+| [Stonewards](https://store.steampowered.com/app/4502710/) | 2026-08-11 | 571 | 565 | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Strikers Club](https://store.steampowered.com/app/1952920/) | 2026-07-17 | - | - | 1986 | 1781 | 1659 | 1565 | 1465 | 0 | - | - | - | - | - | - | - |
 | [Stronghold 4](https://store.steampowered.com/app/2153760/) | 2026-01-01 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Subway Builder](https://store.steampowered.com/app/4039140/) | 2026-07-17 | - | - | - | - | - | 1808 | 1650 | 0 | - | - | - | - | - | - | - |
@@ -333,7 +338,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [The Alters: Last Variable](https://store.steampowered.com/app/3237520/) | 2026-07-13 | 1653 | 1626 | 1606 | 1582 | 1564 | 1539 | 1517 | 0 | - | - | - | - | - | - | - |
 | [The Blood of Dawnwalker](https://store.steampowered.com/app/3751260/) | 2026-09-02 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [The Crimson Maid](https://store.steampowered.com/app/2695260/) | 2026-07-14 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [The Division Resurgence](https://store.steampowered.com/app/3749720/) | 2026-08-05 | 1003 | 981 | 936 | 838 | 720 | 583 | 505 | - | - | - | - | - | - | - | - |
+| [The Division Resurgence](https://store.steampowered.com/app/3749720/) | 2026-08-05 | 1003 | 981 | 936 | 838 | 720 | 583 | 505 | 0 | - | - | - | - | - | - | - |
 | [The Guild - Europa 1410](https://store.steampowered.com/app/2977260/) | 2026-07-16 | 201 | 198 | 199 | 199 | 199 | 200 | 203 | - | - | - | - | - | - | - | - |
 | [The Hollow House](https://store.steampowered.com/app/4851270/) | 2026-07-07 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [The Incident at Galley House](https://store.steampowered.com/app/3641000/) | 2026-07-14 | 685 | 684 | 677 | 661 | 656 | 644 | 617 | 0 | - | - | - | - | - | - | - |
@@ -362,13 +367,13 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [Ugoku Sushi Bar](https://store.steampowered.com/app/3938640/) | 2026-07-29 | 1235 | 1199 | 1172 | 1150 | 1122 | 1039 | 986 | 0 | - | - | - | - | - | - | - |
 | [Ultimate Guess Game](https://store.steampowered.com/app/4864750/) | 2026-07-10 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Ultimate Wizard Demo](https://store.steampowered.com/app/4652020/) | 2026-07-06 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
-| [Uncanny Tales: The Watcher](https://store.steampowered.com/app/4217690/) | 2026-08-05 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Uncanny Tales: The Watcher](https://store.steampowered.com/app/4217690/) | 2026-08-05 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Unicycle Together](https://store.steampowered.com/app/4286040/) | 2026-07-31 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Unpaired Socks](https://store.steampowered.com/app/4345460/) | 2026-07-08 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Vape Store Miami: Prologue](https://store.steampowered.com/app/4849630/) | 2026-07-09 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Veritas Tales: Witch of the Dark Castle](https://store.steampowered.com/app/4508570/) | 2026-07-08 | - | - | - | - | - | 1315 | 1285 | 0 | - | - | - | - | - | - | - |
 | [Village in the Shade](https://store.steampowered.com/app/3934250/) | 2026-07-29 | 898 | 872 | 853 | 835 | 807 | 763 | 738 | 0 | - | - | - | - | - | - | - |
-| [Warhounds](https://store.steampowered.com/app/3929470/) | 2026-08-11 | 666 | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Warhounds](https://store.steampowered.com/app/3929470/) | 2026-08-11 | 666 | 654 | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [WE ARE SO DEAD](https://store.steampowered.com/app/4796830/) | 2026-08-17 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Welcome to the Game III](https://store.steampowered.com/app/3869850/) | 2026-07-16 | 1354 | 1337 | 1311 | 1292 | 1242 | 1203 | 1165 | 0 | - | - | - | - | - | - | - |
 | [Wreck Runners](https://store.steampowered.com/app/1473960/) | 2026-07-16 | 1298 | 1278 | 1257 | 1241 | 1216 | 1192 | 1166 | 0 | - | - | - | - | - | - | - |
@@ -377,6 +382,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | [XeGrader plus](https://store.steampowered.com/app/4323520/) | 2026-07-06 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [XenoFeels](https://store.steampowered.com/app/4293910/) | 2026-01-01 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | [Yips!](https://store.steampowered.com/app/3059360/) | 2026-07-05 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
+| [Zad Archery](https://store.steampowered.com/app/4412000/) | 2026-08-07 | 1709 | 1684 | 1639 | 1550 | 1486 | 1409 | - | - | - | - | - | - | - | - | - |
 | [ZeroSpace](https://store.steampowered.com/app/1605850/) | 2026-07-20 | 208 | 204 | 202 | 199 | 195 | 193 | 184 | 0 | - | - | - | - | - | - | - |
 | [ΠΟΛΙΣ — Athens](https://store.steampowered.com/app/4864450/) | 2026-07-09 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
 | [Альтушка для скуфа: Скачать бесплатно](https://store.steampowered.com/app/3592160/) | 2026-07-30 | - | - | - | - | - | - | - | 0 | - | - | - | - | - | - | - |
@@ -494,7 +500,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 
 | Date | Offset | Metric | Value | Status | Captured at |
 | --- | ---: | --- | ---: | --- | --- |
-| 2026-08-05 | -7 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -7 | Wishlist rank | 222 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -6 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | -5 | Wishlist rank | - | not_collected |  |
 | 2026-08-08 | -4 | Wishlist rank | - | not_collected |  |
@@ -520,7 +526,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | Date | Offset | Metric | Value | Status | Captured at |
 | --- | ---: | --- | ---: | --- | --- |
 | 2026-08-04 | -7 | Wishlist rank | 363 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -6 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -6 | Wishlist rank | 354 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -5 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | -4 | Wishlist rank | - | not_collected |  |
 | 2026-08-08 | -3 | Wishlist rank | - | not_collected |  |
@@ -551,7 +557,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -3 | Wishlist rank | 307 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -2 | Wishlist rank | 296 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -1 | Wishlist rank | 287 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-05 | 0 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 2 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 3 | Reviews total | - | not_collected |  |
@@ -559,6 +565,31 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-10 | 5 | Reviews total | - | not_collected |  |
 | 2026-08-11 | 6 | Reviews total | - | not_collected |  |
 | 2026-08-12 | 7 | Reviews total | - | not_collected |  |
+
+### Alice and the Devil's Prison
+
+- AppID: `4145350`
+- Store: https://store.steampowered.com/app/4145350/
+- Release date: 2026-08-07
+- Steam release text: Aug 7, 2026
+
+| Date | Offset | Metric | Value | Status | Captured at |
+| --- | ---: | --- | ---: | --- | --- |
+| 2026-07-31 | -7 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
+| 2026-08-01 | -6 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
+| 2026-08-02 | -5 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
+| 2026-08-03 | -4 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
+| 2026-08-04 | -3 | Wishlist rank | 1924 | ok | 2026-08-04T04:47:02.633Z |
+| 2026-08-05 | -2 | Wishlist rank | 1811 | ok | 2026-08-05T04:46:35.103Z |
+| 2026-08-06 | -1 | Wishlist rank | - | not_collected |  |
+| 2026-08-07 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-08 | 1 | Reviews total | - | not_collected |  |
+| 2026-08-09 | 2 | Reviews total | - | not_collected |  |
+| 2026-08-10 | 3 | Reviews total | - | not_collected |  |
+| 2026-08-11 | 4 | Reviews total | - | not_collected |  |
+| 2026-08-12 | 5 | Reviews total | - | not_collected |  |
+| 2026-08-13 | 6 | Reviews total | - | not_collected |  |
+| 2026-08-14 | 7 | Reviews total | - | not_collected |  |
 
 ### American Revolutionary War
 
@@ -650,7 +681,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -4 | Wishlist rank | 448 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -3 | Wishlist rank | 447 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -2 | Wishlist rank | 440 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -1 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -1 | Wishlist rank | 434 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 2 | Reviews total | - | not_collected |  |
@@ -1126,7 +1157,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -3 | Wishlist rank | 1769 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -2 | Wishlist rank | 1706 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -1 | Wishlist rank | 1660 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-05 | 0 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 2 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 3 | Reviews total | - | not_collected |  |
@@ -1205,7 +1236,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | 1 | Reviews total | 0 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | 2 | Reviews total | 0 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | 3 | Reviews total | 0 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | 4 | Reviews total | - | not_collected |  |
+| 2026-08-05 | 4 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 5 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 6 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 7 | Reviews total | - | not_collected |  |
@@ -1375,7 +1406,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -4 | Wishlist rank | 637 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -3 | Wishlist rank | 633 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -2 | Wishlist rank | 629 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -1 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -1 | Wishlist rank | 621 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 2 | Reviews total | - | not_collected |  |
@@ -1650,7 +1681,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -4 | Wishlist rank | 1364 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -3 | Wishlist rank | 1241 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -2 | Wishlist rank | 1133 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -1 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -1 | Wishlist rank | 1025 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 2 | Reviews total | - | not_collected |  |
@@ -1724,7 +1755,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -5 | Wishlist rank | 422 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -4 | Wishlist rank | 396 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -3 | Wishlist rank | 380 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -2 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -2 | Wishlist rank | 368 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 1 | Reviews total | - | not_collected |  |
@@ -1826,7 +1857,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -3 | Wishlist rank | 1488 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -2 | Wishlist rank | 1376 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -1 | Wishlist rank | 1267 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-05 | 0 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 2 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 3 | Reviews total | - | not_collected |  |
@@ -2525,7 +2556,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -4 | Wishlist rank | 629 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -3 | Wishlist rank | 598 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -2 | Wishlist rank | 559 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -1 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -1 | Wishlist rank | 523 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 2 | Reviews total | - | not_collected |  |
@@ -3095,7 +3126,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | Date | Offset | Metric | Value | Status | Captured at |
 | --- | ---: | --- | ---: | --- | --- |
 | 2026-08-04 | -7 | Wishlist rank | 233 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -6 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -6 | Wishlist rank | 230 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -5 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | -4 | Wishlist rank | - | not_collected |  |
 | 2026-08-08 | -3 | Wishlist rank | - | not_collected |  |
@@ -3151,7 +3182,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -3 | Wishlist rank | 1755 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -2 | Wishlist rank | 1663 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -1 | Wishlist rank | 1587 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-05 | 0 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 2 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 3 | Reviews total | - | not_collected |  |
@@ -3299,7 +3330,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -5 | Wishlist rank | 597 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -4 | Wishlist rank | 568 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -3 | Wishlist rank | 545 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -2 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -2 | Wishlist rank | 527 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 1 | Reviews total | - | not_collected |  |
@@ -3699,7 +3730,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -5 | Wishlist rank | 773 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -4 | Wishlist rank | 722 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -3 | Wishlist rank | 697 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -2 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -2 | Wishlist rank | 663 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 1 | Reviews total | - | not_collected |  |
@@ -3899,7 +3930,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -5 | Wishlist rank | 211 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -4 | Wishlist rank | 197 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -3 | Wishlist rank | 188 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -2 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -2 | Wishlist rank | 179 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 1 | Reviews total | - | not_collected |  |
@@ -4001,7 +4032,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-08-03 | -2 | Wishlist rank | 1908 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -1 | Wishlist rank | 1834 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-05 | 0 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 2 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 3 | Reviews total | - | not_collected |  |
@@ -4650,7 +4681,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -4 | Wishlist rank | 32 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -3 | Wishlist rank | 33 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -2 | Wishlist rank | 31 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -1 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -1 | Wishlist rank | 29 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 2 | Reviews total | - | not_collected |  |
@@ -5201,7 +5232,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -3 | Wishlist rank | 1434 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -2 | Wishlist rank | 1354 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -1 | Wishlist rank | 1296 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-05 | 0 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 2 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 3 | Reviews total | - | not_collected |  |
@@ -5295,7 +5326,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | Date | Offset | Metric | Value | Status | Captured at |
 | --- | ---: | --- | ---: | --- | --- |
 | 2026-08-04 | -7 | Wishlist rank | 728 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -6 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -6 | Wishlist rank | 716 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -5 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | -4 | Wishlist rank | - | not_collected |  |
 | 2026-08-08 | -3 | Wishlist rank | - | not_collected |  |
@@ -5495,7 +5526,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | Date | Offset | Metric | Value | Status | Captured at |
 | --- | ---: | --- | ---: | --- | --- |
 | 2026-08-04 | -7 | Wishlist rank | 523 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -6 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -6 | Wishlist rank | 518 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -5 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | -4 | Wishlist rank | - | not_collected |  |
 | 2026-08-08 | -3 | Wishlist rank | - | not_collected |  |
@@ -5550,7 +5581,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -4 | Wishlist rank | 118 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -3 | Wishlist rank | 117 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -2 | Wishlist rank | 113 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -1 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -1 | Wishlist rank | 111 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 2 | Reviews total | - | not_collected |  |
@@ -5860,6 +5891,31 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-16 | 6 | Reviews total | - | not_collected |  |
 | 2026-07-17 | 7 | Reviews total | - | not_collected |  |
 
+### My Fav Chill Streamer Dies a Million Times｜ゆるゆる生配信する推しは100万回死ぬ
+
+- AppID: `3507880`
+- Store: https://store.steampowered.com/app/3507880/
+- Release date: 2026-08-05
+- Steam release text: Aug 5, 2026
+
+| Date | Offset | Metric | Value | Status | Captured at |
+| --- | ---: | --- | ---: | --- | --- |
+| 2026-07-29 | -7 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
+| 2026-07-30 | -6 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
+| 2026-07-31 | -5 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
+| 2026-08-01 | -4 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
+| 2026-08-02 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
+| 2026-08-03 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
+| 2026-08-04 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
+| 2026-08-05 | 0 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
+| 2026-08-06 | 1 | Reviews total | - | not_collected |  |
+| 2026-08-07 | 2 | Reviews total | - | not_collected |  |
+| 2026-08-08 | 3 | Reviews total | - | not_collected |  |
+| 2026-08-09 | 4 | Reviews total | - | not_collected |  |
+| 2026-08-10 | 5 | Reviews total | - | not_collected |  |
+| 2026-08-11 | 6 | Reviews total | - | not_collected |  |
+| 2026-08-12 | 7 | Reviews total | - | not_collected |  |
+
 ### Neko Station
 
 - AppID: `4141710`
@@ -6030,7 +6086,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | 1 | Reviews total | 0 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | 2 | Reviews total | 0 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | 3 | Reviews total | 0 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | 4 | Reviews total | - | not_collected |  |
+| 2026-08-05 | 4 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 5 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 6 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 7 | Reviews total | - | not_collected |  |
@@ -6346,7 +6402,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | --- | ---: | --- | ---: | --- | --- |
 | 2026-08-03 | -7 | Wishlist rank | 170 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -6 | Wishlist rank | 163 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -5 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -5 | Wishlist rank | 158 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -4 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | -3 | Wishlist rank | - | not_collected |  |
 | 2026-08-08 | -2 | Wishlist rank | - | not_collected |  |
@@ -6726,7 +6782,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-08-03 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-08-04 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-08-05 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-05 | 0 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 2 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 3 | Reviews total | - | not_collected |  |
@@ -6776,7 +6832,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-08-03 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-08-04 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-08-05 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-05 | 0 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 2 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 3 | Reviews total | - | not_collected |  |
@@ -6784,6 +6840,31 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-10 | 5 | Reviews total | - | not_collected |  |
 | 2026-08-11 | 6 | Reviews total | - | not_collected |  |
 | 2026-08-12 | 7 | Reviews total | - | not_collected |  |
+
+### Rancher: A new life
+
+- AppID: `2665250`
+- Store: https://store.steampowered.com/app/2665250/
+- Release date: 2026-08-06
+- Steam release text: Aug 6, 2026
+
+| Date | Offset | Metric | Value | Status | Captured at |
+| --- | ---: | --- | ---: | --- | --- |
+| 2026-07-30 | -7 | Wishlist rank | 1164 | ok | 2026-07-30T04:38:29.620Z |
+| 2026-07-31 | -6 | Wishlist rank | 1159 | ok | 2026-07-31T05:04:54.532Z |
+| 2026-08-01 | -5 | Wishlist rank | 1151 | ok | 2026-08-01T04:58:14.130Z |
+| 2026-08-02 | -4 | Wishlist rank | 1128 | ok | 2026-08-02T04:58:24.052Z |
+| 2026-08-03 | -3 | Wishlist rank | 1080 | ok | 2026-08-03T05:07:42.912Z |
+| 2026-08-04 | -2 | Wishlist rank | 1033 | ok | 2026-08-04T04:47:02.633Z |
+| 2026-08-05 | -1 | Wishlist rank | 1008 | ok | 2026-08-05T04:46:35.103Z |
+| 2026-08-06 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-07 | 1 | Reviews total | - | not_collected |  |
+| 2026-08-08 | 2 | Reviews total | - | not_collected |  |
+| 2026-08-09 | 3 | Reviews total | - | not_collected |  |
+| 2026-08-10 | 4 | Reviews total | - | not_collected |  |
+| 2026-08-11 | 5 | Reviews total | - | not_collected |  |
+| 2026-08-12 | 6 | Reviews total | - | not_collected |  |
+| 2026-08-13 | 7 | Reviews total | - | not_collected |  |
 
 ### Re:Born Isekai Company
 
@@ -6850,7 +6931,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -4 | Wishlist rank | 61 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -3 | Wishlist rank | 58 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -2 | Wishlist rank | 55 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -1 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -1 | Wishlist rank | 51 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 2 | Reviews total | - | not_collected |  |
@@ -6924,7 +7005,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -5 | Wishlist rank | 1056 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -4 | Wishlist rank | 995 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -3 | Wishlist rank | 949 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -2 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -2 | Wishlist rank | 909 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -1 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 1 | Reviews total | - | not_collected |  |
@@ -7169,7 +7250,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 
 | Date | Offset | Metric | Value | Status | Captured at |
 | --- | ---: | --- | ---: | --- | --- |
-| 2026-08-05 | -7 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -7 | Wishlist rank | 459 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -6 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | -5 | Wishlist rank | - | not_collected |  |
 | 2026-08-08 | -4 | Wishlist rank | - | not_collected |  |
@@ -7550,7 +7631,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -4 | Wishlist rank | 446 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -3 | Wishlist rank | 433 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -2 | Wishlist rank | 420 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -1 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -1 | Wishlist rank | 406 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 2 | Reviews total | - | not_collected |  |
@@ -7634,6 +7715,31 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-06 | 5 | Reviews total | - | not_collected |  |
 | 2026-07-07 | 6 | Reviews total | - | not_collected |  |
 | 2026-07-08 | 7 | Reviews total | - | not_collected |  |
+
+### Spiritstead
+
+- AppID: `3501540`
+- Store: https://store.steampowered.com/app/3501540/
+- Release date: 2026-08-06
+- Steam release text: Aug 6, 2026
+
+| Date | Offset | Metric | Value | Status | Captured at |
+| --- | ---: | --- | ---: | --- | --- |
+| 2026-07-30 | -7 | Wishlist rank | 1097 | ok | 2026-07-30T04:38:29.620Z |
+| 2026-07-31 | -6 | Wishlist rank | 1078 | ok | 2026-07-31T05:04:54.532Z |
+| 2026-08-01 | -5 | Wishlist rank | 1072 | ok | 2026-08-01T04:58:14.130Z |
+| 2026-08-02 | -4 | Wishlist rank | 1058 | ok | 2026-08-02T04:58:24.052Z |
+| 2026-08-03 | -3 | Wishlist rank | 1031 | ok | 2026-08-03T05:07:42.912Z |
+| 2026-08-04 | -2 | Wishlist rank | 1015 | ok | 2026-08-04T04:47:02.633Z |
+| 2026-08-05 | -1 | Wishlist rank | 997 | ok | 2026-08-05T04:46:35.103Z |
+| 2026-08-06 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-07 | 1 | Reviews total | - | not_collected |  |
+| 2026-08-08 | 2 | Reviews total | - | not_collected |  |
+| 2026-08-09 | 3 | Reviews total | - | not_collected |  |
+| 2026-08-10 | 4 | Reviews total | - | not_collected |  |
+| 2026-08-11 | 5 | Reviews total | - | not_collected |  |
+| 2026-08-12 | 6 | Reviews total | - | not_collected |  |
+| 2026-08-13 | 7 | Reviews total | - | not_collected |  |
 
 ### SpiritVale
 
@@ -7734,6 +7840,31 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-15 | 5 | Reviews total | - | not_collected |  |
 | 2026-07-16 | 6 | Reviews total | - | not_collected |  |
 | 2026-07-17 | 7 | Reviews total | - | not_collected |  |
+
+### Stonewards
+
+- AppID: `4502710`
+- Store: https://store.steampowered.com/app/4502710/
+- Release date: 2026-08-11
+- Steam release text: Aug 11, 2026
+
+| Date | Offset | Metric | Value | Status | Captured at |
+| --- | ---: | --- | ---: | --- | --- |
+| 2026-08-04 | -7 | Wishlist rank | 571 | ok | 2026-08-04T04:47:02.633Z |
+| 2026-08-05 | -6 | Wishlist rank | 565 | ok | 2026-08-05T04:46:35.103Z |
+| 2026-08-06 | -5 | Wishlist rank | - | not_collected |  |
+| 2026-08-07 | -4 | Wishlist rank | - | not_collected |  |
+| 2026-08-08 | -3 | Wishlist rank | - | not_collected |  |
+| 2026-08-09 | -2 | Wishlist rank | - | not_collected |  |
+| 2026-08-10 | -1 | Wishlist rank | - | not_collected |  |
+| 2026-08-11 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-12 | 1 | Reviews total | - | not_collected |  |
+| 2026-08-13 | 2 | Reviews total | - | not_collected |  |
+| 2026-08-14 | 3 | Reviews total | - | not_collected |  |
+| 2026-08-15 | 4 | Reviews total | - | not_collected |  |
+| 2026-08-16 | 5 | Reviews total | - | not_collected |  |
+| 2026-08-17 | 6 | Reviews total | - | not_collected |  |
+| 2026-08-18 | 7 | Reviews total | - | not_collected |  |
 
 ### Strikers Club
 
@@ -8201,7 +8332,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -3 | Wishlist rank | 720 | ok | 2026-08-02T04:58:24.052Z |
 | 2026-08-03 | -2 | Wishlist rank | 583 | ok | 2026-08-03T05:07:42.912Z |
 | 2026-08-04 | -1 | Wishlist rank | 505 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-05 | 0 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 2 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 3 | Reviews total | - | not_collected |  |
@@ -8775,7 +8906,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -4 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-08-03 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-08-04 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-08-05 | -1 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-08-06 | 0 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 2 | Reviews total | - | not_collected |  |
@@ -8926,7 +9057,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-08-02 | -3 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-08-03 | -2 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
 | 2026-08-04 | -1 | Wishlist rank | - | not_in_captured_wishlist_ranking |  |
-| 2026-08-05 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-05 | 0 | Reviews total | 0 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | 1 | Reviews total | - | not_collected |  |
 | 2026-08-07 | 2 | Reviews total | - | not_collected |  |
 | 2026-08-08 | 3 | Reviews total | - | not_collected |  |
@@ -9070,7 +9201,7 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | Date | Offset | Metric | Value | Status | Captured at |
 | --- | ---: | --- | ---: | --- | --- |
 | 2026-08-04 | -7 | Wishlist rank | 666 | ok | 2026-08-04T04:47:02.633Z |
-| 2026-08-05 | -6 | Wishlist rank | - | not_collected |  |
+| 2026-08-05 | -6 | Wishlist rank | 654 | ok | 2026-08-05T04:46:35.103Z |
 | 2026-08-06 | -5 | Wishlist rank | - | not_collected |  |
 | 2026-08-07 | -4 | Wishlist rank | - | not_collected |  |
 | 2026-08-08 | -3 | Wishlist rank | - | not_collected |  |
@@ -9284,6 +9415,31 @@ This report tracks games from Steam Popular Upcoming. Wishlist rank values are m
 | 2026-07-10 | 5 | Reviews total | - | not_collected |  |
 | 2026-07-11 | 6 | Reviews total | - | not_collected |  |
 | 2026-07-12 | 7 | Reviews total | - | not_collected |  |
+
+### Zad Archery
+
+- AppID: `4412000`
+- Store: https://store.steampowered.com/app/4412000/
+- Release date: 2026-08-07
+- Steam release text: Aug 7, 2026
+
+| Date | Offset | Metric | Value | Status | Captured at |
+| --- | ---: | --- | ---: | --- | --- |
+| 2026-07-31 | -7 | Wishlist rank | 1709 | ok | 2026-07-31T05:04:54.532Z |
+| 2026-08-01 | -6 | Wishlist rank | 1684 | ok | 2026-08-01T04:58:14.130Z |
+| 2026-08-02 | -5 | Wishlist rank | 1639 | ok | 2026-08-02T04:58:24.052Z |
+| 2026-08-03 | -4 | Wishlist rank | 1550 | ok | 2026-08-03T05:07:42.912Z |
+| 2026-08-04 | -3 | Wishlist rank | 1486 | ok | 2026-08-04T04:47:02.633Z |
+| 2026-08-05 | -2 | Wishlist rank | 1409 | ok | 2026-08-05T04:46:35.103Z |
+| 2026-08-06 | -1 | Wishlist rank | - | not_collected |  |
+| 2026-08-07 | 0 | Reviews total | - | not_collected |  |
+| 2026-08-08 | 1 | Reviews total | - | not_collected |  |
+| 2026-08-09 | 2 | Reviews total | - | not_collected |  |
+| 2026-08-10 | 3 | Reviews total | - | not_collected |  |
+| 2026-08-11 | 4 | Reviews total | - | not_collected |  |
+| 2026-08-12 | 5 | Reviews total | - | not_collected |  |
+| 2026-08-13 | 6 | Reviews total | - | not_collected |  |
+| 2026-08-14 | 7 | Reviews total | - | not_collected |  |
 
 ### ZeroSpace
 
