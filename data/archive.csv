@@ -14,6 +14,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3902800,[HERROR] Gas Station Case,2026-08-11,post_launch_reviews_total,2026-08-16,5,,not_collected,
 3902800,[HERROR] Gas Station Case,2026-08-11,post_launch_reviews_total,2026-08-17,6,,not_collected,
 3902800,[HERROR] Gas Station Case,2026-08-11,post_launch_reviews_total,2026-08-18,7,,not_collected,
+4738100,10 Million Pixels,2026-11-27,pre_launch_wishlist_rank,2026-11-20,-7,,not_collected,
+4738100,10 Million Pixels,2026-11-27,pre_launch_wishlist_rank,2026-11-21,-6,,not_collected,
+4738100,10 Million Pixels,2026-11-27,pre_launch_wishlist_rank,2026-11-22,-5,,not_collected,
+4738100,10 Million Pixels,2026-11-27,pre_launch_wishlist_rank,2026-11-23,-4,,not_collected,
+4738100,10 Million Pixels,2026-11-27,pre_launch_wishlist_rank,2026-11-24,-3,,not_collected,
+4738100,10 Million Pixels,2026-11-27,pre_launch_wishlist_rank,2026-11-25,-2,,not_collected,
+4738100,10 Million Pixels,2026-11-27,pre_launch_wishlist_rank,2026-11-26,-1,,not_collected,
+4738100,10 Million Pixels,2026-11-27,post_launch_reviews_total,2026-11-27,0,,not_collected,
+4738100,10 Million Pixels,2026-11-27,post_launch_reviews_total,2026-11-28,1,,not_collected,
+4738100,10 Million Pixels,2026-11-27,post_launch_reviews_total,2026-11-29,2,,not_collected,
+4738100,10 Million Pixels,2026-11-27,post_launch_reviews_total,2026-11-30,3,,not_collected,
+4738100,10 Million Pixels,2026-11-27,post_launch_reviews_total,2026-12-01,4,,not_collected,
+4738100,10 Million Pixels,2026-11-27,post_launch_reviews_total,2026-12-02,5,,not_collected,
+4738100,10 Million Pixels,2026-11-27,post_launch_reviews_total,2026-12-03,6,,not_collected,
+4738100,10 Million Pixels,2026-11-27,post_launch_reviews_total,2026-12-04,7,,not_collected,
 3949550,1666: Amsterdam,2026-08-25,pre_launch_wishlist_rank,2026-08-18,-7,50,ok,2026-08-18T02:39:27.140Z
 3949550,1666: Amsterdam,2026-08-25,pre_launch_wishlist_rank,2026-08-19,-6,50,ok,2026-08-19T02:42:36.358Z
 3949550,1666: Amsterdam,2026-08-25,pre_launch_wishlist_rank,2026-08-20,-5,48,ok,2026-08-20T02:40:42.136Z
@@ -2238,7 +2253,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 2561460,Burning Sword: Death Sun,2026-11-17,pre_launch_wishlist_rank,2026-11-11,-6,707,ok,2026-11-11T08:16:44.931Z
 2561460,Burning Sword: Death Sun,2026-11-17,pre_launch_wishlist_rank,2026-11-12,-5,692,ok,2026-11-12T08:46:44.938Z
 2561460,Burning Sword: Death Sun,2026-11-17,pre_launch_wishlist_rank,2026-11-13,-4,678,ok,2026-11-13T08:41:20.681Z
-2561460,Burning Sword: Death Sun,2026-11-17,pre_launch_wishlist_rank,2026-11-14,-3,,not_collected,
+2561460,Burning Sword: Death Sun,2026-11-17,pre_launch_wishlist_rank,2026-11-14,-3,663,ok,2026-11-14T07:57:29.283Z
 2561460,Burning Sword: Death Sun,2026-11-17,pre_launch_wishlist_rank,2026-11-15,-2,,not_collected,
 2561460,Burning Sword: Death Sun,2026-11-17,pre_launch_wishlist_rank,2026-11-16,-1,,not_collected,
 2561460,Burning Sword: Death Sun,2026-11-17,post_launch_reviews_total,2026-11-17,0,,not_collected,
@@ -2459,21 +2474,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4634560,Carpet Cleaning Simulator,2026-07-12,post_launch_reviews_total,2026-07-17,5,,not_collected,
 4634560,Carpet Cleaning Simulator,2026-07-12,post_launch_reviews_total,2026-07-18,6,,not_collected,
 4634560,Carpet Cleaning Simulator,2026-07-12,post_launch_reviews_total,2026-07-19,7,,not_collected,
-4776500,Carry On Together,2026-11-01,pre_launch_wishlist_rank,2026-10-25,-7,1552,ok,2026-10-25T06:42:08.477Z
-4776500,Carry On Together,2026-11-01,pre_launch_wishlist_rank,2026-10-26,-6,1476,ok,2026-10-26T06:52:03.816Z
-4776500,Carry On Together,2026-11-01,pre_launch_wishlist_rank,2026-10-27,-5,1395,ok,2026-10-27T06:46:16.083Z
-4776500,Carry On Together,2026-11-01,pre_launch_wishlist_rank,2026-10-28,-4,1334,ok,2026-10-28T07:17:32.250Z
-4776500,Carry On Together,2026-11-01,pre_launch_wishlist_rank,2026-10-29,-3,1286,ok,2026-10-29T07:37:23.187Z
-4776500,Carry On Together,2026-11-01,pre_launch_wishlist_rank,2026-10-30,-2,1239,ok,2026-10-30T07:41:21.911Z
-4776500,Carry On Together,2026-11-01,pre_launch_wishlist_rank,2026-10-31,-1,1203,ok,2026-10-31T07:27:13.130Z
-4776500,Carry On Together,2026-11-01,post_launch_reviews_total,2026-11-01,0,,not_collected,2026-11-01T08:01:55.730Z
-4776500,Carry On Together,2026-11-01,post_launch_reviews_total,2026-11-02,1,,not_collected,2026-11-02T08:10:40.936Z
-4776500,Carry On Together,2026-11-01,post_launch_reviews_total,2026-11-03,2,,not_collected,2026-11-03T08:29:23.127Z
-4776500,Carry On Together,2026-11-01,post_launch_reviews_total,2026-11-04,3,,not_collected,2026-11-04T07:56:32.627Z
-4776500,Carry On Together,2026-11-01,post_launch_reviews_total,2026-11-05,4,,not_collected,2026-11-05T08:24:08.362Z
-4776500,Carry On Together,2026-11-01,post_launch_reviews_total,2026-11-06,5,,not_collected,2026-11-06T08:27:18.090Z
-4776500,Carry On Together,2026-11-01,post_launch_reviews_total,2026-11-07,6,,not_collected,2026-11-07T07:42:41.212Z
-4776500,Carry On Together,2026-11-01,post_launch_reviews_total,2026-11-08,7,,not_collected,2026-11-08T07:53:27.770Z
+4776500,Carry On Together,2026-11-27,pre_launch_wishlist_rank,2026-11-20,-7,,not_collected,
+4776500,Carry On Together,2026-11-27,pre_launch_wishlist_rank,2026-11-21,-6,,not_collected,
+4776500,Carry On Together,2026-11-27,pre_launch_wishlist_rank,2026-11-22,-5,,not_collected,
+4776500,Carry On Together,2026-11-27,pre_launch_wishlist_rank,2026-11-23,-4,,not_collected,
+4776500,Carry On Together,2026-11-27,pre_launch_wishlist_rank,2026-11-24,-3,,not_collected,
+4776500,Carry On Together,2026-11-27,pre_launch_wishlist_rank,2026-11-25,-2,,not_collected,
+4776500,Carry On Together,2026-11-27,pre_launch_wishlist_rank,2026-11-26,-1,,not_collected,
+4776500,Carry On Together,2026-11-27,post_launch_reviews_total,2026-11-27,0,,not_collected,
+4776500,Carry On Together,2026-11-27,post_launch_reviews_total,2026-11-28,1,,not_collected,
+4776500,Carry On Together,2026-11-27,post_launch_reviews_total,2026-11-29,2,,not_collected,
+4776500,Carry On Together,2026-11-27,post_launch_reviews_total,2026-11-30,3,,not_collected,
+4776500,Carry On Together,2026-11-27,post_launch_reviews_total,2026-12-01,4,,not_collected,
+4776500,Carry On Together,2026-11-27,post_launch_reviews_total,2026-12-02,5,,not_collected,
+4776500,Carry On Together,2026-11-27,post_launch_reviews_total,2026-12-03,6,,not_collected,
+4776500,Carry On Together,2026-11-27,post_launch_reviews_total,2026-12-04,7,,not_collected,
 4127360,Case Solved: The London Files,2026-07-29,pre_launch_wishlist_rank,2026-07-22,-7,,not_in_captured_wishlist_ranking,
 4127360,Case Solved: The London Files,2026-07-29,pre_launch_wishlist_rank,2026-07-23,-6,,not_in_captured_wishlist_ranking,
 4127360,Case Solved: The London Files,2026-07-29,pre_launch_wishlist_rank,2026-07-24,-5,1999,ok,2026-07-24T04:51:55.902Z
@@ -2894,6 +2909,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4650950,COCORO,2026-08-26,post_launch_reviews_total,2026-08-31,5,,not_collected,
 4650950,COCORO,2026-08-26,post_launch_reviews_total,2026-09-01,6,,not_collected,
 4650950,COCORO,2026-08-26,post_launch_reviews_total,2026-09-02,7,,not_collected,
+5451260,Code Market,2026-11-15,pre_launch_wishlist_rank,2026-11-08,-7,,not_in_captured_wishlist_ranking,
+5451260,Code Market,2026-11-15,pre_launch_wishlist_rank,2026-11-09,-6,,not_in_captured_wishlist_ranking,
+5451260,Code Market,2026-11-15,pre_launch_wishlist_rank,2026-11-10,-5,,not_in_captured_wishlist_ranking,
+5451260,Code Market,2026-11-15,pre_launch_wishlist_rank,2026-11-11,-4,,not_in_captured_wishlist_ranking,
+5451260,Code Market,2026-11-15,pre_launch_wishlist_rank,2026-11-12,-3,,not_in_captured_wishlist_ranking,
+5451260,Code Market,2026-11-15,pre_launch_wishlist_rank,2026-11-13,-2,,not_in_captured_wishlist_ranking,
+5451260,Code Market,2026-11-15,pre_launch_wishlist_rank,2026-11-14,-1,,not_in_captured_wishlist_ranking,
+5451260,Code Market,2026-11-15,post_launch_reviews_total,2026-11-15,0,,not_collected,
+5451260,Code Market,2026-11-15,post_launch_reviews_total,2026-11-16,1,,not_collected,
+5451260,Code Market,2026-11-15,post_launch_reviews_total,2026-11-17,2,,not_collected,
+5451260,Code Market,2026-11-15,post_launch_reviews_total,2026-11-18,3,,not_collected,
+5451260,Code Market,2026-11-15,post_launch_reviews_total,2026-11-19,4,,not_collected,
+5451260,Code Market,2026-11-15,post_launch_reviews_total,2026-11-20,5,,not_collected,
+5451260,Code Market,2026-11-15,post_launch_reviews_total,2026-11-21,6,,not_collected,
+5451260,Code Market,2026-11-15,post_launch_reviews_total,2026-11-22,7,,not_collected,
 868160,Code: Terraform,2026-09-09,pre_launch_wishlist_rank,2026-09-02,-7,1748,ok,2026-09-02T06:21:55.398Z
 868160,Code: Terraform,2026-09-09,pre_launch_wishlist_rank,2026-09-03,-6,1698,ok,2026-09-03T06:24:29.914Z
 868160,Code: Terraform,2026-09-09,pre_launch_wishlist_rank,2026-09-04,-5,1634,ok,2026-09-04T06:29:29.304Z
@@ -3528,7 +3558,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 2781660,Dawn of Defense,2026-11-17,pre_launch_wishlist_rank,2026-11-11,-6,478,ok,2026-11-11T08:16:44.931Z
 2781660,Dawn of Defense,2026-11-17,pre_launch_wishlist_rank,2026-11-12,-5,470,ok,2026-11-12T08:46:44.938Z
 2781660,Dawn of Defense,2026-11-17,pre_launch_wishlist_rank,2026-11-13,-4,454,ok,2026-11-13T08:41:20.681Z
-2781660,Dawn of Defense,2026-11-17,pre_launch_wishlist_rank,2026-11-14,-3,,not_collected,
+2781660,Dawn of Defense,2026-11-17,pre_launch_wishlist_rank,2026-11-14,-3,439,ok,2026-11-14T07:57:29.283Z
 2781660,Dawn of Defense,2026-11-17,pre_launch_wishlist_rank,2026-11-15,-2,,not_collected,
 2781660,Dawn of Defense,2026-11-17,pre_launch_wishlist_rank,2026-11-16,-1,,not_collected,
 2781660,Dawn of Defense,2026-11-17,post_launch_reviews_total,2026-11-17,0,,not_collected,
@@ -3584,6 +3614,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3816030,DayZ Badlands,2026-10-15,post_launch_reviews_total,2026-10-20,5,,not_collected,
 3816030,DayZ Badlands,2026-10-15,post_launch_reviews_total,2026-10-21,6,,not_collected,
 3816030,DayZ Badlands,2026-10-15,post_launch_reviews_total,2026-10-22,7,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,pre_launch_wishlist_rank,2026-11-17,-7,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,pre_launch_wishlist_rank,2026-11-18,-6,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,pre_launch_wishlist_rank,2026-11-19,-5,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,pre_launch_wishlist_rank,2026-11-20,-4,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,pre_launch_wishlist_rank,2026-11-21,-3,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,pre_launch_wishlist_rank,2026-11-22,-2,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,pre_launch_wishlist_rank,2026-11-23,-1,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,post_launch_reviews_total,2026-11-24,0,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,post_launch_reviews_total,2026-11-25,1,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,post_launch_reviews_total,2026-11-26,2,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,post_launch_reviews_total,2026-11-27,3,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,post_launch_reviews_total,2026-11-28,4,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,post_launch_reviews_total,2026-11-29,5,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,post_launch_reviews_total,2026-11-30,6,,not_collected,
+5510420,Dead by Daylight: Terrifier,2026-11-24,post_launch_reviews_total,2026-12-01,7,,not_collected,
 5056390,Dead of the Brain,2026-10-30,pre_launch_wishlist_rank,2026-10-23,-7,,not_in_captured_wishlist_ranking,
 5056390,Dead of the Brain,2026-10-30,pre_launch_wishlist_rank,2026-10-24,-6,,not_in_captured_wishlist_ranking,
 5056390,Dead of the Brain,2026-10-30,pre_launch_wishlist_rank,2026-10-25,-5,,not_in_captured_wishlist_ranking,
@@ -4214,6 +4259,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4376930,Disney Dreamlight Valley: Honeyglow Woods,2026-07-08,post_launch_reviews_total,2026-07-13,5,,not_collected,
 4376930,Disney Dreamlight Valley: Honeyglow Woods,2026-07-08,post_launch_reviews_total,2026-07-14,6,,not_collected,
 4376930,Disney Dreamlight Valley: Honeyglow Woods,2026-07-08,post_launch_reviews_total,2026-07-15,7,,not_collected,
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,pre_launch_wishlist_rank,2026-11-11,-7,1322,ok,2026-11-11T08:16:44.931Z
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,pre_launch_wishlist_rank,2026-11-12,-6,1290,ok,2026-11-12T08:46:44.938Z
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,pre_launch_wishlist_rank,2026-11-13,-5,1264,ok,2026-11-13T08:41:20.681Z
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,pre_launch_wishlist_rank,2026-11-14,-4,1240,ok,2026-11-14T07:57:29.283Z
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,pre_launch_wishlist_rank,2026-11-15,-3,,not_collected,
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,pre_launch_wishlist_rank,2026-11-16,-2,,not_collected,
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,pre_launch_wishlist_rank,2026-11-17,-1,,not_collected,
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,post_launch_reviews_total,2026-11-18,0,,not_collected,
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,post_launch_reviews_total,2026-11-19,1,,not_collected,
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,post_launch_reviews_total,2026-11-20,2,,not_collected,
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,post_launch_reviews_total,2026-11-21,3,,not_collected,
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,post_launch_reviews_total,2026-11-22,4,,not_collected,
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,post_launch_reviews_total,2026-11-23,5,,not_collected,
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,post_launch_reviews_total,2026-11-24,6,,not_collected,
+5090170,Disney Dreamlight Valley: The Keepsake Sea,2026-11-18,post_launch_reviews_total,2026-11-25,7,,not_collected,
 4049180,Disney/Pixar Toy Story 3 Complete Edition,2026-10-15,pre_launch_wishlist_rank,2026-10-08,-7,464,ok,2026-10-08T07:56:54.898Z
 4049180,Disney/Pixar Toy Story 3 Complete Edition,2026-10-15,pre_launch_wishlist_rank,2026-10-09,-6,452,ok,2026-10-09T07:57:18.333Z
 4049180,Disney/Pixar Toy Story 3 Complete Edition,2026-10-15,pre_launch_wishlist_rank,2026-10-10,-5,428,ok,2026-10-10T07:41:25.939Z
@@ -4730,7 +4790,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 5200620,Dungeonbound,2026-11-15,pre_launch_wishlist_rank,2026-11-11,-4,778,ok,2026-11-11T08:16:44.931Z
 5200620,Dungeonbound,2026-11-15,pre_launch_wishlist_rank,2026-11-12,-3,726,ok,2026-11-12T08:46:44.938Z
 5200620,Dungeonbound,2026-11-15,pre_launch_wishlist_rank,2026-11-13,-2,676,ok,2026-11-13T08:41:20.681Z
-5200620,Dungeonbound,2026-11-15,pre_launch_wishlist_rank,2026-11-14,-1,,not_collected,
+5200620,Dungeonbound,2026-11-15,pre_launch_wishlist_rank,2026-11-14,-1,628,ok,2026-11-14T07:57:29.283Z
 5200620,Dungeonbound,2026-11-15,post_launch_reviews_total,2026-11-15,0,,not_collected,
 5200620,Dungeonbound,2026-11-15,post_launch_reviews_total,2026-11-16,1,,not_collected,
 5200620,Dungeonbound,2026-11-15,post_launch_reviews_total,2026-11-17,2,,not_collected,
@@ -6089,6 +6149,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4132890,Fright Train,2026-09-15,post_launch_reviews_total,2026-09-20,5,,not_collected,
 4132890,Fright Train,2026-09-15,post_launch_reviews_total,2026-09-21,6,,not_collected,
 4132890,Fright Train,2026-09-15,post_launch_reviews_total,2026-09-22,7,,not_collected,
+5395920,Frog Collector,2026-11-18,pre_launch_wishlist_rank,2026-11-11,-7,,not_in_captured_wishlist_ranking,
+5395920,Frog Collector,2026-11-18,pre_launch_wishlist_rank,2026-11-12,-6,,not_in_captured_wishlist_ranking,
+5395920,Frog Collector,2026-11-18,pre_launch_wishlist_rank,2026-11-13,-5,,not_in_captured_wishlist_ranking,
+5395920,Frog Collector,2026-11-18,pre_launch_wishlist_rank,2026-11-14,-4,,not_in_captured_wishlist_ranking,
+5395920,Frog Collector,2026-11-18,pre_launch_wishlist_rank,2026-11-15,-3,,not_collected,
+5395920,Frog Collector,2026-11-18,pre_launch_wishlist_rank,2026-11-16,-2,,not_collected,
+5395920,Frog Collector,2026-11-18,pre_launch_wishlist_rank,2026-11-17,-1,,not_collected,
+5395920,Frog Collector,2026-11-18,post_launch_reviews_total,2026-11-18,0,,not_collected,
+5395920,Frog Collector,2026-11-18,post_launch_reviews_total,2026-11-19,1,,not_collected,
+5395920,Frog Collector,2026-11-18,post_launch_reviews_total,2026-11-20,2,,not_collected,
+5395920,Frog Collector,2026-11-18,post_launch_reviews_total,2026-11-21,3,,not_collected,
+5395920,Frog Collector,2026-11-18,post_launch_reviews_total,2026-11-22,4,,not_collected,
+5395920,Frog Collector,2026-11-18,post_launch_reviews_total,2026-11-23,5,,not_collected,
+5395920,Frog Collector,2026-11-18,post_launch_reviews_total,2026-11-24,6,,not_collected,
+5395920,Frog Collector,2026-11-18,post_launch_reviews_total,2026-11-25,7,,not_collected,
 2332150,Frog Island,2026-08-20,pre_launch_wishlist_rank,2026-08-13,-7,,not_in_captured_wishlist_ranking,
 2332150,Frog Island,2026-08-20,pre_launch_wishlist_rank,2026-08-14,-6,,not_in_captured_wishlist_ranking,
 2332150,Frog Island,2026-08-20,pre_launch_wishlist_rank,2026-08-15,-5,,not_in_captured_wishlist_ranking,
@@ -6586,7 +6661,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4919380,Grand Theft Idiots,2026-10-19,post_launch_reviews_total,2026-10-26,7,,not_collected,
 4928450,Grand Theft Timeline,2026-11-19,pre_launch_wishlist_rank,2026-11-12,-7,314,ok,2026-11-12T08:46:44.938Z
 4928450,Grand Theft Timeline,2026-11-19,pre_launch_wishlist_rank,2026-11-13,-6,311,ok,2026-11-13T08:41:20.681Z
-4928450,Grand Theft Timeline,2026-11-19,pre_launch_wishlist_rank,2026-11-14,-5,,not_collected,
+4928450,Grand Theft Timeline,2026-11-19,pre_launch_wishlist_rank,2026-11-14,-5,307,ok,2026-11-14T07:57:29.283Z
 4928450,Grand Theft Timeline,2026-11-19,pre_launch_wishlist_rank,2026-11-15,-4,,not_collected,
 4928450,Grand Theft Timeline,2026-11-19,pre_launch_wishlist_rank,2026-11-16,-3,,not_collected,
 4928450,Grand Theft Timeline,2026-11-19,pre_launch_wishlist_rank,2026-11-17,-2,,not_collected,
@@ -6919,7 +6994,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 2483700,HARMA,2026-11-16,pre_launch_wishlist_rank,2026-11-11,-5,1605,ok,2026-11-11T08:16:44.931Z
 2483700,HARMA,2026-11-16,pre_launch_wishlist_rank,2026-11-12,-4,1583,ok,2026-11-12T08:46:44.938Z
 2483700,HARMA,2026-11-16,pre_launch_wishlist_rank,2026-11-13,-3,1535,ok,2026-11-13T08:41:20.681Z
-2483700,HARMA,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,,not_collected,
+2483700,HARMA,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,1485,ok,2026-11-14T07:57:29.283Z
 2483700,HARMA,2026-11-16,pre_launch_wishlist_rank,2026-11-15,-1,,not_collected,
 2483700,HARMA,2026-11-16,post_launch_reviews_total,2026-11-16,0,,not_collected,
 2483700,HARMA,2026-11-16,post_launch_reviews_total,2026-11-17,1,,not_collected,
@@ -7084,7 +7159,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 5066010,Here Comes the Horde,2026-11-16,pre_launch_wishlist_rank,2026-11-11,-5,1778,ok,2026-11-11T08:16:44.931Z
 5066010,Here Comes the Horde,2026-11-16,pre_launch_wishlist_rank,2026-11-12,-4,1707,ok,2026-11-12T08:46:44.938Z
 5066010,Here Comes the Horde,2026-11-16,pre_launch_wishlist_rank,2026-11-13,-3,1646,ok,2026-11-13T08:41:20.681Z
-5066010,Here Comes the Horde,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,,not_collected,
+5066010,Here Comes the Horde,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,1579,ok,2026-11-14T07:57:29.283Z
 5066010,Here Comes the Horde,2026-11-16,pre_launch_wishlist_rank,2026-11-15,-1,,not_collected,
 5066010,Here Comes the Horde,2026-11-16,post_launch_reviews_total,2026-11-16,0,,not_collected,
 5066010,Here Comes the Horde,2026-11-16,post_launch_reviews_total,2026-11-17,1,,not_collected,
@@ -8150,7 +8225,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 5318580,Jyoka -Castle town-,2026-11-15,pre_launch_wishlist_rank,2026-11-11,-4,,not_in_captured_wishlist_ranking,
 5318580,Jyoka -Castle town-,2026-11-15,pre_launch_wishlist_rank,2026-11-12,-3,,not_in_captured_wishlist_ranking,
 5318580,Jyoka -Castle town-,2026-11-15,pre_launch_wishlist_rank,2026-11-13,-2,,not_in_captured_wishlist_ranking,
-5318580,Jyoka -Castle town-,2026-11-15,pre_launch_wishlist_rank,2026-11-14,-1,,not_collected,
+5318580,Jyoka -Castle town-,2026-11-15,pre_launch_wishlist_rank,2026-11-14,-1,,not_in_captured_wishlist_ranking,
 5318580,Jyoka -Castle town-,2026-11-15,post_launch_reviews_total,2026-11-15,0,,not_collected,
 5318580,Jyoka -Castle town-,2026-11-15,post_launch_reviews_total,2026-11-16,1,,not_collected,
 5318580,Jyoka -Castle town-,2026-11-15,post_launch_reviews_total,2026-11-17,2,,not_collected,
@@ -8714,6 +8789,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 5024540,LIMP MODE,2026-10-15,post_launch_reviews_total,2026-10-20,5,,not_collected,
 5024540,LIMP MODE,2026-10-15,post_launch_reviews_total,2026-10-21,6,,not_collected,
 5024540,LIMP MODE,2026-10-15,post_launch_reviews_total,2026-10-22,7,,not_collected,
+5375410,Link Loop,2026-11-17,pre_launch_wishlist_rank,2026-11-10,-7,,not_in_captured_wishlist_ranking,
+5375410,Link Loop,2026-11-17,pre_launch_wishlist_rank,2026-11-11,-6,1941,ok,2026-11-11T08:16:44.931Z
+5375410,Link Loop,2026-11-17,pre_launch_wishlist_rank,2026-11-12,-5,1881,ok,2026-11-12T08:46:44.938Z
+5375410,Link Loop,2026-11-17,pre_launch_wishlist_rank,2026-11-13,-4,1827,ok,2026-11-13T08:41:20.681Z
+5375410,Link Loop,2026-11-17,pre_launch_wishlist_rank,2026-11-14,-3,1788,ok,2026-11-14T07:57:29.283Z
+5375410,Link Loop,2026-11-17,pre_launch_wishlist_rank,2026-11-15,-2,,not_collected,
+5375410,Link Loop,2026-11-17,pre_launch_wishlist_rank,2026-11-16,-1,,not_collected,
+5375410,Link Loop,2026-11-17,post_launch_reviews_total,2026-11-17,0,,not_collected,
+5375410,Link Loop,2026-11-17,post_launch_reviews_total,2026-11-18,1,,not_collected,
+5375410,Link Loop,2026-11-17,post_launch_reviews_total,2026-11-19,2,,not_collected,
+5375410,Link Loop,2026-11-17,post_launch_reviews_total,2026-11-20,3,,not_collected,
+5375410,Link Loop,2026-11-17,post_launch_reviews_total,2026-11-21,4,,not_collected,
+5375410,Link Loop,2026-11-17,post_launch_reviews_total,2026-11-22,5,,not_collected,
+5375410,Link Loop,2026-11-17,post_launch_reviews_total,2026-11-23,6,,not_collected,
+5375410,Link Loop,2026-11-17,post_launch_reviews_total,2026-11-24,7,,not_collected,
 896250,Liquidation,2026-08-04,pre_launch_wishlist_rank,2026-07-28,-7,1490,ok,2026-07-28T04:45:52.627Z
 896250,Liquidation,2026-08-04,pre_launch_wishlist_rank,2026-07-29,-6,1441,ok,2026-07-29T04:50:58.767Z
 896250,Liquidation,2026-08-04,pre_launch_wishlist_rank,2026-07-30,-5,1393,ok,2026-07-30T04:38:29.620Z
@@ -8729,6 +8819,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 896250,Liquidation,2026-08-04,post_launch_reviews_total,2026-08-09,5,,not_collected,
 896250,Liquidation,2026-08-04,post_launch_reviews_total,2026-08-10,6,,not_collected,
 896250,Liquidation,2026-08-04,post_launch_reviews_total,2026-08-11,7,,not_collected,
+2083660,Littlelands,2026-11-16,pre_launch_wishlist_rank,2026-11-09,-7,787,ok,2026-11-09T08:36:46.632Z
+2083660,Littlelands,2026-11-16,pre_launch_wishlist_rank,2026-11-10,-6,777,ok,2026-11-10T08:47:15.094Z
+2083660,Littlelands,2026-11-16,pre_launch_wishlist_rank,2026-11-11,-5,762,ok,2026-11-11T08:16:44.931Z
+2083660,Littlelands,2026-11-16,pre_launch_wishlist_rank,2026-11-12,-4,759,ok,2026-11-12T08:46:44.938Z
+2083660,Littlelands,2026-11-16,pre_launch_wishlist_rank,2026-11-13,-3,750,ok,2026-11-13T08:41:20.681Z
+2083660,Littlelands,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,743,ok,2026-11-14T07:57:29.283Z
+2083660,Littlelands,2026-11-16,pre_launch_wishlist_rank,2026-11-15,-1,,not_collected,
+2083660,Littlelands,2026-11-16,post_launch_reviews_total,2026-11-16,0,,not_collected,
+2083660,Littlelands,2026-11-16,post_launch_reviews_total,2026-11-17,1,,not_collected,
+2083660,Littlelands,2026-11-16,post_launch_reviews_total,2026-11-18,2,,not_collected,
+2083660,Littlelands,2026-11-16,post_launch_reviews_total,2026-11-19,3,,not_collected,
+2083660,Littlelands,2026-11-16,post_launch_reviews_total,2026-11-20,4,,not_collected,
+2083660,Littlelands,2026-11-16,post_launch_reviews_total,2026-11-21,5,,not_collected,
+2083660,Littlelands,2026-11-16,post_launch_reviews_total,2026-11-22,6,,not_collected,
+2083660,Littlelands,2026-11-16,post_launch_reviews_total,2026-11-23,7,,not_collected,
 2320980,Loftia,2026-11-03,pre_launch_wishlist_rank,2026-10-27,-7,136,ok,2026-10-27T06:46:16.083Z
 2320980,Loftia,2026-11-03,pre_launch_wishlist_rank,2026-10-28,-6,136,ok,2026-10-28T07:17:32.250Z
 2320980,Loftia,2026-11-03,pre_launch_wishlist_rank,2026-10-29,-5,134,ok,2026-10-29T07:37:23.187Z
@@ -8791,7 +8896,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3091140,Lootbound,2026-08-14,post_launch_reviews_total,2026-08-21,7,,not_collected,
 4018330,Lord of Undead,2026-11-19,pre_launch_wishlist_rank,2026-11-12,-7,875,ok,2026-11-12T08:46:44.938Z
 4018330,Lord of Undead,2026-11-19,pre_launch_wishlist_rank,2026-11-13,-6,850,ok,2026-11-13T08:41:20.681Z
-4018330,Lord of Undead,2026-11-19,pre_launch_wishlist_rank,2026-11-14,-5,,not_collected,
+4018330,Lord of Undead,2026-11-19,pre_launch_wishlist_rank,2026-11-14,-5,833,ok,2026-11-14T07:57:29.283Z
 4018330,Lord of Undead,2026-11-19,pre_launch_wishlist_rank,2026-11-15,-4,,not_collected,
 4018330,Lord of Undead,2026-11-19,pre_launch_wishlist_rank,2026-11-16,-3,,not_collected,
 4018330,Lord of Undead,2026-11-19,pre_launch_wishlist_rank,2026-11-17,-2,,not_collected,
@@ -9393,7 +9498,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3218350,Melvor Idle 2: A RuneScape Adventure,2026-11-17,pre_launch_wishlist_rank,2026-11-11,-6,261,ok,2026-11-11T08:16:44.931Z
 3218350,Melvor Idle 2: A RuneScape Adventure,2026-11-17,pre_launch_wishlist_rank,2026-11-12,-5,258,ok,2026-11-12T08:46:44.938Z
 3218350,Melvor Idle 2: A RuneScape Adventure,2026-11-17,pre_launch_wishlist_rank,2026-11-13,-4,251,ok,2026-11-13T08:41:20.681Z
-3218350,Melvor Idle 2: A RuneScape Adventure,2026-11-17,pre_launch_wishlist_rank,2026-11-14,-3,,not_collected,
+3218350,Melvor Idle 2: A RuneScape Adventure,2026-11-17,pre_launch_wishlist_rank,2026-11-14,-3,250,ok,2026-11-14T07:57:29.283Z
 3218350,Melvor Idle 2: A RuneScape Adventure,2026-11-17,pre_launch_wishlist_rank,2026-11-15,-2,,not_collected,
 3218350,Melvor Idle 2: A RuneScape Adventure,2026-11-17,pre_launch_wishlist_rank,2026-11-16,-1,,not_collected,
 3218350,Melvor Idle 2: A RuneScape Adventure,2026-11-17,post_launch_reviews_total,2026-11-17,0,,not_collected,
@@ -9558,7 +9663,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4259360,Milki Delivery,2026-11-17,pre_launch_wishlist_rank,2026-11-11,-6,539,ok,2026-11-11T08:16:44.931Z
 4259360,Milki Delivery,2026-11-17,pre_launch_wishlist_rank,2026-11-12,-5,531,ok,2026-11-12T08:46:44.938Z
 4259360,Milki Delivery,2026-11-17,pre_launch_wishlist_rank,2026-11-13,-4,522,ok,2026-11-13T08:41:20.681Z
-4259360,Milki Delivery,2026-11-17,pre_launch_wishlist_rank,2026-11-14,-3,,not_collected,
+4259360,Milki Delivery,2026-11-17,pre_launch_wishlist_rank,2026-11-14,-3,512,ok,2026-11-14T07:57:29.283Z
 4259360,Milki Delivery,2026-11-17,pre_launch_wishlist_rank,2026-11-15,-2,,not_collected,
 4259360,Milki Delivery,2026-11-17,pre_launch_wishlist_rank,2026-11-16,-1,,not_collected,
 4259360,Milki Delivery,2026-11-17,post_launch_reviews_total,2026-11-17,0,,not_collected,
@@ -9809,6 +9914,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4013510,Monster Alchemy,2026-09-10,post_launch_reviews_total,2026-09-15,5,,not_collected,
 4013510,Monster Alchemy,2026-09-10,post_launch_reviews_total,2026-09-16,6,,not_collected,
 4013510,Monster Alchemy,2026-09-10,post_launch_reviews_total,2026-09-17,7,,not_collected,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,pre_launch_wishlist_rank,2026-11-08,-7,,not_in_captured_wishlist_ranking,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,pre_launch_wishlist_rank,2026-11-09,-6,,not_in_captured_wishlist_ranking,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,pre_launch_wishlist_rank,2026-11-10,-5,,not_in_captured_wishlist_ranking,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,pre_launch_wishlist_rank,2026-11-11,-4,,not_in_captured_wishlist_ranking,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,pre_launch_wishlist_rank,2026-11-12,-3,,not_in_captured_wishlist_ranking,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,pre_launch_wishlist_rank,2026-11-13,-2,,not_in_captured_wishlist_ranking,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,pre_launch_wishlist_rank,2026-11-14,-1,,not_in_captured_wishlist_ranking,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,post_launch_reviews_total,2026-11-15,0,,not_collected,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,post_launch_reviews_total,2026-11-16,1,,not_collected,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,post_launch_reviews_total,2026-11-17,2,,not_collected,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,post_launch_reviews_total,2026-11-18,3,,not_collected,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,post_launch_reviews_total,2026-11-19,4,,not_collected,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,post_launch_reviews_total,2026-11-20,5,,not_collected,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,post_launch_reviews_total,2026-11-21,6,,not_collected,
+5110520,Monster Girls Survival & Craft 2040,2026-11-15,post_launch_reviews_total,2026-11-22,7,,not_collected,
 4739980,Monster Train 2: The Punished,2026-11-10,pre_launch_wishlist_rank,2026-11-03,-7,,not_in_captured_wishlist_ranking,
 4739980,Monster Train 2: The Punished,2026-11-10,pre_launch_wishlist_rank,2026-11-04,-6,,not_in_captured_wishlist_ranking,
 4739980,Monster Train 2: The Punished,2026-11-10,pre_launch_wishlist_rank,2026-11-05,-5,,not_in_captured_wishlist_ranking,
@@ -9979,7 +10099,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3188660,Motocross The Game,2026-11-16,pre_launch_wishlist_rank,2026-11-11,-5,820,ok,2026-11-11T08:16:44.931Z
 3188660,Motocross The Game,2026-11-16,pre_launch_wishlist_rank,2026-11-12,-4,807,ok,2026-11-12T08:46:44.938Z
 3188660,Motocross The Game,2026-11-16,pre_launch_wishlist_rank,2026-11-13,-3,789,ok,2026-11-13T08:41:20.681Z
-3188660,Motocross The Game,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,,not_collected,
+3188660,Motocross The Game,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,779,ok,2026-11-14T07:57:29.283Z
 3188660,Motocross The Game,2026-11-16,pre_launch_wishlist_rank,2026-11-15,-1,,not_collected,
 3188660,Motocross The Game,2026-11-16,post_launch_reviews_total,2026-11-16,0,,not_collected,
 3188660,Motocross The Game,2026-11-16,post_launch_reviews_total,2026-11-17,1,,not_collected,
@@ -10052,7 +10172,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 5005700,MUV-LUV GIRLS GARDEN Mellow Days,2026-11-18,pre_launch_wishlist_rank,2026-11-11,-7,1838,ok,2026-11-11T08:16:44.931Z
 5005700,MUV-LUV GIRLS GARDEN Mellow Days,2026-11-18,pre_launch_wishlist_rank,2026-11-12,-6,1786,ok,2026-11-12T08:46:44.938Z
 5005700,MUV-LUV GIRLS GARDEN Mellow Days,2026-11-18,pre_launch_wishlist_rank,2026-11-13,-5,1732,ok,2026-11-13T08:41:20.681Z
-5005700,MUV-LUV GIRLS GARDEN Mellow Days,2026-11-18,pre_launch_wishlist_rank,2026-11-14,-4,,not_collected,
+5005700,MUV-LUV GIRLS GARDEN Mellow Days,2026-11-18,pre_launch_wishlist_rank,2026-11-14,-4,1693,ok,2026-11-14T07:57:29.283Z
 5005700,MUV-LUV GIRLS GARDEN Mellow Days,2026-11-18,pre_launch_wishlist_rank,2026-11-15,-3,,not_collected,
 5005700,MUV-LUV GIRLS GARDEN Mellow Days,2026-11-18,pre_launch_wishlist_rank,2026-11-16,-2,,not_collected,
 5005700,MUV-LUV GIRLS GARDEN Mellow Days,2026-11-18,pre_launch_wishlist_rank,2026-11-17,-1,,not_collected,
@@ -10349,8 +10469,23 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4373150,Nerds Revenge,2026-07-07,post_launch_reviews_total,2026-07-12,5,,not_collected,
 4373150,Nerds Revenge,2026-07-07,post_launch_reviews_total,2026-07-13,6,,not_collected,
 4373150,Nerds Revenge,2026-07-07,post_launch_reviews_total,2026-07-14,7,,not_collected,
+4878900,Net Worthless,2026-11-16,pre_launch_wishlist_rank,2026-11-09,-7,,not_in_captured_wishlist_ranking,
+4878900,Net Worthless,2026-11-16,pre_launch_wishlist_rank,2026-11-10,-6,,not_in_captured_wishlist_ranking,
+4878900,Net Worthless,2026-11-16,pre_launch_wishlist_rank,2026-11-11,-5,,not_in_captured_wishlist_ranking,
+4878900,Net Worthless,2026-11-16,pre_launch_wishlist_rank,2026-11-12,-4,,not_in_captured_wishlist_ranking,
+4878900,Net Worthless,2026-11-16,pre_launch_wishlist_rank,2026-11-13,-3,,not_in_captured_wishlist_ranking,
+4878900,Net Worthless,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,,not_in_captured_wishlist_ranking,
+4878900,Net Worthless,2026-11-16,pre_launch_wishlist_rank,2026-11-15,-1,,not_collected,
+4878900,Net Worthless,2026-11-16,post_launch_reviews_total,2026-11-16,0,,not_collected,
+4878900,Net Worthless,2026-11-16,post_launch_reviews_total,2026-11-17,1,,not_collected,
+4878900,Net Worthless,2026-11-16,post_launch_reviews_total,2026-11-18,2,,not_collected,
+4878900,Net Worthless,2026-11-16,post_launch_reviews_total,2026-11-19,3,,not_collected,
+4878900,Net Worthless,2026-11-16,post_launch_reviews_total,2026-11-20,4,,not_collected,
+4878900,Net Worthless,2026-11-16,post_launch_reviews_total,2026-11-21,5,,not_collected,
+4878900,Net Worthless,2026-11-16,post_launch_reviews_total,2026-11-22,6,,not_collected,
+4878900,Net Worthless,2026-11-16,post_launch_reviews_total,2026-11-23,7,,not_collected,
 4986050,Network & Cyber Security Simulator,2026-11-20,pre_launch_wishlist_rank,2026-11-13,-7,1893,ok,2026-11-13T08:41:20.681Z
-4986050,Network & Cyber Security Simulator,2026-11-20,pre_launch_wishlist_rank,2026-11-14,-6,,not_collected,
+4986050,Network & Cyber Security Simulator,2026-11-20,pre_launch_wishlist_rank,2026-11-14,-6,1813,ok,2026-11-14T07:57:29.283Z
 4986050,Network & Cyber Security Simulator,2026-11-20,pre_launch_wishlist_rank,2026-11-15,-5,,not_collected,
 4986050,Network & Cyber Security Simulator,2026-11-20,pre_launch_wishlist_rank,2026-11-16,-4,,not_collected,
 4986050,Network & Cyber Security Simulator,2026-11-20,pre_launch_wishlist_rank,2026-11-17,-3,,not_collected,
@@ -10679,6 +10814,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4508340,NTE: Neverness to Everness,2026-07-07,post_launch_reviews_total,2026-07-12,5,,not_collected,
 4508340,NTE: Neverness to Everness,2026-07-07,post_launch_reviews_total,2026-07-13,6,,not_collected,
 4508340,NTE: Neverness to Everness,2026-07-07,post_launch_reviews_total,2026-07-14,7,,not_collected,
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,pre_launch_wishlist_rank,2026-11-09,-7,1768,ok,2026-11-09T08:36:46.632Z
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,pre_launch_wishlist_rank,2026-11-10,-6,1754,ok,2026-11-10T08:47:15.094Z
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,pre_launch_wishlist_rank,2026-11-11,-5,1713,ok,2026-11-11T08:16:44.931Z
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,pre_launch_wishlist_rank,2026-11-12,-4,1633,ok,2026-11-12T08:46:44.938Z
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,pre_launch_wishlist_rank,2026-11-13,-3,1575,ok,2026-11-13T08:41:20.681Z
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,1510,ok,2026-11-14T07:57:29.283Z
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,pre_launch_wishlist_rank,2026-11-15,-1,,not_collected,
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,post_launch_reviews_total,2026-11-16,0,,not_collected,
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,post_launch_reviews_total,2026-11-17,1,,not_collected,
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,post_launch_reviews_total,2026-11-18,2,,not_collected,
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,post_launch_reviews_total,2026-11-19,3,,not_collected,
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,post_launch_reviews_total,2026-11-20,4,,not_collected,
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,post_launch_reviews_total,2026-11-21,5,,not_collected,
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,post_launch_reviews_total,2026-11-22,6,,not_collected,
+4444800,Obey Me! Sinner's Choice: Lucifer,2026-11-16,post_launch_reviews_total,2026-11-23,7,,not_collected,
 4571030,Obey the Rules: Forest,2026-07-06,pre_launch_wishlist_rank,2026-06-29,-7,,not_collected,
 4571030,Obey the Rules: Forest,2026-07-06,pre_launch_wishlist_rank,2026-06-30,-6,,not_collected,
 4571030,Obey the Rules: Forest,2026-07-06,pre_launch_wishlist_rank,2026-07-01,-5,,not_collected,
@@ -12059,6 +12209,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4540330,Re:Born Isekai Company,2026-07-05,post_launch_reviews_total,2026-07-10,5,,not_collected,
 4540330,Re:Born Isekai Company,2026-07-05,post_launch_reviews_total,2026-07-11,6,,not_collected,
 4540330,Re:Born Isekai Company,2026-07-05,post_launch_reviews_total,2026-07-12,7,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,pre_launch_wishlist_rank,2026-11-17,-7,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,pre_launch_wishlist_rank,2026-11-18,-6,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,pre_launch_wishlist_rank,2026-11-19,-5,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,pre_launch_wishlist_rank,2026-11-20,-4,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,pre_launch_wishlist_rank,2026-11-21,-3,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,pre_launch_wishlist_rank,2026-11-22,-2,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,pre_launch_wishlist_rank,2026-11-23,-1,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,post_launch_reviews_total,2026-11-24,0,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,post_launch_reviews_total,2026-11-25,1,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,post_launch_reviews_total,2026-11-26,2,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,post_launch_reviews_total,2026-11-27,3,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,post_launch_reviews_total,2026-11-28,4,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,post_launch_reviews_total,2026-11-29,5,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,post_launch_reviews_total,2026-11-30,6,,not_collected,
+4877420,Rec Room: A New Semester,2026-11-24,post_launch_reviews_total,2026-12-01,7,,not_collected,
 3354130,Recurrence,2026-09-25,pre_launch_wishlist_rank,2026-09-18,-7,,not_in_captured_wishlist_ranking,
 3354130,Recurrence,2026-09-25,pre_launch_wishlist_rank,2026-09-19,-6,,not_in_captured_wishlist_ranking,
 3354130,Recurrence,2026-09-25,pre_launch_wishlist_rank,2026-09-20,-5,,not_in_captured_wishlist_ranking,
@@ -12345,7 +12510,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4262460,ROB RUN,2026-11-04,post_launch_reviews_total,2026-11-10,6,,not_collected,
 4262460,ROB RUN,2026-11-04,post_launch_reviews_total,2026-11-11,7,,not_collected,
 4697880,Rock Band Simulator,2026-11-20,pre_launch_wishlist_rank,2026-11-13,-7,940,ok,2026-11-13T08:41:20.681Z
-4697880,Rock Band Simulator,2026-11-20,pre_launch_wishlist_rank,2026-11-14,-6,,not_collected,
+4697880,Rock Band Simulator,2026-11-20,pre_launch_wishlist_rank,2026-11-14,-6,903,ok,2026-11-14T07:57:29.283Z
 4697880,Rock Band Simulator,2026-11-20,pre_launch_wishlist_rank,2026-11-15,-5,,not_collected,
 4697880,Rock Band Simulator,2026-11-20,pre_launch_wishlist_rank,2026-11-16,-4,,not_collected,
 4697880,Rock Band Simulator,2026-11-20,pre_launch_wishlist_rank,2026-11-17,-3,,not_collected,
@@ -13409,21 +13574,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4323130,Sniper Camouflage Orange Spy Warrior I Buried Two Bodies in the Garden and the Police Haven't Figured Out Yet That They're Missing Because They Were a Lonely Old Couple Who Had No Relatives Simulator 2026,2026-08-26,post_launch_reviews_total,2026-08-31,5,,not_collected,
 4323130,Sniper Camouflage Orange Spy Warrior I Buried Two Bodies in the Garden and the Police Haven't Figured Out Yet That They're Missing Because They Were a Lonely Old Couple Who Had No Relatives Simulator 2026,2026-08-26,post_launch_reviews_total,2026-09-01,6,,not_collected,
 4323130,Sniper Camouflage Orange Spy Warrior I Buried Two Bodies in the Garden and the Police Haven't Figured Out Yet That They're Missing Because They Were a Lonely Old Couple Who Had No Relatives Simulator 2026,2026-08-26,post_launch_reviews_total,2026-09-02,7,,not_collected,
-4528040,Sol One,2026-11-13,pre_launch_wishlist_rank,2026-11-06,-7,1254,ok,2026-11-06T08:27:18.090Z
-4528040,Sol One,2026-11-13,pre_launch_wishlist_rank,2026-11-07,-6,1215,ok,2026-11-07T07:42:41.212Z
-4528040,Sol One,2026-11-13,pre_launch_wishlist_rank,2026-11-08,-5,1167,ok,2026-11-08T07:53:27.770Z
-4528040,Sol One,2026-11-13,pre_launch_wishlist_rank,2026-11-09,-4,1089,ok,2026-11-09T08:36:46.632Z
-4528040,Sol One,2026-11-13,pre_launch_wishlist_rank,2026-11-10,-3,1025,ok,2026-11-10T08:47:15.094Z
-4528040,Sol One,2026-11-13,pre_launch_wishlist_rank,2026-11-11,-2,981,ok,2026-11-11T08:16:44.931Z
-4528040,Sol One,2026-11-13,pre_launch_wishlist_rank,2026-11-12,-1,919,ok,2026-11-12T08:46:44.938Z
-4528040,Sol One,2026-11-13,post_launch_reviews_total,2026-11-13,0,,not_collected,2026-11-13T08:41:20.681Z
-4528040,Sol One,2026-11-13,post_launch_reviews_total,2026-11-14,1,,not_collected,
-4528040,Sol One,2026-11-13,post_launch_reviews_total,2026-11-15,2,,not_collected,
-4528040,Sol One,2026-11-13,post_launch_reviews_total,2026-11-16,3,,not_collected,
-4528040,Sol One,2026-11-13,post_launch_reviews_total,2026-11-17,4,,not_collected,
-4528040,Sol One,2026-11-13,post_launch_reviews_total,2026-11-18,5,,not_collected,
-4528040,Sol One,2026-11-13,post_launch_reviews_total,2026-11-19,6,,not_collected,
-4528040,Sol One,2026-11-13,post_launch_reviews_total,2026-11-20,7,,not_collected,
+4528040,Sol One,2026-11-01,pre_launch_wishlist_rank,2026-10-25,-7,1675,ok,2026-10-25T06:42:08.477Z
+4528040,Sol One,2026-11-01,pre_launch_wishlist_rank,2026-10-26,-6,1643,ok,2026-10-26T06:52:03.816Z
+4528040,Sol One,2026-11-01,pre_launch_wishlist_rank,2026-10-27,-5,1601,ok,2026-10-27T06:46:16.083Z
+4528040,Sol One,2026-11-01,pre_launch_wishlist_rank,2026-10-28,-4,1575,ok,2026-10-28T07:17:32.250Z
+4528040,Sol One,2026-11-01,pre_launch_wishlist_rank,2026-10-29,-3,1538,ok,2026-10-29T07:37:23.187Z
+4528040,Sol One,2026-11-01,pre_launch_wishlist_rank,2026-10-30,-2,1500,ok,2026-10-30T07:41:21.911Z
+4528040,Sol One,2026-11-01,pre_launch_wishlist_rank,2026-10-31,-1,1470,ok,2026-10-31T07:27:13.130Z
+4528040,Sol One,2026-11-01,post_launch_reviews_total,2026-11-01,0,,not_collected,
+4528040,Sol One,2026-11-01,post_launch_reviews_total,2026-11-02,1,,not_collected,
+4528040,Sol One,2026-11-01,post_launch_reviews_total,2026-11-03,2,,not_collected,
+4528040,Sol One,2026-11-01,post_launch_reviews_total,2026-11-04,3,,not_collected,
+4528040,Sol One,2026-11-01,post_launch_reviews_total,2026-11-05,4,,not_collected,
+4528040,Sol One,2026-11-01,post_launch_reviews_total,2026-11-06,5,,not_collected,
+4528040,Sol One,2026-11-01,post_launch_reviews_total,2026-11-07,6,,not_collected,
+4528040,Sol One,2026-11-01,post_launch_reviews_total,2026-11-08,7,,not_collected,
 4124920,Some of You May Die,2026-07-24,pre_launch_wishlist_rank,2026-07-17,-7,,not_in_captured_wishlist_ranking,
 4124920,Some of You May Die,2026-07-24,pre_launch_wishlist_rank,2026-07-18,-6,,not_in_captured_wishlist_ranking,
 4124920,Some of You May Die,2026-07-24,pre_launch_wishlist_rank,2026-07-19,-5,,not_in_captured_wishlist_ranking,
@@ -13684,7 +13849,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 2321960,Spirit Crossing,2026-11-16,pre_launch_wishlist_rank,2026-11-11,-5,456,ok,2026-11-11T08:16:44.931Z
 2321960,Spirit Crossing,2026-11-16,pre_launch_wishlist_rank,2026-11-12,-4,444,ok,2026-11-12T08:46:44.938Z
 2321960,Spirit Crossing,2026-11-16,pre_launch_wishlist_rank,2026-11-13,-3,432,ok,2026-11-13T08:41:20.681Z
-2321960,Spirit Crossing,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,,not_collected,
+2321960,Spirit Crossing,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,427,ok,2026-11-14T07:57:29.283Z
 2321960,Spirit Crossing,2026-11-16,pre_launch_wishlist_rank,2026-11-15,-1,,not_collected,
 2321960,Spirit Crossing,2026-11-16,post_launch_reviews_total,2026-11-16,0,,not_collected,
 2321960,Spirit Crossing,2026-11-16,post_launch_reviews_total,2026-11-17,1,,not_collected,
@@ -15104,6 +15269,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3804370,The Piper of Dawn,2026-09-22,post_launch_reviews_total,2026-09-27,5,,not_collected,
 3804370,The Piper of Dawn,2026-09-22,post_launch_reviews_total,2026-09-28,6,,not_collected,
 3804370,The Piper of Dawn,2026-09-22,post_launch_reviews_total,2026-09-29,7,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,pre_launch_wishlist_rank,2026-12-01,-7,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,pre_launch_wishlist_rank,2026-12-02,-6,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,pre_launch_wishlist_rank,2026-12-03,-5,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,pre_launch_wishlist_rank,2026-12-04,-4,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,pre_launch_wishlist_rank,2026-12-05,-3,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,pre_launch_wishlist_rank,2026-12-06,-2,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,pre_launch_wishlist_rank,2026-12-07,-1,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,post_launch_reviews_total,2026-12-08,0,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,post_launch_reviews_total,2026-12-09,1,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,post_launch_reviews_total,2026-12-10,2,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,post_launch_reviews_total,2026-12-11,3,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,post_launch_reviews_total,2026-12-12,4,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,post_launch_reviews_total,2026-12-13,5,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,post_launch_reviews_total,2026-12-14,6,,not_collected,
+5478920,The Planet Crafter - Magnetaris,2026-12-08,post_launch_reviews_total,2026-12-15,7,,not_collected,
 2514330,The Rabbit Haul,2026-09-21,pre_launch_wishlist_rank,2026-09-14,-7,1612,ok,2026-09-14T06:55:36.774Z
 2514330,The Rabbit Haul,2026-09-21,pre_launch_wishlist_rank,2026-09-15,-6,1576,ok,2026-09-15T06:36:58.223Z
 2514330,The Rabbit Haul,2026-09-21,pre_launch_wishlist_rank,2026-09-16,-5,1559,ok,2026-09-16T06:38:04.072Z
@@ -15632,7 +15812,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3724300,Toto's Journey,2026-11-18,pre_launch_wishlist_rank,2026-11-11,-7,742,ok,2026-11-11T08:16:44.931Z
 3724300,Toto's Journey,2026-11-18,pre_launch_wishlist_rank,2026-11-12,-6,716,ok,2026-11-12T08:46:44.938Z
 3724300,Toto's Journey,2026-11-18,pre_launch_wishlist_rank,2026-11-13,-5,685,ok,2026-11-13T08:41:20.681Z
-3724300,Toto's Journey,2026-11-18,pre_launch_wishlist_rank,2026-11-14,-4,,not_collected,
+3724300,Toto's Journey,2026-11-18,pre_launch_wishlist_rank,2026-11-14,-4,656,ok,2026-11-14T07:57:29.283Z
 3724300,Toto's Journey,2026-11-18,pre_launch_wishlist_rank,2026-11-15,-3,,not_collected,
 3724300,Toto's Journey,2026-11-18,pre_launch_wishlist_rank,2026-11-16,-2,,not_collected,
 3724300,Toto's Journey,2026-11-18,pre_launch_wishlist_rank,2026-11-17,-1,,not_collected,
@@ -15784,7 +15964,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 5185750,Trafficity,2026-11-16,pre_launch_wishlist_rank,2026-11-11,-5,537,ok,2026-11-11T08:16:44.931Z
 5185750,Trafficity,2026-11-16,pre_launch_wishlist_rank,2026-11-12,-4,508,ok,2026-11-12T08:46:44.938Z
 5185750,Trafficity,2026-11-16,pre_launch_wishlist_rank,2026-11-13,-3,480,ok,2026-11-13T08:41:20.681Z
-5185750,Trafficity,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,,not_collected,
+5185750,Trafficity,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,455,ok,2026-11-14T07:57:29.283Z
 5185750,Trafficity,2026-11-16,pre_launch_wishlist_rank,2026-11-15,-1,,not_collected,
 5185750,Trafficity,2026-11-16,post_launch_reviews_total,2026-11-16,0,,not_collected,
 5185750,Trafficity,2026-11-16,post_launch_reviews_total,2026-11-17,1,,not_collected,
@@ -15859,7 +16039,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 4171850,Trees Hate You,2026-11-16,pre_launch_wishlist_rank,2026-11-11,-5,188,ok,2026-11-11T08:16:44.931Z
 4171850,Trees Hate You,2026-11-16,pre_launch_wishlist_rank,2026-11-12,-4,187,ok,2026-11-12T08:46:44.938Z
 4171850,Trees Hate You,2026-11-16,pre_launch_wishlist_rank,2026-11-13,-3,185,ok,2026-11-13T08:41:20.681Z
-4171850,Trees Hate You,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,,not_collected,
+4171850,Trees Hate You,2026-11-16,pre_launch_wishlist_rank,2026-11-14,-2,185,ok,2026-11-14T07:57:29.283Z
 4171850,Trees Hate You,2026-11-16,pre_launch_wishlist_rank,2026-11-15,-1,,not_collected,
 4171850,Trees Hate You,2026-11-16,post_launch_reviews_total,2026-11-16,0,,not_collected,
 4171850,Trees Hate You,2026-11-16,post_launch_reviews_total,2026-11-17,1,,not_collected,
@@ -16769,6 +16949,21 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 2315050,We Were Here Tomorrow,2026-10-20,post_launch_reviews_total,2026-10-25,5,,not_collected,
 2315050,We Were Here Tomorrow,2026-10-20,post_launch_reviews_total,2026-10-26,6,,not_collected,
 2315050,We Were Here Tomorrow,2026-10-20,post_launch_reviews_total,2026-10-27,7,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,pre_launch_wishlist_rank,2026-11-13,-7,1778,ok,2026-11-13T08:41:20.681Z
+4183130,WE'RE ALL IN!,2026-11-20,pre_launch_wishlist_rank,2026-11-14,-6,1709,ok,2026-11-14T07:57:29.283Z
+4183130,WE'RE ALL IN!,2026-11-20,pre_launch_wishlist_rank,2026-11-15,-5,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,pre_launch_wishlist_rank,2026-11-16,-4,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,pre_launch_wishlist_rank,2026-11-17,-3,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,pre_launch_wishlist_rank,2026-11-18,-2,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,pre_launch_wishlist_rank,2026-11-19,-1,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,post_launch_reviews_total,2026-11-20,0,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,post_launch_reviews_total,2026-11-21,1,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,post_launch_reviews_total,2026-11-22,2,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,post_launch_reviews_total,2026-11-23,3,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,post_launch_reviews_total,2026-11-24,4,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,post_launch_reviews_total,2026-11-25,5,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,post_launch_reviews_total,2026-11-26,6,,not_collected,
+4183130,WE'RE ALL IN!,2026-11-20,post_launch_reviews_total,2026-11-27,7,,not_collected,
 3195440,Welcome to Elderfield,2026-09-10,pre_launch_wishlist_rank,2026-09-03,-7,212,ok,2026-09-03T06:24:29.914Z
 3195440,Welcome to Elderfield,2026-09-10,pre_launch_wishlist_rank,2026-09-04,-6,207,ok,2026-09-04T06:29:29.304Z
 3195440,Welcome to Elderfield,2026-09-10,pre_launch_wishlist_rank,2026-09-05,-5,202,ok,2026-09-05T06:15:54.666Z
@@ -16937,7 +17132,7 @@ appid,name,release_date,metric,date,day_offset,value,status,captured_at
 3103620,Witch the Showdown,2026-11-18,pre_launch_wishlist_rank,2026-11-11,-7,1022,ok,2026-11-11T08:16:44.931Z
 3103620,Witch the Showdown,2026-11-18,pre_launch_wishlist_rank,2026-11-12,-6,1007,ok,2026-11-12T08:46:44.938Z
 3103620,Witch the Showdown,2026-11-18,pre_launch_wishlist_rank,2026-11-13,-5,983,ok,2026-11-13T08:41:20.681Z
-3103620,Witch the Showdown,2026-11-18,pre_launch_wishlist_rank,2026-11-14,-4,,not_collected,
+3103620,Witch the Showdown,2026-11-18,pre_launch_wishlist_rank,2026-11-14,-4,960,ok,2026-11-14T07:57:29.283Z
 3103620,Witch the Showdown,2026-11-18,pre_launch_wishlist_rank,2026-11-15,-3,,not_collected,
 3103620,Witch the Showdown,2026-11-18,pre_launch_wishlist_rank,2026-11-16,-2,,not_collected,
 3103620,Witch the Showdown,2026-11-18,pre_launch_wishlist_rank,2026-11-17,-1,,not_collected,
